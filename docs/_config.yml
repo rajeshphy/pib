@@ -1,0 +1,9 @@
+title: PIB
+description: A daily English digest of significant PIB regional updates.
+url: ""
+baseurl: "/pib"
+timezone: Asia/Kolkata
+future: false
+
+plugins:
+  - jekyll-feed
