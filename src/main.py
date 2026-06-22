@@ -195,7 +195,8 @@ Rules:
 - Keep every point factual and avoid adding facts not present in the headlines.
 - Do not include a heading.
 - Do not include inline links in the bullet points.
-- Format each point as: - **Short topic:** one concise sentence.
+- End every bullet with source numbers using this exact format: Sources: [1], [3]
+- Format each point as: - **Short topic:** one concise sentence. Sources: [1], [3]
 
 PIB page: {PIB_URL}
 
@@ -280,6 +281,56 @@ def yaml_escape(value: str) -> str:
     return json.dumps(value, ensure_ascii=False)
 
 
+def source_chips_html(source_numbers: list[int], items: list[NewsItem]) -> str:
+    valid_numbers = []
+    seen = set()
+    for number in source_numbers:
+        if number in seen or number < 1 or number > len(items):
+            continue
+        seen.add(number)
+        valid_numbers.append(number)
+    if not valid_numbers:
+        return ""
+
+    links = []
+    for number in valid_numbers:
+        item = items[number - 1]
+        url = html.escape(item.url, quote=True)
+        links.append(f'<a href="{url}">Source {number}</a>')
+    return f'<span class="source-chips">{" ".join(links)}</span>'
+
+
+def extract_source_numbers(text: str) -> tuple[str, list[int]]:
+    source_numbers = [int(match) for match in re.findall(r"\[(\d+)\]", text)]
+    text = re.sub(r"\s*Sources?:\s*(?:\[\d+\]\s*,?\s*)+$", "", text, flags=re.I)
+    text = re.sub(r"\s*(?:\[\d+\]\s*)+$", "", text)
+    return clean_text(text), source_numbers
+
+
+def keyword_set(text: str) -> set[str]:
+    words = re.findall(r"[a-zA-Z][a-zA-Z-]{3,}", text.lower())
+    stopwords = {
+        "and", "from", "have", "into", "that", "their", "this", "with",
+        "government", "india", "indian", "pib", "press", "release",
+    }
+    return {word for word in words if word not in stopwords}
+
+
+def infer_source_numbers(text: str, items: list[NewsItem], limit: int = 2) -> list[int]:
+    text_words = keyword_set(plain_text(text))
+    if not text_words:
+        return []
+
+    scored = []
+    for index, item in enumerate(items, 1):
+        title_words = keyword_set(item.title)
+        overlap = len(text_words & title_words)
+        if overlap:
+            scored.append((overlap, index))
+    scored.sort(reverse=True)
+    return [index for _, index in scored[:limit]]
+
+
 def inline_markdown_to_html(text: str) -> str:
     placeholders: list[str] = []
 
@@ -297,8 +348,8 @@ def inline_markdown_to_html(text: str) -> str:
     return escaped
 
 
-def summary_to_html(summary: str) -> str:
-    items: list[str] = []
+def summary_to_html(summary: str, items: list[NewsItem]) -> str:
+    bullet_items: list[str] = []
     paragraphs: list[str] = []
     for raw_line in summary.splitlines():
         line = raw_line.strip()
@@ -306,16 +357,21 @@ def summary_to_html(summary: str) -> str:
             continue
         line = re.sub(r"^\d+\.\s+", "- ", line)
         if line.startswith(("- ", "* ")):
-            items.append(line[2:].strip())
+            bullet_items.append(line[2:].strip())
         else:
             paragraphs.append(line)
 
     parts: list[str] = []
     if paragraphs:
         parts.extend(f"<p>{inline_markdown_to_html(line)}</p>" for line in paragraphs)
-    if items:
+    if bullet_items:
         parts.append('<ul class="digest-points">')
-        parts.extend(f"  <li>{inline_markdown_to_html(item)}</li>" for item in items)
+        for bullet_item in bullet_items:
+            item_text, source_numbers = extract_source_numbers(bullet_item)
+            if not source_numbers and "](" not in bullet_item:
+                source_numbers = infer_source_numbers(item_text, items)
+            chips = source_chips_html(source_numbers, items)
+            parts.append(f"  <li>{inline_markdown_to_html(item_text)}{chips}</li>")
         parts.append("</ul>")
     return "\n".join(parts)
 
@@ -349,7 +405,7 @@ summary: {yaml_escape(teaser)}
   <a class="back-link" href="{{{{ '/' | relative_url }}}}">PIB Brief</a>
   <p class="post-meta">{now.date().isoformat()} · {ai_note}</p>
 
-{summary_to_html(summary)}
+{summary_to_html(summary, items)}
 
 <section class="source-note">
   <h2>Source</h2>

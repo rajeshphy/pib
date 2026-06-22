@@ -163,6 +163,31 @@ summary:focus-visible {
   text-transform: none;
 }
 
+.source-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.55rem;
+}
+
+.source-chips a {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgba(154, 106, 47, 0.34);
+  border-radius: 999px;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 720;
+  line-height: 1;
+  padding: 0.36rem 0.58rem;
+  background: rgba(255, 253, 247, 0.72);
+}
+
+.source-chips a:hover {
+  color: #704716;
+  border-color: rgba(154, 106, 47, 0.62);
+}
+
 .digest-points a,
 .source-list a {
   overflow-wrap: anywhere;
