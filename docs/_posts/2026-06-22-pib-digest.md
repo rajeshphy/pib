@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Public Health and Welfare"
-date: 2026-06-22T15:32:39.380405+00:00
+date: 2026-06-22T15:51:10.805452+00:00
 summary: "Public Health and Welfare: India has reached a significant milestone with 5 lakh organ donation pledges, while the government has officially announced the Ha..."
 ---
 
@@ -12,9 +12,9 @@ summary: "Public Health and Welfare: India has reached a significant milestone w
 <ul class="digest-points">
   <li><strong>Public Health and Welfare:</strong> India has reached a significant milestone with 5 lakh organ donation pledges, while the government has officially announced the Haj Policy for 2027.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276810">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276793">Source 4</a></span></li>
   <li><strong>Economic and Industrial Growth:</strong> India has emerged as the world’s leading ship recycling nation in 2025, and the government is actively pursuing reforms to enhance the country&#x27;s global competitiveness in the tourism sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276789">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276739">Source 11</a></span></li>
-  <li><strong>Logistics and Trade:</strong> Four fertilizer ships have successfully navigated the Strait of Hormuz, and a national-level Chintan Shivir has commenced to discuss environment-related trade measures and Free Trade Agreements.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276792">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276745">Source 10</a></span></li>
-  <li><strong>Infrastructure and Agriculture:</strong> The government released the latest telecom services performance report and provided an update on the progress of area coverage for Kharif crops.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276780">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276736">Source 12</a></span></li>
-  <li><strong>Official Engagements and Events:</strong> The President of India visited Kuno National Park, the Rajya Sabha Chairman administered an oath to a new member, and the Air Force hosted a memorial hockey tournament.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276382">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276830">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276761">Source 9</a></span></li>
+  <li><strong>Supply Chain and Trade:</strong> Four fertilizer ships have successfully navigated the Strait of Hormuz, and a national Chintan Shivir has commenced to discuss environment-related trade measures and Free Trade Agreements.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276792">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276745">Source 10</a></span></li>
+  <li><strong>Governance and Infrastructure:</strong> The government released the latest Indian Telecom Services Performance Indicator Report and monitored the progress of area coverage for Kharif crops.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276780">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276736">Source 12</a></span></li>
+  <li><strong>Official Engagements and Events:</strong> The President of India visited Kuno National Park, the Rajya Sabha Chairman administered an oath to a new member, and the Air Force hosted the 7th Marshal of the Air Force Arjan Singh Memorial Hockey Tournament.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276382">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276830">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276761">Source 9</a></span></li>
 </ul>
 
 <section class="source-note">
