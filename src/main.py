@@ -225,7 +225,7 @@ Items:
 def fallback_summary(items: list[NewsItem]) -> str:
     lines = []
     for item in items[:5]:
-        lines.append(f"- [{item.title}]({item.url})")
+        lines.append(f"- [{readable_title(item.title)}]({item.url})")
     return "\n".join(lines)
 
 
@@ -233,6 +233,22 @@ def plain_text(markdown: str) -> str:
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", markdown)
     text = re.sub(r"[*_`#>~-]+", "", text)
     return clean_text(text)
+
+
+def readable_title(text: str) -> str:
+    text = clean_text(text)
+    letters = [char for char in text if char.isalpha()]
+    if letters and sum(char.isupper() for char in letters) / len(letters) > 0.82:
+        small_words = {"a", "an", "and", "as", "at", "for", "from", "in", "of", "on", "or", "the", "to"}
+        words = text.lower().split()
+        titled = []
+        for index, word in enumerate(words):
+            if index > 0 and word in small_words:
+                titled.append(word)
+            else:
+                titled.append(word[:1].upper() + word[1:])
+        return " ".join(titled)
+    return text
 
 
 def one_line_summary(summary: str, items: list[NewsItem]) -> str:
@@ -307,7 +323,7 @@ def summary_to_html(summary: str) -> str:
 def sources_to_html(items: list[NewsItem]) -> str:
     lines = ['<ul class="source-list">']
     for item in items[:10]:
-        title = html.escape(item.title)
+        title = html.escape(readable_title(item.title))
         url = html.escape(item.url, quote=True)
         lines.append(f'  <li><a href="{url}">{title}</a></li>')
     lines.append("</ul>")

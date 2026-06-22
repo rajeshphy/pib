@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "PRESIDENT OF INDIA VISITS KUNO NATIONAL PARK"
+title: "President of India Visits Kuno National Park"
 date: 2026-06-22T14:38:27.345203+00:00
-summary: "PRESIDENT OF INDIA VISITS KUNO NATIONAL PARK"
+summary: "President of India Visits Kuno National Park"
 ---
 
 <article class="digest-post">
@@ -10,8 +10,8 @@ summary: "PRESIDENT OF INDIA VISITS KUNO NATIONAL PARK"
   <p class="post-meta">2026-06-22 · Direct headline digest</p>
 
 <ul class="digest-points">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276382">PRESIDENT OF INDIA VISITS KUNO NATIONAL PARK</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276830">7TH EDITION OF THE MARSHAL OF THE AIR FORCE ARJAN SINGH MEMORIAL HOCKEY TOURNAMENT-20...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276382">President of India Visits Kuno National Park</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276830">7th Edition of the Marshal of the Air Force Arjan Singh Memorial Hockey Tournament-20...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276810">India Achieves Landmark Milestone of 5 Lakh Organ Donation Pledges</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276793">Haj Policy 2027 announced; Haj Committee of India invites applications from prospecti...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276792">Resilient Supply Chains: Four Fertilizer Ships Successfully Cross Strait of Hormuz to...</a></li>
@@ -26,8 +26,8 @@ summary: "PRESIDENT OF INDIA VISITS KUNO NATIONAL PARK"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276382">PRESIDENT OF INDIA VISITS KUNO NATIONAL PARK</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276830">7TH EDITION OF THE MARSHAL OF THE AIR FORCE ARJAN SINGH MEMORIAL HOCKEY TOURNAMENT-20...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276382">President of India Visits Kuno National Park</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276830">7th Edition of the Marshal of the Air Force Arjan Singh Memorial Hockey Tournament-20...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276810">India Achieves Landmark Milestone of 5 Lakh Organ Donation Pledges</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276793">Haj Policy 2027 announced; Haj Committee of India invites applications from prospecti...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276792">Resilient Supply Chains: Four Fertilizer Ships Successfully Cross Strait of Hormuz to...</a></li>

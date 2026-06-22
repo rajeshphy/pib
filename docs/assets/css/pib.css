@@ -8,6 +8,8 @@
   --accent: #9a6a2f;
   --accent-soft: #efe4cf;
   --hairline: #ebe6d8;
+  --font-sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-serif: Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 * {
@@ -24,9 +26,10 @@ body {
   background:
     radial-gradient(circle at 50% -12rem, rgba(154, 106, 47, 0.12), transparent 28rem),
     var(--bg);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: var(--font-sans);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
 }
 
 a {
@@ -54,7 +57,7 @@ summary:focus-visible {
 .main-content h1 {
   margin: 0 0 1.6rem;
   color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-serif);
   font-size: clamp(2rem, 4.8vw, 3rem);
   font-weight: 700;
   letter-spacing: -0.04em;
@@ -99,10 +102,10 @@ summary:focus-visible {
   text-overflow: ellipsis;
   white-space: nowrap;
   color: var(--link);
-  font-size: 1.05rem;
-  font-weight: 650;
-  line-height: 1.45;
-  letter-spacing: -0.01em;
+  font-size: 1.01rem;
+  font-weight: 620;
+  line-height: 1.5;
+  letter-spacing: 0;
 }
 
 .post-list time {
@@ -115,9 +118,9 @@ summary:focus-visible {
 
 .post-meta {
   color: var(--ink);
-  font-size: 1.02rem;
+  font-size: 1rem;
   font-weight: 760;
-  letter-spacing: -0.01em;
+  letter-spacing: 0;
   margin: 0 0 1rem;
   text-align: center;
 }
@@ -150,8 +153,19 @@ summary:focus-visible {
   margin: 0;
   padding: 1rem 0 1rem 1.25rem;
   border-top: 1px solid var(--hairline);
-  font-size: 1.04rem;
-  line-height: 1.66;
+  font-size: 1rem;
+  line-height: 1.68;
+  letter-spacing: 0;
+}
+
+.digest-points a {
+  font-weight: 500;
+  text-transform: none;
+}
+
+.digest-points a,
+.source-list a {
+  overflow-wrap: anywhere;
 }
 
 .digest-points > li::before {
@@ -260,8 +274,8 @@ code {
   }
 
   .post-list a {
-    font-size: 1.04rem;
-    line-height: 1.5;
+    font-size: 1rem;
+    line-height: 1.52;
     white-space: normal;
   }
 
@@ -273,8 +287,8 @@ code {
   .digest-points > li {
     padding-top: 0.95rem;
     padding-bottom: 0.95rem;
-    font-size: 1rem;
-    line-height: 1.62;
+    font-size: 0.98rem;
+    line-height: 1.64;
   }
 
   .source-note,
