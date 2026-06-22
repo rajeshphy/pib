@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "President of India Visits Kuno National Park"
-date: 2026-06-22T14:38:27.345203+00:00
-summary: "President of India Visits Kuno National Park"
+title: "Public Health and Welfare"
+date: 2026-06-22T14:55:55.239446+00:00
+summary: "Public Health and Welfare: India has reached a significant milestone of 5 lakh organ donation pledges, while the government has officially announced the Haj..."
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">2026-06-22 · Direct headline digest</p>
+  <p class="post-meta">2026-06-22 · Gemini-assisted summary</p>
 
 <ul class="digest-points">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276382">President of India Visits Kuno National Park</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276830">7th Edition of the Marshal of the Air Force Arjan Singh Memorial Hockey Tournament-20...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276810">India Achieves Landmark Milestone of 5 Lakh Organ Donation Pledges</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276793">Haj Policy 2027 announced; Haj Committee of India invites applications from prospecti...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2276792">Resilient Supply Chains: Four Fertilizer Ships Successfully Cross Strait of Hormuz to...</a></li>
+  <li><strong>Public Health and Welfare:</strong> India has reached a significant milestone of 5 lakh organ donation pledges, while the government has officially announced the Haj Policy for 2027.</li>
+  <li><strong>Economic and Industrial Growth:</strong> India has emerged as the world’s leading ship recycling nation, and the government is implementing reforms to enhance the country&#x27;s global competitiveness in the tourism sector.</li>
+  <li><strong>Supply Chain and Agriculture:</strong> Fertilizer shipments have successfully navigated the Strait of Hormuz to ensure supply chain resilience, alongside ongoing monitoring of Kharif crop coverage.</li>
+  <li><strong>Environmental and Trade Policy:</strong> A national Chintan Shivir has been launched to deliberate on environment-related trade measures and Free Trade Agreements.</li>
+  <li><strong>Governance and Official Engagements:</strong> Recent official activities include the President’s visit to Kuno National Park, the administration of an oath to a new Rajya Sabha member, and the release of the latest Indian Telecom Services performance report.</li>
 </ul>
 
 <section class="source-note">
