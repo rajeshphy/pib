@@ -23,11 +23,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
       - name: Generate digest
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -38,16 +33,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/_posts
-          git diff --cached --quiet || git commit -m "Add PIB brief for $(date -u +%F)"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Add PIB brief for $(date -u +%F)"
+            git push
+          fi
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
-
-      - name: Install Jekyll dependencies
-        run: bundle install
+          bundler-cache: true
 
       - name: Build Jekyll site
         run: bundle exec jekyll build --source docs --destination docs/_site
