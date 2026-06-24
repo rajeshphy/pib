@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Overview of Recent Government Initiatives, Diplomatic Engagements, and Infrastructure Developments"
-date: 2026-06-24T07:52:20.750250+00:00
-summary: "Diplomatic and International Relations: Prime Minister Modi engaged in highlevel discussions with the Amir of Qatar and extended congratulations to Ethiopian..."
-run_time_ist: "1:22PM"
+title: "Overview of Recent National Developments and International Engagements"
+date: 2026-06-24T08:02:54.196995+00:00
+summary: "Diplomatic and state affairs: Prime Minister Narendra Modi engaged in highlevel diplomatic discussions with the Amir of Qatar and extended congratulations to..."
+run_time_ist: "1:32PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 1:22PM</p>
+  <p class="post-meta">Gemini Summary: 1:32PM</p>
 
 <ul class="digest-points">
-  <li><strong>Diplomatic and International Relations:</strong> Prime Minister Modi engaged in high-level discussions with the Amir of Qatar and extended congratulations to Ethiopian Prime Minister Abiy Ahmed Ali, while Indian Navy ships Udaygiri and Kavaratti conducted a port call in Vietnam.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277010">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277308">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277217">Source 12</a></span></li>
-  <li><strong>Awards and Recognition:</strong> The President of India conferred the 2026 Padma Awards during the Civil Investiture Ceremony-II, and winners were announced for the Youth Co:Lab National Innovation Challenge and the 36th National Youth Parliament Competition.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277333">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277317">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277271">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277220">Source 11</a></span></li>
-  <li><strong>Infrastructure and Connectivity:</strong> The Delhi Metro Rail Corporation has initiated construction at the Central Secretariat station for the Central Vista corridor, while the TRAI conducted a mobile network quality assessment on the Manoharpur-Dausa National Highway.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277372">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277337">Source 4</a></span></li>
-  <li><strong>Economic and Policy Research:</strong> NITI Aayog released the eighth edition of its &quot;Trade Watch Quarterly,&quot; and a discussion paper was issued regarding methodological approaches for compiling monetary asset accounts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277379">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277232">Source 10</a></span></li>
-  <li><strong>Labour and Public Service:</strong> The office of the Chief Labour Commissioner (Central) facilitated a special court camp to address labour-related matters.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277265">Source 9</a></span></li>
+  <li><strong>Diplomatic and state affairs:</strong> Prime Minister Narendra Modi engaged in high-level diplomatic discussions with the Amir of Qatar and extended congratulations to Ethiopian leadership, while the President hosted the Civil Investiture Ceremony-II to present the 2026 Padma Awards.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277308">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277271">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277220">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277217">Source 12</a></span></li>
+  <li><strong>Infrastructure and connectivity:</strong> The Delhi Metro Rail Corporation has initiated construction for the Central Vista Corridor at the Central Secretariat station, and the Telecom Regulatory Authority of India (TRAI) is evaluating mobile network quality along the Manoharpur-Dausa National Highway.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277372">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277337">Source 4</a></span></li>
+  <li><strong>Economic and policy initiatives:</strong> NITI Aayog released the eighth edition of its &quot;Trade Watch Quarterly,&quot; and the Ministry of Statistics and Programme Implementation issued a discussion paper regarding the compilation of monetary asset accounts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277379">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277232">Source 10</a></span></li>
+  <li><strong>Youth engagement and innovation:</strong> Six youth-led startups were recognized for sustainability solutions at the Youth Co:Lab National Innovation Challenge, and the 36th National Youth Parliament Competition concluded with a prize distribution ceremony.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277333">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277317">Source 6</a></span></li>
+  <li><strong>Maritime and labor administration:</strong> Indian Navy ships Udaygiri and Kavaratti arrived in Vietnam for a goodwill visit, while the office of the Chief Labour Commissioner conducted a special court camp to address labor-related matters.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277010">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2277265">Source 9</a></span></li>
 </ul>
 
 <section class="source-note">
