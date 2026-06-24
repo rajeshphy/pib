@@ -9,7 +9,7 @@ title: PIB Brief
   {% for post in site.posts %}
     <li>
       <time datetime="{{ post.date | date_to_xmlschema }}">
-        {% if post.run_time_ist %}{{ post.run_time_ist }}{% else %}{{ post.date | date: "%-I:%M %p" }}{% endif %}
+        {{ post.date | date: "%Y-%m-%d" }}
       </time>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
