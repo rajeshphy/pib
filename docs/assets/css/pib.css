@@ -358,28 +358,6 @@ code {
     line-height: 1.64;
   }
 
-
-  .site-header {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 36px 24px 8px;
-}
-
-.site-title {
-  display: inline-block;
-  color: #0b4f43;
-  font-size: 1.35rem;
-  font-weight: 800;
-  text-decoration: none;
-  letter-spacing: -0.02em;
-}
-
-.site-title:hover {
-  text-decoration: underline;
-}
-
-
-  
   .source-note,
   .tp-sources {
     margin-top: 1.15rem;
