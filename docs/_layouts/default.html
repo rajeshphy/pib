@@ -3,12 +3,20 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>{% if page.title and page.title != 'Home' %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+
     <meta name="description" content="{{ site.description }}">
     <link rel="stylesheet" href="{{ '/assets/css/pib.css' | relative_url }}">
+
     {% feed_meta %}
   </head>
+
   <body>
+    <header class="site-header">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | default: "PIB Brief" }}</a>
+    </header>
+
     <main class="main-content" id="content">
       {{ content }}
     </main>
