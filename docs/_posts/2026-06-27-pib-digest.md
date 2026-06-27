@@ -1,43 +1,38 @@
 ---
 layout: default
-title: "Government Initiatives in Infrastructure, Rural Development, and Law Enforcement"
-date: 2026-06-27T04:33:31.600610+00:00
-summary: "Law Enforcement: The Directorate of Revenue Intelligence (DRI) dismantled a gold smuggling syndicate, seizing 15 kg of gold and 16 individuals, while also in..."
-run_time_ist: "10:03AM"
+title: "Government Initiatives in Technology, Trade, and Enforcement"
+date: 2026-06-27T06:49:43.877362+00:00
+summary: "Law Enforcement: The Directorate of Revenue Intelligence (DRI) dismantled a gold smuggling syndicate with 15 arrests and seized a cocaine consignment in Sura..."
+run_time_ist: "12:19PM"
 ---
 
-<article class="digest-post">
-  <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 10:03AM</p>
+# PIB Brief
+
+<p class="digest-meta">Gemini Summary: 12:19PM</p>
 
 <ul class="digest-points">
-  <li><strong>Law Enforcement:</strong> The Directorate of Revenue Intelligence (DRI) dismantled a gold smuggling syndicate, seizing 15 kg of gold and 16 individuals, while also intercepting a 2 kg cocaine consignment in Surat.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278205">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278227">Source 9</a></span></li>
-  <li><strong>Rural Development:</strong> The government is hosting the first National Rural Development Conference in Delhi and promoting women-led rural enterprises through the SARAS Aajeevika initiative.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278288">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278280">Source 6</a></span></li>
-  <li><strong>Technological and Regulatory Advancements:</strong> The Department of Atomic Energy inaugurated the world&#x27;s first copper-chlorine hydrogen production facility, and the National Biodiversity Authority issued new SOPs for identifying biodiversity heritage sites.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278309">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278271">Source 8</a></span></li>
-  <li><strong>Infrastructure and Trade:</strong> The Ministry of Civil Aviation launched the &#x27;Easy Connect&#x27; flight service from Varanasi, while the Commerce Ministry announced the deployment of 1,000 new trade facilitators to boost commerce.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278276">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278207">Source 10</a></span></li>
-  <li><strong>Policy and Diplomacy:</strong> The government simplified procedures for importing drugs for testing purposes, and the Prime Minister engaged in diplomatic activities, including a visit to Seychelles and international correspondence.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278337">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278332">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278200">Source 12</a></span></li>
+  <li><strong>Law Enforcement:</strong> The Directorate of Revenue Intelligence (DRI) dismantled a gold smuggling syndicate with 15 arrests and seized a cocaine consignment in Surat.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278205&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278227&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Digital Health and Governance:</strong> The Union Health Minister is set to launch Aarogya Setu 2.0, while the government continues to process direct recruitment for various central service positions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278347&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278342&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Agricultural and Rural Development:</strong> APEDA facilitated the first commercial export of GI-tagged Rewa Sundarja mangoes, and upcoming events include a National Rural Development Conference and the SARAS Aajeevika exhibition.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278340&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278280&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Scientific and Industrial Innovation:</strong> The Department of Atomic Energy inaugurated the world&#x27;s first copper-chlorine cycle hydrogen production facility, and the Commerce Ministry announced the deployment of 1,000 new industrial units.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278309&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278276&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>International Relations and Environment:</strong> The Prime Minister conducted diplomatic engagements in Seychelles and Colombia, while the National Biodiversity Authority issued new guidelines for identifying and notifying biodiversity sites.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278337&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278332&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278271&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
 </ul>
 
-<section class="source-note">
-  <h2>Source</h2>
-  <p>Generated from <a href="https://www.pib.gov.in/indexd.aspx?reg=48&lang=1">PIB regional news listing</a>.</p>
-</section>
+## Source
 
-<details class="tp-sources">
-<summary>Headlines considered</summary>
+Generated from <a href="https://www.pib.gov.in/indexd.aspx?reg=48&amp;lang=1" target="_blank" rel="noopener noreferrer">PIB regional news listing</a>.
+
+Headlines considered:
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278205">DRI busts gold smuggling syndicate; seizes 15 kg foreign origin gold in operations at multiple locations; 15 persons arr...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278337">Prime Minister’s Departure Statement ahead of his visit to Seychelles (27-29 June, 20...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278332">Prime Minister congratulates Abelardo de la Espriella on his victory in the Colombian...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278309">DAE Inaugurates World&#x27;s First Hydrogen Production Facility Based on Copper–Chlorine T...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278288">SARAS Aajeevika to Showcase the Spirit of Women-Led Rural Enterprise at Rashtriya Gra...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278280">First-Ever National Rural Development Conference to Be Held in Delhi on June 28–29</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278276">Union Minister of Commerce and Industry Shri Piyush Goyal Announces Deployment of 1,0...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278271">National Biodiversity Authority Releases SOP for Scientific Identification and Notifi...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278227">DRI seizes 2 kg cocaine consignment in Surat; One held</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278207">Civil Aviation Minister Ram Mohan Naidu launches first ‘Easy Connect’ flight from Var...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278205&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI busts gold smuggling syndicate; seizes 15 kg foreign origin gold in operations at multiple locations; 15 persons arr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278347&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Minister Shri J.P. Nadda to Launch Aarogya Setu 2.0 and Other Digital In...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278342&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Direct Recruitment to various posts in Government of India</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278340&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">APEDA Facilitates First Commercial Export of GI-Tagged Rewa Sundarja Mangoes from Mad...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278337&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister’s Departure Statement ahead of his visit to Seychelles (27-29 June, 20...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278332&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Abelardo de la Espriella on his victory in the Colombian...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278309&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DAE Inaugurates World&#x27;s First Hydrogen Production Facility Based on Copper–Chlorine T...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">SARAS Aajeevika to Showcase the Spirit of Women-Led Rural Enterprise at Rashtriya Gra...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278280&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">First-Ever National Rural Development Conference to Be Held in Delhi on June 28–29</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2278276&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Commerce and Industry Shri Piyush Goyal Announces Deployment of 1,0...</a></li>
 </ul>
-
-</details>
-</article>
