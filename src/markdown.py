@@ -52,9 +52,7 @@ def source_chips_html(source_numbers: list[int], items: list[NewsItem]) -> str:
     for number in valid_numbers:
         item = items[number - 1]
         url = html.escape(item.url, quote=True)
-        links.append(
-            f'<a href="{url}" target="_blank" rel="noopener noreferrer">Source {number}</a>'
-        )
+        links.append(f'<a href="{url}" target="_blank" rel="noopener noreferrer">Source {number}</a>')
 
     return f'<span class="source-chips">{" ".join(links)}</span>'
 
@@ -164,17 +162,24 @@ summary: {yaml_escape(teaser)}
 run_time_ist: {yaml_escape(run_time)}
 ---
 
-<div class="digest-run-title">{html.escape(ai_note)}</div>
+<article class="digest-post">
+  <a class="back-link" href="{{{{ '/' | relative_url }}}}">PIB Brief</a>
+  <p class="post-meta">{html.escape(ai_note)}</p>
 
 {summary_to_html(summary, items)}
 
-## Source
+<section class="source-note">
+  <h2>Source</h2>
+  <p>Generated from <a href="{html.escape(PIB_URL, quote=True)}" target="_blank" rel="noopener noreferrer">PIB regional news listing</a>.</p>
+</section>
 
-Generated from <a href="{html.escape(PIB_URL, quote=True)}" target="_blank" rel="noopener noreferrer">PIB regional news listing</a>.
-
-Headlines considered:
+<details class="tp-sources">
+<summary>Headlines considered</summary>
 
 {source_list}
+
+</details>
+</article>
 """
 
     post_path.write_text(content, encoding="utf-8")
