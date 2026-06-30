@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy Updates, Infrastructure Development, and Diplomatic Engagements"
-date: 2026-06-30T16:34:54.385588+00:00
-summary: "Tax and Social Security Updates: The government has extended the deadline for filing appeals before the GST Appellate Tribunal to July 31, 2026, while the ES..."
-run_time_ist: "10:04PM"
+title: "Government Policy Updates, International Relations, and SocioEconomic Developments"
+date: 2026-06-30T22:03:50.375707+00:00
+summary: "Labor and Social Security: The government has notified revised wage rates under the VB–G RAM G Act, 2025, and the Employees' State Insurance Corporation held..."
+run_time_ist: "3:33AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 10:04PM</p>
+  <p class="post-meta">Gemini Summary: 3:33AM</p>
 
 <ul class="digest-points">
-  <li><strong>Tax and Social Security Updates:</strong> The government has extended the deadline for filing appeals before the GST Appellate Tribunal to July 31, 2026, while the ESIC held its 198th meeting to review employee welfare measures.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279274&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279526&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Infrastructure and Connectivity:</strong> Indian Railways has sanctioned over ₹930 crore for the Mansi-Saharsa doubling project and electronic interlocking systems to improve network capacity and safety.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279464&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279463&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Skill Development and MSME Support:</strong> The government launched the IndiaSkills Competition 2026–27 to promote vocational excellence and reviewed MSME development schemes specifically for the Ladakh region.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279477&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279467&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Governance and Social Research:</strong> A new national study report has been released addressing low participation in Gram Sabhas, while officials emphasized the importance of making technology accessible and user-friendly for local communities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279485&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279474&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Diplomacy and National Observances:</strong> The Prime Minister held discussions with the President of Iran and paid tribute to warriors on Hul Divas, while the Indian Navy concluded a successful diplomatic visit to Singapore.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279626&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279513&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279470&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Labor and Social Security:</strong> The government has notified revised wage rates under the VB–G RAM G Act, 2025, and the Employees&#x27; State Insurance Corporation held its 198th meeting to review labor welfare.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279660&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279526&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>International Cooperation:</strong> India has expanded its digital payment footprint with the launch of UPI in Greece and strengthened diplomatic ties through a high-level conversation between the Prime Minister and the President of Iran.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279646&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279626&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Agricultural and Rural Development:</strong> The government is monitoring the progress of Kharif crop area coverage while releasing a national study report addressing low participation rates in Gram Sabhas across states and union territories.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279640&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279474&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>MSME and Technology Initiatives:</strong> The Union Minister for MSME reviewed development schemes in Ladakh, emphasizing that technology must be user-friendly and accessible to local communities to be successful.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279485&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279477&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Defense and National Commemorations:</strong> The Indian Navy concluded a successful visit to Singapore with three of its fleet ships, while the nation observed Hul Divas to honor the contributions of brave warriors.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279513&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279470&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,7 +27,9 @@ run_time_ist: "10:04PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279274&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government extends last date for filing appeals before the GST Appellate Tribunal to 31st July 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279660&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Notifies Revised Wage Rates under the VB–G RAM G Act, 2025</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279646&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">UPI Goes Live in Greece, Commerce and Industry Minister Shri Piyush Goyal Witnesses t...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279640&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Progress of area coverage under Kharif crops as on 26.06.2026</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279626&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister speaks with the President of Iran</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279625&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Clarification regarding media reports on the proceedings before the Hon&#x27;ble Supreme C...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279526&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Mansukh Mandaviya Chairs 198th Meeting of Employees&#x27; State Insurance Corporation ...</a></li>
@@ -35,8 +37,6 @@ run_time_ist: "10:04PM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279485&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Technology succeeds when it reaches people and is easy for communities to use: Shri C...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279477&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister for MSME, Shri Jitan Ram Manjhi Reviews MSME Schemes in Ladakh, Reaffi...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279470&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays tribute to brave warriors on Hul Divas</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279474&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Study Report on Low Participation in Gram Sabha Across States/UTs Released i...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2279467&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Jayant Chaudhary Launches IndiaSkills Competition 2026–27 to Disc...</a></li>
 </ul>
 
 </details>
