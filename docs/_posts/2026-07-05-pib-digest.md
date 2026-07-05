@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "Government Policy Updates, International Engagements, and Enforcement Actions"
-date: 2026-07-05T15:42:39.269648+00:00
-summary: "Law Enforcement: The Directorate of Revenue Intelligence (DRI) seized over 100,000 bottles of Codeinebased cough syrup across two separate operations. Source..."
-run_time_ist: "9:12PM"
+title: "Government Initiatives in Defense, Public Health, and International Relations"
+date: 2026-07-05T21:40:24.010841+00:00
+summary: "Naval Diplomacy: Indian Naval ships have completed a successful visit to Singapore, while INS Sudarshini has arrived in New York to participate in the SAIL4T..."
+run_time_ist: "3:10AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 9:12PM</p>
+  <p class="post-meta">Gemini Summary: 3:10AM</p>
 
 <ul class="digest-points">
-  <li><strong>Law Enforcement:</strong> The Directorate of Revenue Intelligence (DRI) seized over 100,000 bottles of Codeine-based cough syrup across two separate operations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281358&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>International Relations:</strong> The Indian Navy concluded successful visits to Singapore and deployed INS Sudarshini to New York for the Sail4th 250 celebrations, while India prepares to chair the UNCTAD session on consumer protection.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281357&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Labor and Employment:</strong> The government has secured the service conditions for approximately 65,000 former Ordnance Factory employees.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Skill Development and Public Health:</strong> The Ministry of Skill Development and Entrepreneurship extended the registration deadline for Navachar Mantra to July 15, 2026, while the Sports Minister led a nationwide event for the 80th edition of Mann Ki Baat.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281354&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281274&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Naval Diplomacy:</strong> Indian Naval ships have completed a successful visit to Singapore, while INS Sudarshini has arrived in New York to participate in the SAIL4TH 250 celebrations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281357&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Public Health Enforcement:</strong> The Directorate of Revenue Intelligence (DRI) has seized over 100,000 bottles of Codeine-based cough syrup across two separate operations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281358&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Labor and Employment:</strong> The government has secured the future of nearly 65,000 former Ordnance Factory employees through recent policy measures.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Skill Development and Public Engagement:</strong> The Ministry of Skill Development and Entrepreneurship (MSDE) has extended the registration deadline for &quot;Navachar Mantra&quot; to 15 July 2026, while the Union Sports Minister led a nationwide 80th event.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281354&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281274&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
   <li><strong>Agricultural Policy:</strong> Union Minister JP Nadda stated that the Prime Minister’s leadership successfully protected Indian farmers from the global fertilizer crisis.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281352&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
 </ul>
 
@@ -34,7 +34,6 @@ run_time_ist: "9:12PM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Naval Ships Conclude Successful Visit to Singapore</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government secures future of nearly 65,000 erstwhile Ordnance Factory employees throu...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281274&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Youth Affairs &amp; Sports Dr Mansukh Mandaviya leads nationwide 80th e...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2281247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India to Chair UNCTAD&#x27;s Ninth Session of Intergovernmental Group of Experts on Consum...</a></li>
 </ul>
 
 </details>
