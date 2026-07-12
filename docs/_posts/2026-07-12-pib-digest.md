@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Overview of Recent Government Initiatives, International Engagements, and National Achievements"
-date: 2026-07-12T15:30:56.714700+00:00
-summary: "Administrative and Governance Reforms: The government is focusing on enhancing public service delivery through upcoming national conferences on egovernance a..."
-run_time_ist: "9:00PM"
+title: "National Governance, Infrastructure, and International Relations Updates"
+date: 2026-07-12T21:32:10.650131+00:00
+summary: "Administrative and Policy Reforms: The government is focusing on \"NextGen\" administrative and egovernance reforms in Shillong, while emphasizing public servi..."
+run_time_ist: "3:02AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 9:00PM</p>
+  <p class="post-meta">Gemini Summary: 3:02AM</p>
 
 <ul class="digest-points">
-  <li><strong>Administrative and Governance Reforms:</strong> The government is focusing on enhancing public service delivery through upcoming national conferences on e-governance and emphasizing core values like technology adoption, transparency, and public welfare.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283935&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283853&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Infrastructure and Industrial Development:</strong> Union Minister H.D. Kumaraswamy inaugurated a large-scale water reservoir to support the expansion of IISCO, while the EPFO has launched an amnesty scheme for provident fund trusts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283802&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283924&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Public Health and Social Welfare:</strong> Lok Sabha Speaker emphasized the need for universal healthcare access, while the MY Bharat platform is opening registrations for youth-led anti-drug competitions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283943&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>International Cooperation and Diplomacy:</strong> India is actively participating in global forums, including the adoption of a ministerial declaration on transport under the BRICS chairship and leading high-level business delegations to strengthen trade ties.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283892&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283848&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>National Achievements and Commemorations:</strong> Indian students achieved a golden sweep at the 56th International Physics Olympiad, while the Vice President honored the legacy of social reformer Mannathu Padmanabhan.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283891&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283841&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Administrative and Policy Reforms:</strong> The government is focusing on &quot;NextGen&quot; administrative and e-governance reforms in Shillong, while emphasizing public service values like accessibility, technology adoption, and public welfare.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283935&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283853&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Infrastructure and Industrial Development:</strong> Union Minister H.D. Kumaraswamy inaugurated a large-scale RCC water reservoir to support the expansion of the IISCO steel plant.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283924&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Public Health and Social Welfare:</strong> The Lok Sabha Speaker advocated for universal access to quality healthcare, while the MY Bharat platform is launching registrations for district-level anti-drug competitions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283943&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>International Relations and Diplomacy:</strong> India is engaging in global cooperation through the BRICS Transport Ministers&#x27; declaration and a high-level business delegation led by the Commerce Minister, while the nation observed mourning for the late Father Amir of Qatar.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283966&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283892&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283856&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283848&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Regulatory and Achievement Updates:</strong> The EPFO has opened applications for an amnesty scheme for Provident Fund trusts, and Indian students achieved a golden sweep at the 56th International Physics Olympiad.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283802&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283891&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,6 +28,7 @@ run_time_ist: "9:00PM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283802&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Epfo Invites Applications for Amnesty Scheme from Provident Fund Trusts</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283966&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">One Day State Mourning as a mark of respect on the passing away of His Highness Sheik...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283943&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat to Open Registrations for District-Level Competitions under &#x27;Nasha Mukt Yuv...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283935&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Speed, Accessibility, Nekneeyat, Kartavyanishtha, Adoption of technology, Lokhit, Par...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283924&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">H.D. Kumaraswamy Inaugurates 84,000 m³ RCC Water Reservoir to Strengthen IISCO&#x27;s Expa...</a></li>
@@ -36,7 +37,6 @@ run_time_ist: "9:00PM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283892&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Under India&#x27;s BRICS Chairship, Transport Ministers Adopt Ministerial Declaration at t...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283891&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Golden Sweep at the 56th International Physics Olympiad 2026 held at Bucarama...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283856&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister condoles the passing of Father Amir of State of Qatar HH Sheikh Hamad ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2283853&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Conference on &quot;NextGen Administrative &amp; e-Gov Reforms&quot; to be held in Shillon...</a></li>
 </ul>
 
 </details>
