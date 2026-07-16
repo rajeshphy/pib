@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Updates on National Infrastructure, Healthcare, and Governance Initiatives"
-date: 2026-07-16T05:59:27.000057+00:00
-summary: "Technological Advancements: The IRCTC is launching a beta version of its new website, while India prepares to introduce its first hydrogen fuel cell train to..."
-run_time_ist: "11:29AM"
+title: "National Infrastructure, Technology, and Governance Updates"
+date: 2026-07-16T10:27:59.066099+00:00
+summary: "Digital and Transport Upgrades: IRCTC is launching a beta version of its new website, while India continues to advance its green rail mobility initiatives wi..."
+run_time_ist: "3:57PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 11:29AM</p>
+  <p class="post-meta">Gemini Summary: 3:57PM</p>
 
 <ul class="digest-points">
-  <li><strong>Technological Advancements:</strong> The IRCTC is launching a beta version of its new website, while India prepares to introduce its first hydrogen fuel cell train to promote sustainable rail mobility.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285066&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285240&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Healthcare Innovation:</strong> An ICMR study demonstrates that using drones for transporting tuberculosis samples significantly reduces diagnosis time and improves patient outcomes.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285227&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Governance and Legal Access:</strong> The Law Minister launched the e-VSP portal to enhance access to legal literature, alongside efforts to strengthen rural credit systems for inclusive economic growth.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285236&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285193&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>International Trade and Diplomacy:</strong> Union Ministers engaged in bilateral meetings with BRICS counterparts and European industry leaders to discuss global trade opportunities and the expansion of the textile sector at Bharat Tex 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285145&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285138&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285114&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Cultural and Institutional Milestones:</strong> The Prime Minister extended greetings for the Rath Yatra festival, while the BRIC-THSTI research institute celebrated its 17th Foundation Day.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285228&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285224&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285147&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Digital and Transport Upgrades:</strong> IRCTC is launching a beta version of its new website, while India continues to advance its green rail mobility initiatives with the development of its first hydrogen-powered train.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285066&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285268&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Telecommunications Oversight:</strong> The Telecom Regulatory Authority of India (TRAI) has conducted assessments of mobile network quality across districts in Karnataka, Kerala, and Maharashtra.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285312&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285310&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285308&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Defense and Security Developments:</strong> The Indian Navy is hosting a readiness operation in Kochi, and the Defence Minister emphasized the ongoing strategic importance of border infrastructure in modern warfare.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285293&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285282&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Scientific and Agricultural Innovation:</strong> The Technology Development Board is supporting a Hyderabad-based biosciences firm, while ICAR is showcasing its technology portfolio for corporate social responsibility initiatives.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285332&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285252&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Weather and Administrative Updates:</strong> The IMD has issued forecasts for increased rainfall in East, Northeast, and Western Himalayan regions, alongside the inauguration of a training program on disaster recovery management.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285323&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285274&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "11:29AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285066&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Beta Version of New IRCTC Website to Go Live at 2100 hrs Today</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285240&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India&#x27;s First Hydrogen Fuel Cell Train Set to Redefine Sustainable Rail Mobility with...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285236&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Strengthening Rural Credit for Inclusive Growth in India</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285227&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ICMR study finds drone-enabled TB sample transport can reduce diagnosis time and pati...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285228&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam seeking blessings of Lord Jagannath</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285224&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings on the sacred occasion of Rath Yatra</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285193&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Law Minister Shri Arjun Ram Meghwal Launches e-VSP Portal of Vidhi Sahitya Prakashan</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285147&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">BRIC-THSTI celebrates 17th Foundation Day</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285145&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Mansukh Mandaviya Holds Bilateral Meetings with BRICS Counterparts...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285144&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri G. Kishan Reddy and Minister of State Shri Satish Chandra Dubey L...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285332&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TDB-DST Supports M/s K. N. Biosciences (India) Private Limited, Hyderabad, for Commer...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285323&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IMD Forecasts Enhanced Rainfall Across East, Northeast India and Western Himalayan Re...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285313&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares the President&#x27;s article recounting her faith in Mahaprabhu Jaga...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285312&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TRAI Assesses Mobile Network Quality Across Uttara Kannada District, Karnataka LSA</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285310&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TRAI Assesses Mobile Network Quality Across Kasaragod District, Kerala LSA</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285308&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive fro...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285293&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Border infrastructure to remain indispensable in future technology-driven warfare: Ra...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285282&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy to Host Operation Southern Readiness 26-2 at Southern Naval Command, Koch...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2285274&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PDUNASS Inaugurates Three-Day Training Programme on Recovery Management for Regional ...</a></li>
 </ul>
 
 </details>
