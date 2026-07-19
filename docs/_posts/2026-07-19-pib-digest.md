@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Developments in Infrastructure, Culture, and Governance"
-date: 2026-07-19T10:08:01.720125+00:00
-summary: "Infrastructure Development: New coastal and agricultural highway projects are being developed in Odisha and Bihar to boost tourism, spiritual connectivity, a..."
-run_time_ist: "3:38PM"
+title: "National Development, Public Welfare, and Achievement Digest"
+date: 2026-07-19T15:28:52.550421+00:00
+summary: "Infrastructure and Connectivity: The government is advancing regional development through the construction of Odisha’s new coastal highway to boost tourism a..."
+run_time_ist: "8:58PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 3:38PM</p>
+  <p class="post-meta">Gemini Summary: 8:58PM</p>
 
 <ul class="digest-points">
-  <li><strong>Infrastructure Development:</strong> New coastal and agricultural highway projects are being developed in Odisha and Bihar to boost tourism, spiritual connectivity, and the transport of agricultural produce.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286292&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286291&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Cultural and Historical Recognition:</strong> The government announced the 72nd National Film Awards and paid tribute to revolutionary leader Mangal Pandey.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286143&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286243&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Economic and Technological Growth:</strong> Prime Minister Modi highlighted the role of traditional craftsmanship in economic growth, while the Department of Science and Technology recognized Skyroot Aerospace for its technological contributions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286270&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286239&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>International Relations and Defense:</strong> The Indian Air Force is preparing for the Exercise Pitch Black 2026 in Australia, and the Union Commerce Minister engaged with Estonian business leaders to strengthen bilateral trade.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286254&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286182&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Public Service and Enforcement:</strong> Authorities launched a renewed national water conservation campaign, while the Directorate of Revenue Intelligence conducted significant seizures of illicit substances and smuggled goods.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286164&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Infrastructure and Connectivity:</strong> The government is advancing regional development through the construction of Odisha’s new coastal highway to boost tourism and spiritual connectivity, while Gati Shakti Vishwavidyalaya continues to support the sector by graduating 121 students in specialized engineering and management programs.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286394&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286292&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Public Health and Safety:</strong> Authorities are promoting a mass movement against non-communicable diseases like cancer and diabetes, while the CCPA has taken legal action against 41 restaurants for the unauthorized imposition of service charges.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286326&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286302&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Social Welfare and Sustainability:</strong> The government is reinforcing its commitment to the NAMASTE scheme for sanitation workers and has issued a renewed national call for water conservation through the &quot;Catch the Rain&quot; initiative.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286362&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>International Relations and Governance:</strong> Union Minister Piyush Goyal concluded a high-level visit to strengthen trade ties, and government officials held a consultative meeting with leaders of various political parties.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286360&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286307&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>National Achievements:</strong> The Prime Minister extended congratulations to PV Sindhu for her Japan Open victory and commended Indian students for their gold medal performances at international academic and skill competitions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286349&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286346&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286345&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "3:38PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286143&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">72nd National Film Awards for the year 2024 Announced</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286292&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Odisha’s New Coastal Highway: A Gateway to Spiritual Journeys and Coastal Tourism Rev...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286291&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Banana Farms to Makhana Markets: The Highway Set to Power Bihar’s Agricultural H...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286270&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article on how traditional Indian craftsmanship can drive ec...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286254&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Air Force Ex Pitch Black 2026 at Darwin, Australia</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286243&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays homage to the great revolutionary Mangal Pandey ji</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286239&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“TDB-DST’s Early Recognition of Skyroot&#x27;s Technological Excellence Through the Nation...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Catch the Rain: A Renewed National Call for Water Conservation</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286216&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Eminent industry leader Shri Ravi Kant meets the Prime Minister</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286187&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister condoles passing of Smt. Chennamma Ji</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286394&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Gati Shakti Vishwavidyalaya Holds 4th Convocation; 121 Students Graduate Across B.Tec...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286362&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NAMASTE Scheme Reflects The Government&#x27;s Unwavering Commitment To Ensuring That Every...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286360&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Commerce and Industry Shri Piyush Goyal concludes successful visit ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286349&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates PV Sindhu on winning Japan Open 2026 title</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286346&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Indian team for outstanding performance at the 37th Inte...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286345&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Indian students on winning Gold Medals at the 58th Inter...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286326&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCPA initiates suo motu action against 41 restaurants for levying service charge by d...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286324&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoS Raksha Nikhil Khadse calls upon youth officers to become catalysts of nation-buil...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286307&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Meeting of Government with Leaders of Political Parties held today</a></li>
 </ul>
 
 </details>
