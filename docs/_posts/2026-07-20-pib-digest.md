@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Updates on Digital Infrastructure, Skill Development, and National Policy Initiatives"
-date: 2026-07-20T11:23:02.353059+00:00
-summary: "Digital Finance and Infrastructure: India has reached 55.49 crore UPI users, while the government and RBI continue to strengthen the fintech regulatory frame..."
-run_time_ist: "4:53PM"
+title: "Overview of Recent Government Policy, Infrastructure, and International Trade Developments"
+date: 2026-07-20T16:06:40.358768+00:00
+summary: "Urban Development and Climate Resilience: The government is addressing urban challenges through initiatives focused on shallow aquifer management, mitigating..."
+run_time_ist: "9:36PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 4:53PM</p>
+  <p class="post-meta">Gemini Summary: 9:36PM</p>
 
 <ul class="digest-points">
-  <li><strong>Digital Finance and Infrastructure:</strong> India has reached 55.49 crore UPI users, while the government and RBI continue to strengthen the fintech regulatory framework.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286608&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286607&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Education and Skill Development:</strong> Gati Shakti Vishwavidyalaya celebrated its 4th convocation for 121 graduates, alongside ongoing government efforts to align skill development programs with specific industry requirements.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286394&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286589&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286587&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Logistics and Land Management:</strong> The government is advancing coal logistics through First Mile Connectivity projects and clarifying the implementation of the &#x27;Naksha&#x27; land resource pilot project in Goa.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286593&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286590&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>International Relations:</strong> The President of India conducted a state visit to Moldova to hold bilateral discussions and strengthen diplomatic ties.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286601&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Cultural Heritage Preservation:</strong> Initiatives are underway to repatriate antiquities and cultural objects while ensuring the systematic preservation of historical manuscripts and records.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286583&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Urban Development and Climate Resilience:</strong> The government is addressing urban challenges through initiatives focused on shallow aquifer management, mitigating heat island effects, and managing risks related to urban flooding and landslides.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286775&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Housing and Social Welfare:</strong> Progress continues on the Pradhan Mantri Awas Yojana-Urban, while social security for unorganized workers is being facilitated via the e-Shram portal and the SMILE scheme works toward eliminating begging.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286773&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286757&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286744&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>International Trade and Diplomacy:</strong> India has joined the WTO Agreement on Fisheries Subsidies and is preparing for its 8th Trade Policy Review, alongside efforts to strengthen bilateral business ties with Moldova.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286762&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286763&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286758&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Law Enforcement and Legal Reforms:</strong> The Central Bureau of Narcotics successfully intercepted a major illegal shipment of Tramadol, while the government has released the draft Advocates (Amendment) Bill, 2026, for public consultation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286819&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286679&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Digital Infrastructure Enhancements:</strong> The National Highways Authority of India has upgraded the RajmargYatra mobile app by integrating new digital location-based services for highway users.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286722&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "4:53PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286394&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Gati Shakti Vishwavidyalaya Holds 4th Convocation; 121 Students Graduate Across B.Tech. and MBA Programmes</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286608&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Nearly 55.49 Crore Users Onboarded on UPI as in June 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286607&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government and RBI Strengthen Fintech Ecosystem with Enhanced Regulatory Frameworks &amp;...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286601&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India in Moldova; Holds Bilateral Meeting With President of Moldova and ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286593&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">First Mile Connectivity and Coal Logistics Infrastructure</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286590&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Land Resources Clarifies Facts on &#x27;naksha&#x27; Pilot Project in Goa; Confir...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286589&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Strengthening Skill Development Ecosystem</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286587&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Skill Development For Industry Needs</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Repatriation of Antiquities and Cultural Objects</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286583&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Preservation of Manuscript Books and Records Papers</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoHUA Holds National Interaction with 75 AMRUT Shallow Aquifer Management (SAM) Citie...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286819&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Bureau of Narcotics (CBN) India thwarts illegal trafficking of 12 crore Trama...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286775&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Urban Flooding and Landslides in Several Cities</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286773&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Implementation Status of Pradhan Mantri Awas Yojana-urban</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Mitigating the Urban Heat Island Effect in Indian Cities</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286762&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s 8th Trade Policy Review at WTO Scheduled on 21 and 23 July 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286763&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India Becomes a Party to the WTO Agreement on Fisheries Subsidies by Depositing its I...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286757&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Social Security for Unorganised Workers Through E-shram Portal</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286758&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Addresses India-moldova Business Forum</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286744&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">SMILE Scheme Strengthens India&#x27;s Commitment Towards a ‘Bhiksha Vritti Mukt Bharat’ Th...</a></li>
 </ul>
 
 </details>
