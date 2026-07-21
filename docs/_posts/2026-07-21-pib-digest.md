@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Updates on Public Health, Infrastructure, and National Development Initiatives"
-date: 2026-07-21T10:39:11.611502+00:00
-summary: "Public Health Advancements: The CDSCO has approved India’s first dengue vaccine, while the government continues to integrate AYUSH systems into national heal..."
-run_time_ist: "4:09PM"
+title: "National Health, Education, and Infrastructure Policy Updates"
+date: 2026-07-21T15:58:37.366769+00:00
+summary: "Public Health Initiatives: India has approved its first indigenous dengue vaccine and will host the 16th BRICS Health Ministers' meeting in Chandigarh to dis..."
+run_time_ist: "9:28PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 4:09PM</p>
+  <p class="post-meta">Gemini Summary: 9:28PM</p>
 
 <ul class="digest-points">
-  <li><strong>Public Health Advancements:</strong> The CDSCO has approved India’s first dengue vaccine, while the government continues to integrate AYUSH systems into national healthcare and promote medicinal plant cultivation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286883&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287032&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287031&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>AYUSH Sector Growth:</strong> New initiatives are enhancing the AYUSH industry through digital market access, quality assurance frameworks, and the promotion of medical tourism.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287033&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287029&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Infrastructure and Data Sharing:</strong> The NHAI is facilitating research by sharing national highway data with government institutions, alongside the implementation of the Vinimay land port management system.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287045&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287034&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Trade and Digital Progress:</strong> The government is diversifying export markets through expanded Free Trade Agreements and export promotion measures while reporting significant progress under national digital initiatives.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287030&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287009&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Naval Readiness:</strong> The Southern Naval Command in Kochi has commenced Operation Southern Readiness 26-2 to enhance maritime operational capabilities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287015&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Public Health Initiatives:</strong> India has approved its first indigenous dengue vaccine and will host the 16th BRICS Health Ministers&#x27; meeting in Chandigarh to discuss regional health cooperation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286883&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287325&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Vocational Education Expansion:</strong> The NCVET has officially recognized several institutions, including GD Goenka University, NIRD&amp;PR, NITTTR Kolkata, NTTF, NIIT Foundation, and the Central Hindi Training Institute, as authorized awarding bodies for vocational training.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287354&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287350&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287349&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287348&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287346&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287344&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Environmental Enforcement:</strong> The Commission for Air Quality Management (CAQM) has intensified inspections across the National Capital Region, resulting in 25 closure orders following 175 recent site visits.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287330&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Safety and Infrastructure:</strong> The government reported 332 sanitation worker deaths linked to hazardous sewer cleaning across 18 states and union territories, while continuing the phase-wise construction of rural roads under the PMGSY program.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287317&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287313&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>International Relations:</strong> The President of India conducted a formal address to the Assembly of North Macedonia to strengthen bilateral ties.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287423&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "4:09PM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286883&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CDSCO Approves Indias First Dengue Vaccine, Strengthening National Dengue Prevention Efforts</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287045&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Land Port Management System (vinimay)</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287034&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHAI to Share National Highway Data with Government Research Institutions for Researc...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287033&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Promotion of Ayush based medical tourism</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287032&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Promotion of medicinal plants under NMPB</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287031&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Integration of AYUSH in national health systems</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287030&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“Progress achieved under digital initiative”</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287029&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Digital market access and quality assurance framework for AYUSH products</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287015&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Operation Southern Readiness 26-2 Commences at Southern Naval Command, Kochi</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287009&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Expands FTAs, Export Promotion Measures to Diversify Export Markets</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287423&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Addresses the Assembly of North Macedonia</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287354&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCVET Recognises GD Goenka University as Awarding Body (AB–Standard)</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287350&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCVET recognises National Institute of Rural Development and Panchayati Raj (NIRD&amp;PR)...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287349&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCVET Recognises NITTTR Kolkata as Awarding Body (Dual)</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287348&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCVET Recognises NTTF as Awarding Body (AB–Dual) with pan-India territorial jurisdict...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287346&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCVET Grants Awarding Body (Dual) Recognition to NIIT Foundation to Strengthen AI-Ena...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287344&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCVET recognises Central Hindi Training Institute (CHTI) as Awarding Body (Dual)</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287330&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM Reviews Enforcement Actions across NCR; 175 Inspections conducted in 14 days; 25...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2287325&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India to Host the Sixteenth BRICS Health Ministers&#x27; Meeting in Chandigarh from 22–24 ...</a></li>
 </ul>
 
 </details>
