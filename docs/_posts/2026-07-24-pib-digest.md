@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Updates on National Defense, Economic Growth, and Public Health Initiatives"
-date: 2026-07-24T10:34:08.768185+00:00
-summary: "Defense and Trade: The DRDO successfully tested the ‘Kusha’ longrange surfacetoair missile, while India and Israel concluded a second round of negotiations f..."
-run_time_ist: "4:04PM"
+title: "Government Policy Updates on Governance, Infrastructure, and Public Welfare"
+date: 2026-07-24T15:51:02.867347+00:00
+summary: "Governance and Recruitment: The government is implementing stricter measures against examination paper leaks while managing ongoing recruitment processes for..."
+run_time_ist: "9:21PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 4:04PM</p>
+  <p class="post-meta">Gemini Summary: 9:21PM</p>
 
 <ul class="digest-points">
-  <li><strong>Defense and Trade:</strong> The DRDO successfully tested the ‘Kusha’ long-range surface-to-air missile, while India and Israel concluded a second round of negotiations for a proposed Free Trade Agreement.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288526&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288849&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Economic Development:</strong> India’s services exports reached USD 421.3 billion in FY 2025-26, supported by the One District One Product initiative which now promotes 1,244 unique products nationwide.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288853&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288851&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Media and Broadcasting:</strong> The government has mandated 20% local content for private FM radio channels and introduced the Television Rating Policy, 2026 to improve transparency and accountability in the industry.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288854&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288841&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Public Health Infrastructure:</strong> Medical education capacity has expanded significantly with MBBS seats reaching 1.29 lakh and PG seats nearly tripling, alongside ongoing research and initiatives to address childhood hypertension and obesity.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288852&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288846&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288843&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Digital Health and Agriculture:</strong> The National Health Authority is leading international dialogues on digital health continuity, while the government continues to ensure the timely distribution of fertilizers to states.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288824&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288817&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Governance and Recruitment:</strong> The government is implementing stricter measures against examination paper leaks while managing ongoing recruitment processes for various central government posts and the Engineering Services Examination.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288691&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289106&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289098&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Infrastructure and Connectivity:</strong> Authorities have activated Intra-Circle Roaming to restore telecommunications in affected areas and are advancing projects focused on the development of inland waterways.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289168&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289149&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Public Health and Sanitation:</strong> Recent initiatives include the successful conclusion of the Ayushman Arogya health camps and the hosting of the 9th Sujal Gram Samvad to promote drinking water and sanitation standards.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289090&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289042&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Socio-Economic Development:</strong> Efforts to support marginalized communities include educational benefits for over 13,550 Scheduled Caste students in Karnataka and the modernization of Jan Seva Connect post offices.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289063&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289061&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Cultural and Environmental Initiatives:</strong> The government is promoting India’s handloom heritage through the &#x27;Weaves of India&#x27; festival and advancing circular economy goals through sustainable mine closure initiatives.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289127&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289072&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "4:04PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288526&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRDO conducts successful maiden flight-test of ‘Kusha’ Long-Range Surface-to-Air Missile</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288853&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DPIIT&#x27;s One District One Product Initiative Promotes 1,244 Unique Products Across 773...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288854&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">386 Private FM Radio Channels Operational; Govt Policy Mandates 20% Content in Local ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288852&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Update on Expenditure on Health Research</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288851&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India&#x27;s Services Exports Rise to USD 421.3 Billion in FY 2025-26, Led by Telecommunic...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288849&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and Israel Conclude Second Round of Negotiations for Proposed Free Trade Agreem...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288846&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Measures taken to curb Childhood Hypertension and Obesity</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288843&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MBBS Seats Increase to 1.29 Lakh, PG Seats Nearly Triple to 86,360 Between AY 2023–24...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288841&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Television Rating Policy, 2026 to Strengthen Transparency, Independence and Accountab...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288824&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Ensures Adequate and Timely Availability of Fertilizers Across All States ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2288691&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Announces More Strict Actions Against Paper Leaks to Come in Today’s Cabinet</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289168&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Telecommunications Activates Intra-Circle Roaming (ICR) in Affected Dis...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289149&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Development of Inland Waterways and Related Projects</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289133&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Two Days of the BRICS Science Academies Forum Meeting 2026 successfully concluded at ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289127&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">&#x27;Weaves of India&#x27; Festival Showcases India&#x27;s Finest Handloom Heritage at Central Cott...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289106&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Direct Recruitment to various posts in Government of India</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289098&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Engineering Services (main) Examination, 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289090&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Drinking Water and Sanitation hosted the 9th edition of Sujal Gram Samv...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289072&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Mine closure is a landmark initiative in India&#x27;s transition towards circular economy:...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2289063&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Over 13,550 Scheduled Caste Students in Karnataka&#x27;s Chikkaballapura District Benefit ...</a></li>
 </ul>
 
 </details>
