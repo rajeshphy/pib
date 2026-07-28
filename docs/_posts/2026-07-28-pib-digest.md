@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Progress in Conservation, Agriculture, Education, and Youth Development"
-date: 2026-07-28T06:08:40.251279+00:00
-summary: "Environmental and Agricultural Updates: India continues to lead in global tiger conservation efforts, while the government monitors the ongoing progress of K..."
-run_time_ist: "11:38AM"
+title: "Overview of Recent Indian Economic, Infrastructure, and Policy Developments"
+date: 2026-07-28T10:58:10.036307+00:00
+summary: "Economic Growth and Trade: India achieved record exports of US$ 863.1 billion in FY 2025–26, supported by an 89.1% surge in toy exports and the launch of the..."
+run_time_ist: "4:28PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 11:38AM</p>
+  <p class="post-meta">Gemini Summary: 4:28PM</p>
 
 <ul class="digest-points">
-  <li><strong>Environmental and Agricultural Updates:</strong> India continues to lead in global tiger conservation efforts, while the government monitors the ongoing progress of Kharif crop area coverage.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290233&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290176&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Youth Empowerment and Education:</strong> The MY Bharat platform has provided experiential learning opportunities to over 1.22 lakh youth, alongside ongoing government assessments to evaluate and improve school education quality.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290113&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290099&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Industrial and Technological Support:</strong> The Union Minister of Commerce and Industry has established a task force to support startups, while the Prime Minister engaged with leaders from the aerospace sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290210&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290190&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Recognition of Sporting Achievements:</strong> The Prime Minister extended formal congratulations to weightlifters Bindyarani Devi Sorokhaibam and Gyaneshwari Yadav for their recent medal-winning performances.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290216&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290138&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Governance and Cultural Outreach:</strong> The government is actively conducting parliamentary consultative committee meetings to oversee policy implementation and promoting traditional values through Sanskrit literature.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290215&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290170&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Economic Growth and Trade:</strong> India achieved record exports of US$ 863.1 billion in FY 2025–26, supported by an 89.1% surge in toy exports and the launch of the first direct commercial container freight train to Nepal.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290444&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290441&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290437&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Infrastructure and Connectivity:</strong> The government is advancing major infrastructure projects, including the preparation of a Detailed Project Report to decongest the Sarai Kale Khan loop and ongoing monitoring of central sector projects worth over ₹150 crore.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290462&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290413&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Fisheries and Blue Economy:</strong> New initiatives under the PMMSY scheme are strengthening inland fisheries infrastructure and supporting traditional fish farmers across Tamil Nadu and Andhra Pradesh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290434&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290428&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290424&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Governance and Public Service:</strong> New legislative measures have been introduced to prevent unfair practices in public examinations, while the government is implementing stricter oversight to ensure the availability of fertilizers.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290080&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290436&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Inclusive Economic Support:</strong> The National SC-ST Hub Scheme continues to foster reliable supply chains and promote employment opportunities for marginalized communities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290460&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "11:38AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290233&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India Leads the Wilderness in Tiger Conservation</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290216&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Weightlifter, Bindyarani Devi Sorokhaibam on winning Bro...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290215&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the importance of protecting ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290210&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister interacts with Pawan Chandana and Naga Bharath Daka of Skyroot Aerospa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290190&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Commerce &amp; Industry Shri Piyush Goyal Announces Task Force to Suppo...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290176&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Progress of area coverage under Kharif crops as on 24.07.2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290170&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Jyotiraditya M. Scindia Chairs Parliamentary Consultative Committ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290138&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Gyaneshwari Yadav on winning Silver Medal in Weightlifti...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290113&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat Enables Over 1.22 Lakh Youth to Gain Hands-on Experience Through Experienti...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290099&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Assessment of Quality of Education Imparted in Schools</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290080&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Jitendra Singh Introduces the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026 i...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290462&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHAI Undertakes DPR Preparation to Decongest Sarai Kale Khan Loop on DND–Sohna Nation...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290460&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The National SC-ST Hub Scheme is helping in reliable supply chains, increased employm...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290444&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India&#x27;s First Direct Commercial Container Freight Train Reaches Nepal, Opening a New ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290441&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India&#x27;s Toy Exports Soar 89.1%, Reflecting Strong Growth in Domestic Manufacturing</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290437&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India&#x27;s Exports Scale Record US$ 863.1 Billion in FY 2025–26, Driven by Strong Trade ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290436&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Strengthens Measures to Ensure Timely Fertilizer Availability and Curb Bla...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290434&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Inland Fisheries Infrastructure Under Pmmsy</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290428&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Traditional Fishermen and Fish Farmers in Tamil Nadu</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290424&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Blue Economy Projects in Andhra Pradesh</a></li>
 </ul>
 
 </details>
