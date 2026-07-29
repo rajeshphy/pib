@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Governance, Conservation, and Public Safety Updates"
-date: 2026-07-29T06:14:01.192389+00:00
-summary: "Administrative Governance: The Prime Minister held a highlevel meeting with government secretaries to review policy implementation and administrative efficie..."
-run_time_ist: "11:44AM"
+title: "Government Policy Updates on Skill Development, Infrastructure, and National Governance"
+date: 2026-07-29T11:03:33.024485+00:00
+summary: "Governance and Administration: The Prime Minister held a highlevel meeting with Government of India Secretaries to review administrative priorities and polic..."
+run_time_ist: "4:33PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 11:44AM</p>
+  <p class="post-meta">Gemini Summary: 4:33PM</p>
 
 <ul class="digest-points">
-  <li><strong>Administrative Governance:</strong> The Prime Minister held a high-level meeting with government secretaries to review policy implementation and administrative efficiency.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Human Rights Interventions:</strong> The National Human Rights Commission has initiated suo motu investigations into separate incidents involving worker fatalities and deaths caused by toxic gas inhalation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290910&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290909&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Environmental and Wildlife Conservation:</strong> Government initiatives marked Global Tiger Day and World Nature Conservation Day, while the CAQM reviewed efforts to mitigate legacy dust pollution in Delhi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290887&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290799&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290780&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Presidential Initiatives:</strong> President Droupadi Murmu launched new programs at Rashtrapati Bhavan and commemorated four years in office with the release of special commemorative stamps.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290771&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>National Security and Development:</strong> The government is monitoring safety preparedness for Indian seafarers amid geopolitical shifts and continues to support research projects in Jammu and Kashmir.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290817&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Governance and Administration:</strong> The Prime Minister held a high-level meeting with Government of India Secretaries to review administrative priorities and policy implementation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Skill Development and Employment:</strong> The government is advancing workforce readiness through the PMKVY 4.0 scheme, the PM-SETU initiative for upgrading ITIs, and performance-based training outcomes.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291107&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291102&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291100&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Nuclear Energy Expansion:</strong> Parliament was briefed on the operational performance of existing nuclear power plants and the ongoing mission to expand the nation&#x27;s nuclear energy capacity.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291095&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291093&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291090&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Space and Disaster Management:</strong> Updates were provided on the progress of the Gaganyaan human spaceflight programme and the application of space technology for disaster management in Ladakh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291083&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291085&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Human Rights and Employment:</strong> The NHRC has taken suo motu cognizance of reported human rights violations, while Indian Railways continues its mission-mode recruitment drive to strengthen its workforce.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291099&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291087&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "11:44AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM Chairs Second High-Level Meeting with Secretaries of Government of India</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PARLIAMENT QUESTION: Research Projects in Jammu and Kashmir</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290910&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHRC, India takes suo motu cognizance of the reported death of four workers and sever...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290909&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHRC, India takes suo motu cognizance of the reported death of two persons after inha...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290887&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings on Global Tiger Day, reaffirms commitment to tiger c...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290875&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the role of teachers on Guru ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President Droupadi Murmu Launches Various Initiatives at Rashtrapati Bhavan to Mark T...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290817&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sarbananda Sonowal Reviews Safety Preparedness for Indian Seafarers Amid Evolving Geo...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290799&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">World Nature Conservation Day Celebrated at National Zoological Park, New Delhi</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290780&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM reviews progress of Special Campaign for Removal of Legacy Dust across 12 MCD Zo...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291107&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Skill Training Outcomes, Employment Generation and Performance-Based Payments</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291102&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Implementation of Pradhan Mantri Kaushal Vikas Yojana (PMKVY) 4.0</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291100&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Pradhan Mantri Skilling And Employability Transformation Through Upgraded ITIs (PM-SE...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291099&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHRC, India takes suo motu cognizance of the reported torture and inhuman treatment t...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291095&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Nuclear Power Projects</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291093&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Operational Performance of Npcil Nuclear Power Plants</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291090&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Nuclear Energy Mission</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291087&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Railways Strengthens Workforce Through Mission-Mode Recruitment</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291083&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Gaganyaan Programme</a></li>
 </ul>
 
 </details>
