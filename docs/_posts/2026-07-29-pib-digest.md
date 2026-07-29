@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Policy Updates on Skill Development, Infrastructure, and National Governance"
-date: 2026-07-29T11:03:33.024485+00:00
-summary: "Governance and Administration: The Prime Minister held a highlevel meeting with Government of India Secretaries to review administrative priorities and polic..."
-run_time_ist: "4:33PM"
+title: "National Development, Education Initiatives, and Recent Government Achievements"
+date: 2026-07-29T15:59:34.003398+00:00
+summary: "Presidential and Ministerial Initiatives: President Droupadi Murmu launched new initiatives at Rashtrapati Bhavan to mark four years of her tenure, while the..."
+run_time_ist: "9:29PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 4:33PM</p>
+  <p class="post-meta">Gemini Summary: 9:29PM</p>
 
 <ul class="digest-points">
-  <li><strong>Governance and Administration:</strong> The Prime Minister held a high-level meeting with Government of India Secretaries to review administrative priorities and policy implementation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Skill Development and Employment:</strong> The government is advancing workforce readiness through the PMKVY 4.0 scheme, the PM-SETU initiative for upgrading ITIs, and performance-based training outcomes.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291107&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291102&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291100&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Nuclear Energy Expansion:</strong> Parliament was briefed on the operational performance of existing nuclear power plants and the ongoing mission to expand the nation&#x27;s nuclear energy capacity.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291095&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291093&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291090&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Space and Disaster Management:</strong> Updates were provided on the progress of the Gaganyaan human spaceflight programme and the application of space technology for disaster management in Ladakh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291083&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291085&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Human Rights and Employment:</strong> The NHRC has taken suo motu cognizance of reported human rights violations, while Indian Railways continues its mission-mode recruitment drive to strengthen its workforce.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291099&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291087&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Presidential and Ministerial Initiatives:</strong> President Droupadi Murmu launched new initiatives at Rashtrapati Bhavan to mark four years of her tenure, while the Union Health Minister urged West Bengal MPs to prioritize public health leadership.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291403&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Economic and Infrastructure Growth:</strong> The government is prioritizing innovation, startups, and MSMEs as key economic pillars, alongside the launch of the DAANVEER initiative to enhance digital infrastructure in Gram Panchayats.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291450&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291370&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Educational Reforms and Employment:</strong> Policy efforts are focused on promoting mother tongue-based education, implementing the NIPUN Bharat mission for literacy, and aligning academic curricula with current employment opportunities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291340&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291329&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291327&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Skill Development and Housing:</strong> The government has inaugurated an advanced e-learning center under the CSIR skill initiative and reviewed progress within the Housing for All (HFA) division.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291365&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291357&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Sports Achievements:</strong> The Prime Minister extended congratulations to athletes Gulveer and Harjinder Kaur for securing silver medals in their respective Commonwealth events.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291354&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291351&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "4:33PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM Chairs Second High-Level Meeting with Secretaries of Government of India</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291107&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Skill Training Outcomes, Employment Generation and Performance-Based Payments</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291102&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Implementation of Pradhan Mantri Kaushal Vikas Yojana (PMKVY) 4.0</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291100&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Pradhan Mantri Skilling And Employability Transformation Through Upgraded ITIs (PM-SE...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291099&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHRC, India takes suo motu cognizance of the reported torture and inhuman treatment t...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291095&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Nuclear Power Projects</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291093&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Operational Performance of Npcil Nuclear Power Plants</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291090&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Nuclear Energy Mission</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291087&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Railways Strengthens Workforce Through Mission-Mode Recruitment</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291083&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Gaganyaan Programme</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2290835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President Droupadi Murmu Launches Various Initiatives at Rashtrapati Bhavan to Mark the Completion of Four Years of Her...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291450&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Innovation, Startups, MSMEs and Quality Manufacturing are Pillars of India&#x27;s Future G...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291403&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Minister Shri Jagat Prakash Nadda calls upon MPs from West Bengal to lea...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291370&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DAANVEER Initiative Launched; To Boost Digital Infrastructure Across India&#x27;s Gram Pan...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291365&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Tokhan Sahu Visits HFA Division, Appreciates Team&#x27;s Contribution Towards Realisi...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291357&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CSIR-IMMT Inaugurated Advanced E-Learning Centre under CSIR Integrated Skill Initiati...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291354&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Gulveer on winning Silver in Men’s 10,000m at Commonweal...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291351&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Harjinder Kaur on winning Silver in Women’s 69 kg event ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291340&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NIPUN Bharat Mission and Foundational Literacy and Numeracy</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291329&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Promotion of Mother Tongue-based Education</a></li>
 </ul>
 
 </details>
