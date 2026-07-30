@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy Updates: Infrastructure, Technology, and SocioEconomic Development"
-date: 2026-07-30T10:38:28.440287+00:00
-summary: "Technology and Digital Safety: The government is implementing a legal framework to combat AIgenerated deepfakes while simultaneously developing a robust tale..."
-run_time_ist: "4:08PM"
+title: "Government Initiatives in Infrastructure, Social Welfare, and National Security"
+date: 2026-07-30T16:03:00.172842+00:00
+summary: "National Security: The Prime Minister chaired a Cabinet Committee on Security meeting to assess the implications of the ongoing conflict in West Asia. Source..."
+run_time_ist: "9:33PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 4:08PM</p>
+  <p class="post-meta">Gemini Summary: 9:33PM</p>
 
 <ul class="digest-points">
-  <li><strong>Technology and Digital Safety:</strong> The government is implementing a legal framework to combat AI-generated deepfakes while simultaneously developing a robust talent pipeline for the semiconductor industry.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291671&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Fisheries and Blue Economy:</strong> New initiatives are focusing on empowering women in coastal fisheries, enhancing marine infrastructure, and strengthening fishing harbours and landing centers in Odisha.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291662&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291660&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291658&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Industrial and Cultural Growth:</strong> Efforts to boost manufacturing and innovation are underway through public-private partnerships, alongside the inauguration of a new Centre of Excellence for handloom technology and the conclusion of BRICS cultural working group meetings.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291701&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291683&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Disaster Management and Public Services:</strong> The Prime Minister has reviewed flood relief measures for Arunachal Pradesh and Nagaland, while the Health Ministry is overseeing preparations for the upcoming NEET UG 2026 counselling process.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291680&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Energy Policy:</strong> The national rollout of E20 fuel is being executed following comprehensive stakeholder consultations and rigorous scientific validation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291661&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>National Security:</strong> The Prime Minister chaired a Cabinet Committee on Security meeting to assess the implications of the ongoing conflict in West Asia.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Infrastructure and Maritime Development:</strong> India is advancing its maritime capabilities with the delivery of the indigenous diving support vessel &#x27;Nipun&#x27; and ongoing efforts to expand port infrastructure under the Viksit Bharat 2047 vision.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292073&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292046&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Social Welfare and Education:</strong> The government continues to provide financial support and scholarships to millions of students from Scheduled Caste and Other Backward Class communities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292099&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291977&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Regional Development and Cooperation:</strong> Key initiatives include a new telecommunications MoU with Madhya Pradesh, a ministerial meeting to address inter-state water issues, and the first sea export of value-added Makhana from Bihar.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292101&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292004&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Public Policy and Governance:</strong> Recent updates include the implementation of the National Smart Public Transport Mission, data on SC/ST Act case registrations, and efforts to clarify facts regarding ethanol-blended petrol.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291993&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291974&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291959&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "4:08PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Minister Shri Jagat Prakash Nadda Reviews Preparedness for NEET UG Counselling 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Outcomes of Brics Cultural Working Group Meetings</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291701&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Giriraj Singh to Inaugurate Centre of Excellence for Handloom Tec...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291683&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government and Industry Join Hands to Accelerate Investment, Innovation and Manufactu...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291680&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister reviews flood situation in Arunachal Pradesh and Nagaland with MPs fro...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291671&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Strengthens Framework to Counter AI-Generated Deepfakes through Legal Safe...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Adopts Multi-Pronged Roadmap to Build a Robust Semiconductor Talent Pipeli...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291662&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Blue Economy Strategy for Women in Coastal Fisheries</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291661&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">E20 Rollout Based on Scientific Validation and Extensive Stakeholder Consultation</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291660&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Marine Fisheries Infrastructure and Fishermen Welfare in Odisha</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM chairs CCS Meeting to review the situation in context of ongoing West Asia Conflict</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292101&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Telecommunications Signs MoU with Government of Madhya Pradesh for Esta...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292099&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Continues Educational Support for OBC Students Through Scholarships and Fr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292073&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Delivery of Second Indigenous Diving Support Vessel - ‘nipun’</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292046&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India Expedites Maritime Capacity Expansion as Government Pushes Viksit Bharat 2047 G...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2292004&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">APEDA Facilitates First-Ever Sea Shipment of Value-Added Flavoured Makhana from Bihar...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Jal Shakti Chairs Meeting With Chief Ministers of Chhattisgarh and ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM chairs CCS Meeting to review the situation in context of ongoing West Asia Conflic...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291993&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Facts about Ethanol Blended Petrol: Separating Facts from Misconceptions</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2291977&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Over 25.85 Lakh Scheduled Caste Students in Tamil Nadu Benefitted from Central Schola...</a></li>
 </ul>
 
 </details>
