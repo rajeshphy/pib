@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Initiatives in Digital Governance, Skill Development, and Social Welfare"
-date: 2026-08-05T11:00:55.139495+00:00
-summary: "Digital Governance and Monitoring: The government is enhancing public service delivery and oversight through digital tools like the 'Poshan Tracker' for nutr..."
-run_time_ist: "4:30PM"
+title: "National Policy Updates: Health, Infrastructure, and Social Welfare Initiatives"
+date: 2026-08-05T16:13:37.967724+00:00
+summary: "Public Health and Research: The Centre has deployed a National Joint Outbreak Response Team to investigate the Chandipura virus, while researchers have devel..."
+run_time_ist: "9:43PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 4:30PM</p>
+  <p class="post-meta">Gemini Summary: 9:43PM</p>
 
 <ul class="digest-points">
-  <li><strong>Digital Governance and Monitoring:</strong> The government is enhancing public service delivery and oversight through digital tools like the &#x27;Poshan Tracker&#x27; for nutrition monitoring and a digitized end-to-end adoption process via CARA.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294870&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Women’s Empowerment and Welfare:</strong> Various government schemes, including &#x27;Beti Bachao Beti Padhao&#x27; and the &#x27;One Stop Centre&#x27; initiative, are actively working to improve child sex ratios, provide integrated support for women, and promote female asset ownership.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294868&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294867&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294863&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Skill Development and Apprenticeships:</strong> National programs are prioritizing industry-aligned training, apprenticeship promotion, and specialized skill development in emerging technologies to improve workforce readiness.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294865&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294861&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294856&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294851&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>International Cooperation and Industry Events:</strong> India is hosting the second BRICS Anti-Corruption Working Group meeting and the 9th India Medical Device 2026 conference to foster global collaboration and sectoral growth.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294859&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294853&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Aviation Safety:</strong> Authorities are addressing the incident involving Air India flight AI2379, which occurred on August 4, 2026, on the Phuket-Delhi route.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294547&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Public Health and Research:</strong> The Centre has deployed a National Joint Outbreak Response Team to investigate the Chandipura virus, while researchers have developed light-activated nano-robots for targeted breast cancer therapy.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294690&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295121&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Infrastructure and Logistics:</strong> The government has expanded operational flexibility for container train operators across all routes and witnessed a new MoU between Pawan Hans and a Norwegian firm to boost civil aviation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295243&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295190&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Social Welfare and Governance:</strong> The government has clarified EWS reservation criteria and highlighted the release of ₹747.17 crore to Uttar Pradesh for the implementation of Scheduled Caste welfare schemes.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295095&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295093&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Awards and Recognition:</strong> Union Minister Nitin Gadkari honored 12 individuals with the Sarvottam Jeevan Raksha Padak for their bravery, while the Ministry of Women and Child Development recognized the achievements of Aasha Malviya.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295181&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295097&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Corporate and Cultural Updates:</strong> The Competition Commission of India (CCI) has approved several merger and acquisition proposals, coinciding with the 72nd Foundation Day celebrations of the Lalit Kala Akademi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295182&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295120&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "4:30PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294547&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Incident involving Air India Flight AI2379 (Phuket–Delhi) on 04.08.2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">‘Poshan Tracker’ digital application, an ICT based tool for monitoring and reviewing ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294870&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CARA has digitized end-to-end process through the digital platform of Adoption Module...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294868&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Several Schemes of Government of India promote asset ownership by women and their eco...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294867&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Beti Bachao Beti Padhao helps to address Child Sex Ratio and related issues of empowe...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294865&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Skill Development For Emerging Technologies</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294863&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">One Stop Centre provides integrated and immediate support and assistance under one ro...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294859&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Second BRICS Anti-Corruption Working Group Meeting 4th-5th August 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294861&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Skill Development Programmes</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294856&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Industry-Aligned Skill Development and Apprenticeship Promotion</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294690&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Centre Deploys National Joint Outbreak Response Team as Multi-Institutional Probe Intensifies into Chandipura Virus Outb...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295243&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Civil Aviation Minister Shri Ram Mohan Naidu witnesses Pawan Hans MoU with Norway’s N...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295190&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Good News for Container Train Operators as They Can Operate Across All Routes with a ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295182&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lalit Kala Akademi Celebrates Its 72nd Foundation Day</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295181&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Nitin Gadkari Confers Sarvottam Jeevan Raksha Padak on 12 Rat Min...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295120&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves proposed combination inter alia involving share acquisition(s) and merge...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295121&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Light-activated nano-robots can help targeted breast cancer therapy</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295097&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoS for Women and Child Development Smt. Savitri Thakur congratulates Aasha Malviya o...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295095&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Centre Releases ₹747.17 Crore to Uttar Pradesh Since 2019-20 for Implementation of SC...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295093&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Clarifies Objective and Eligibility Criteria for Reservation to Economical...</a></li>
 </ul>
 
 </details>
