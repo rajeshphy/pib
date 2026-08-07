@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Policy Updates, Public Welfare Initiatives, and National Awareness Alerts"
-date: 2026-08-07T09:33:16.779947+00:00
-summary: "Energy and Environment: The Cabinet approved the GOBARdhan scheme with a ₹23,731 crore outlay for compressed biogas, while the Union Environment Minister par..."
-run_time_ist: "3:03PM"
+title: "Government Policy Updates, Legislative Reports, and Educational Initiatives"
+date: 2026-08-07T15:14:26.895050+00:00
+summary: "Legislative and Parliamentary Updates: Parliament has passed the MSME Development (Amendment) Bill, 2026, while several new reports from departmentrelated pa..."
+run_time_ist: "8:44PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 3:03PM</p>
+  <p class="post-meta">Gemini Summary: 8:44PM</p>
 
 <ul class="digest-points">
-  <li><strong>Energy and Environment:</strong> The Cabinet approved the GOBARdhan scheme with a ₹23,731 crore outlay for compressed biogas, while the Union Environment Minister participated in Haryana’s 77th Van Mahotsav.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295480&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Public Health and Medicine:</strong> The government continues to regulate drug pricing and promote the Pradhan Mantri Bharatiya Janaushadhi Pariyojana to ensure affordable access to essential medicines.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295930&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>National Handloom Promotion:</strong> Government leaders and the Prime Minister marked National Handloom Day by encouraging citizens to support and adopt Indian handloom products as a vital part of the nation&#x27;s heritage.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295924&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295916&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295848&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Cybersecurity and Governance:</strong> The I4C has issued a warning to professionals regarding &quot;Boss Scams&quot; on WhatsApp, while the judiciary continues its digital transformation efforts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295889&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295880&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Human Rights and Social Welfare:</strong> The NHRC has taken suo motu cognizance of student safety concerns, and the Prime Minister highlighted the importance of selfless service through traditional Sanskrit teachings.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295850&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295841&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Legislative and Parliamentary Updates:</strong> Parliament has passed the MSME Development (Amendment) Bill, 2026, while several new reports from department-related parliamentary standing committees have been released.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296358&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296309&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296304&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296302&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296292&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Educational and Career Opportunities:</strong> The Prime Minister will address the 57th IIT Delhi convocation, and applications are open for the Central Armed Police Forces (Assistant Commandants) Examination, 2025.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295834&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296331&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Student Empowerment Schemes:</strong> Government initiatives like the Top Class Education Scheme and the PM-YASASVI scholarship are successfully helping students overcome financial barriers to achieve their academic goals.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296301&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296296&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>National Awards:</strong> The government has invited nominations for the National Gopal Ratna Award 2026 to recognize excellence in the livestock and dairy sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296314&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Demographic Data:</strong> Official records confirm that Census 2011 provides comprehensive caste-wise population data for Scheduled Castes.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296291&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "3:03PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295480&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves GOBARdhan, India’s National Unified Scheme for Compressed Biogas, with an outlay of Rs.23,731 crore</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295930&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Fixation and Regulation of Prices of Drugs</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295924&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article highlighting handloom as one of India’s greatest civ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Pradhan Mantri Bharatiya Janaushadhi Pariyojana</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Environment Minister graces Haryana’s 77th Van Mahotsav celebrations at Manesar...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295916&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Smt. Annpurna Devi Urges Citizens to Adopt Indian Handloom Products on...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295898&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Text of the Reference Made By the Hon&#x27;ble Chairman, Rajya Sabha on the 84th Anniversa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295889&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">I4C cautions corporates and finance professionals against ‘Boss Scam’: WhatsApp accou...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295880&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The Digital Transformation of the Indian Judiciary</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295850&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam emphasizing on spirit of selfless service</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2295834&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM to address the 57th Convocation Ceremony of IIT Delhi on 8th August</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296358&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026 passed by ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296331&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Armed Police Forces (assistant Commandants) Examination, 2025</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296314&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Invitation of nominations for National Gopal Ratna Award -2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296309&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release on the 259th, 260th and 261st Reports of Department-related Parliament...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296304&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release on the 166th Report of Department-related Parliamentary Standing Commi...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296302&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release on the 165th Report of Department-related Parliamentary Standing Commi...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296301&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Turning Aspirations into Achievement: How the Top Class Education Scheme Empowered Ak...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release on the 412th Report of the Department-related Parliamentary Standing Co...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296296&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Breaking Financial Barriers: How the PM-YASASVI Scheme Helped Divya Darade Fulfil Her...</a></li>
 </ul>
 
 </details>
