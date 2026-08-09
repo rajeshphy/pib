@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Developments in Infrastructure, Public Health, and Aviation Safety"
-date: 2026-08-09T14:58:26.372539+00:00
-summary: "Aviation Safety Incidents: Authorities are investigating recent incidents involving an Air India A320 flight that experienced a sudden loss of altitude and a..."
-run_time_ist: "8:28PM"
+title: "National Policy Updates, Infrastructure Milestones, and Aviation Safety Reports"
+date: 2026-08-09T21:06:51.555619+00:00
+summary: "Aviation Safety Incidents: Authorities are investigating separate incidents involving an Air India A320 flight that experienced a sudden altitude loss and a..."
+run_time_ist: "2:36AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 8:28PM</p>
+  <p class="post-meta">Gemini Summary: 2:36AM</p>
 
 <ul class="digest-points">
-  <li><strong>Aviation Safety Incidents:</strong> Authorities are investigating recent incidents involving an Air India A320 flight that experienced a sudden loss of altitude and a runway excursion involving a Cessna C172 trainer aircraft.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296861&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Public Health and Social Initiatives:</strong> The government is promoting a nationwide &quot;Nasha Mukt Bharat&quot; (Drug-Free India) campaign, emphasizing the need to extend anti-drug awareness from major cities to rural villages.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296858&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Infrastructure and Energy Milestones:</strong> India has reached a significant milestone in the Pradhan Mantri Awas Yojana-Urban with 1.25 crore houses sanctioned, alongside achieving a total capacity of 300 GW in non-fossil fuel power.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296797&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296782&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>International Cooperation and Defense:</strong> The Indian and US Navies are set to commence a joint Explosive Ordnance Disposal exercise, while the Competition Commission of India hosted the BRICS Heads of Competition Authorities meeting.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296842&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>National Campaigns and Economic Strategy:</strong> The Prime Minister has called for public participation in the &quot;Har Ghar Tiranga&quot; movement, while the ICoAS fraternity continues to focus on cost optimization to support the Atmanirbhar Bharat initiative.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296879&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296868&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Aviation Safety Incidents:</strong> Authorities are investigating separate incidents involving an Air India A320 flight that experienced a sudden altitude loss and a Cessna C172 trainer aircraft that suffered a runway excursion at Baramati.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296861&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Housing and Economic Development:</strong> The Pradhan Mantri Awas Yojana-Urban has reached a significant milestone with 1.25 crore houses sanctioned, while the ICoAS fraternity has pledged to support self-reliance through cost optimization.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296879&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296797&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Public Health and National Campaigns:</strong> The government is promoting a drug-free India through the &quot;Nasha Mukt Bharat&quot; campaign and encouraging widespread public participation in the &quot;Har Ghar Tiranga&quot; movement.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296868&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296858&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>International Cooperation and Defense:</strong> India is strengthening global ties through a joint Explosive Ordnance Disposal exercise with the U.S. Navy and by hosting the BRICS Heads of Competition Authorities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296842&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Sports and Innovation:</strong> The Prime Minister honored Commonwealth Games 2026 medal winners, while officials highlighted India&#x27;s potential to become a key global player in the upcoming biotechnology-led industrial revolution.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296785&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,6 +28,7 @@ run_time_ist: "8:28PM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sudden loss of altitude during cruise and injuries on board M/s Air India A320 aircraft VT-EXO operating flight AI2379 f...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister hosts Commonwealth Games 2026 medal winners</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296879&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ICoAS fraternity reaffirms commitment to cost optimisation for Atmanirbhar Bharat on ...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296868&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister urges people to participate in Har Ghar Tiranga movement</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296861&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Runway Excursion Incident Involving Cessna C172 trainer Aircraft at Baramati Airfield...</a></li>
@@ -36,7 +37,6 @@ run_time_ist: "8:28PM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sudden loss of altitude during cruise and injuries on board M/s Air India A320 aircra...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Competition Commission of India (CCI) hosts BRICS Heads of Competition Authorities 20...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296797&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Pradhan Mantri Awas Yojana - Urban Milestone: 1.25 crore houses sanctioned, 1 crore h...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">‘Nasha Mukt Bharat’ the theme as Sports Minister Dr Mansukh Mandaviya leads nationwid...</a></li>
 </ul>
 
 </details>
