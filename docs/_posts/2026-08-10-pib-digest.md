@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Governance, Infrastructure, and Conservation Updates"
-date: 2026-08-10T09:58:18.299468+00:00
-summary: "Wildlife Conservation: The population of Asiatic lions has seen a significant increase, rising from 523 in 2015 to 891 in 2025, reflecting successful conserv..."
-run_time_ist: "3:28PM"
+title: "National Policy Updates: Education, Social Welfare, and Economic Development"
+date: 2026-08-10T15:28:37.450412+00:00
+summary: "Educational Support and Scholarships: The government is expanding scholarship initiatives, including the launch of a new National Scholarship Portal and the..."
+run_time_ist: "8:58PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 3:28PM</p>
+  <p class="post-meta">Gemini Summary: 8:58PM</p>
 
 <ul class="digest-points">
-  <li><strong>Wildlife Conservation:</strong> The population of Asiatic lions has seen a significant increase, rising from 523 in 2015 to 891 in 2025, reflecting successful conservation efforts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297037&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296978&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Digital Governance and Trade:</strong> The government has launched the PAIMANA initiative to improve data-driven infrastructure governance and removed the requirement for physical duty payment challans for export obligation discharge certificates.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297013&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296968&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Aviation and Defense:</strong> Authorities are investigating a sudden altitude loss incident on an Air India flight, while the Chief of the Naval Staff is visiting Mauritius to bolster bilateral maritime cooperation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Regional and Human Development:</strong> Efforts are underway to promote tourism in the North-Eastern region, alongside government initiatives regarding direct recruitment for various public service posts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296966&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>National Commemorations and Recognition:</strong> The President paid tribute to former President V.V. Giri on his birth anniversary, and the Prime Minister held an interaction with Commonwealth Games champions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297002&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296994&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Educational Support and Scholarships:</strong> The government is expanding scholarship initiatives, including the launch of a new National Scholarship Portal and the ongoing implementation of the PM-YASASVI scheme to support students from diverse academic backgrounds.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297365&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297284&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297282&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297281&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Social Welfare and Rehabilitation:</strong> Under the SMILE scheme, authorities have successfully identified, rescued, and rehabilitated 2,824 children.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297286&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Banking and Economic Governance:</strong> Public sector bank leaders are convening for a two-day confluence to discuss strategic growth, while the Ministry of Statistics and Programme Implementation (MoSPI) has partnered with research institutions to enhance data-driven studies.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297338&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297294&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Disaster Relief and Industry Innovation:</strong> The Indian Ports Association has provided ₹5 crore for flood relief in Assam, while national conclaves are promoting design-led innovation in the handloom sector and new testing standards through the NABL.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297333&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297325&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297314&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Recognition of Excellence:</strong> The Prime Minister hosted Commonwealth Games 2026 medal winners to celebrate their achievements and contributions to the nation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "3:28PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sudden loss of altitude during cruise and injuries on board M/s Air India A320 aircraft VT-EXO operating flight AI2379 f...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Development of Tourism in the North-eastern Region</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297037&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article on remarkable comeback of India’s Asiatic lion</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297013&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DGFT Removes Physical Duty Payment Challans for Export Obligation Discharge Certifica...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297002&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Text of PM’s interaction with India&#x27;s CWG champions</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296994&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Pays Floral Tributes to Shri V.v. Giri on His Birth Anniversary</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296978&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Asiatic Lion population rises from 523 in 2015 to 891 in 2025; Reflects dedication of...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296968&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PAIMANA: Strengthening Data-Driven Infrastructure Governance</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296966&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Direct Recruitment to various posts in Government of India</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297035&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam emphasising on truthful and authentic info...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister hosts Commonwealth Games 2026 medal winners</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297365&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Agriculture Minister Shri Shivraj Singh Chouhan Launches National Scholarship P...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297338&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PSB Confluence on 17-18 August to Bring Together Leadership of Public Sector Banks an...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297333&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Ports Association (IPA) extends ₹5 crore assistance to Assam flood relief</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297325&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Accreditation Board for Testing and Calibration Laboratories Launches India’...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297314&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Handloom Designers&#x27; Conclave 2026 Showcases Design-Led Innovation to Strengt...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297294&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoSPI signs two MoUs with IDEAS, ISI Kolkata for undertaking Research Studies</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM-YASASVI Scheme Implementation in Maharashtra Reviewed Regularly; Corrective Measur...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297286&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">2,824 Children Identified, Rescued and Rehabilitated under SMILE Scheme</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297284&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Financial Constraints to an Aspiration of Becoming an ISRO Scientist: How Schola...</a></li>
 </ul>
 
 </details>
