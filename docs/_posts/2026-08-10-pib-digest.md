@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Governance, Defense Diplomacy, and Public Welfare Updates"
-date: 2026-08-10T05:05:37.523577+00:00
-summary: "Aviation Safety: Authorities are investigating recent incidents involving an Air India A320 flight that experienced a sudden altitude loss and a Cessna C172..."
-run_time_ist: "10:35AM"
+title: "National Governance, Infrastructure, and Conservation Updates"
+date: 2026-08-10T09:58:18.299468+00:00
+summary: "Wildlife Conservation: The population of Asiatic lions has seen a significant increase, rising from 523 in 2015 to 891 in 2025, reflecting successful conserv..."
+run_time_ist: "3:28PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 10:35AM</p>
+  <p class="post-meta">Gemini Summary: 3:28PM</p>
 
 <ul class="digest-points">
-  <li><strong>Aviation Safety:</strong> Authorities are investigating recent incidents involving an Air India A320 flight that experienced a sudden altitude loss and a Cessna C172 trainer aircraft that suffered a runway excursion.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296861&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Defense and Maritime Cooperation:</strong> The Chief of the Naval Staff is visiting Mauritius to bolster bilateral ties, while the Indian and US Navies are set to conduct a joint Explosive Ordnance Disposal exercise.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296842&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Public Welfare and Campaigns:</strong> The government has highlighted the achievement of sanctioning 1.25 crore houses under the Pradhan Mantri Awas Yojana (Urban) and is promoting national participation in the Har Ghar Tiranga and Nasha Mukt Bharat (drug-free India) movements.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296868&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296858&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296797&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Economic and Administrative Policy:</strong> The Institute of Cost Accountants of India (ICoAS) has reaffirmed its commitment to cost optimization for the Atmanirbhar Bharat initiative, while the Competition Commission of India hosted the BRICS Heads of Competition Authorities meeting.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296879&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Recognition of Excellence:</strong> The Prime Minister hosted the medal winners of the 2026 Commonwealth Games to celebrate their achievements.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Wildlife Conservation:</strong> The population of Asiatic lions has seen a significant increase, rising from 523 in 2015 to 891 in 2025, reflecting successful conservation efforts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297037&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296978&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Digital Governance and Trade:</strong> The government has launched the PAIMANA initiative to improve data-driven infrastructure governance and removed the requirement for physical duty payment challans for export obligation discharge certificates.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297013&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296968&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Aviation and Defense:</strong> Authorities are investigating a sudden altitude loss incident on an Air India flight, while the Chief of the Naval Staff is visiting Mauritius to bolster bilateral maritime cooperation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Regional and Human Development:</strong> Efforts are underway to promote tourism in the North-Eastern region, alongside government initiatives regarding direct recruitment for various public service posts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296966&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>National Commemorations and Recognition:</strong> The President paid tribute to former President V.V. Giri on his birth anniversary, and the Prime Minister held an interaction with Commonwealth Games champions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297002&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296994&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "10:35AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sudden loss of altitude during cruise and injuries on board M/s Air India A320 aircraft VT-EXO operating flight AI2379 f...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Chief of the Naval Staff on Official Visit to Mauritius to Strengthen Bilateral Marit...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister hosts Commonwealth Games 2026 medal winners</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296879&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ICoAS fraternity reaffirms commitment to cost optimisation for Atmanirbhar Bharat on ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296868&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister urges people to participate in Har Ghar Tiranga movement</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296861&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Runway Excursion Incident Involving Cessna C172 trainer Aircraft at Baramati Airfield...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296858&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">‘The message of Nasha Mukti from Kashi must reach every village in Jalgaon’ — MoS Rak...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296842&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy–us Navy Explosive Ordnance Disposal Exercise 2026 to Commence at Southern...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sudden loss of altitude during cruise and injuries on board M/s Air India A320 aircra...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Competition Commission of India (CCI) hosts BRICS Heads of Competition Authorities 20...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Development of Tourism in the North-eastern Region</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297037&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article on remarkable comeback of India’s Asiatic lion</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297013&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DGFT Removes Physical Duty Payment Challans for Export Obligation Discharge Certifica...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297002&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Text of PM’s interaction with India&#x27;s CWG champions</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296994&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Pays Floral Tributes to Shri V.v. Giri on His Birth Anniversary</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296978&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Asiatic Lion population rises from 523 in 2015 to 891 in 2025; Reflects dedication of...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296968&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PAIMANA: Strengthening Data-Driven Infrastructure Governance</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2296966&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Direct Recruitment to various posts in Government of India</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297035&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam emphasising on truthful and authentic info...</a></li>
 </ul>
 
 </details>
