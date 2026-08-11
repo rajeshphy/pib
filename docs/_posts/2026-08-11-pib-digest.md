@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Highlights of Recent Government Initiatives and National Developments"
-date: 2026-08-11T02:34:15.046205+00:00
-summary: "National Celebrations and Development: Independence Day 2026 will commemorate 150 years of 'Vande Mataram' while focusing on the role of youth in achieving a..."
-run_time_ist: "8:04AM"
+title: "National Policy Updates: Governance, Health, and Economic Initiatives"
+date: 2026-08-11T04:49:28.004881+00:00
+summary: "National Celebrations and Cultural Values: Independence Day 2026 will commemorate the 150th anniversary of 'Vande Mataram' and focus on youth empowerment for..."
+run_time_ist: "10:19AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 8:04AM</p>
+  <p class="post-meta">Gemini Summary: 10:19AM</p>
 
 <ul class="digest-points">
-  <li><strong>National Celebrations and Development:</strong> Independence Day 2026 will commemorate 150 years of &#x27;Vande Mataram&#x27; while focusing on the role of youth in achieving a developed India by 2047.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297232&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Public Health and Research:</strong> Government officials emphasized integrating healthy lifestyles with medical treatment, while the DHR-ICMR announced plans to host a major health research event.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297383&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Economic and Industrial Growth:</strong> The Commerce Minister recognized top performers on the GeM portal, and the National Accreditation Board launched a new testing initiative to support industrial quality.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297421&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297325&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Sectoral Support and Governance:</strong> The Agriculture Minister launched a national scholarship program, while Public Sector Bank leaders are set to meet for a strategic confluence.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297365&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297338&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Social Welfare and Research Partnerships:</strong> The Indian Ports Association provided ₹5 crore for Assam flood relief, and the Ministry of Statistics and Programme Implementation signed research MoUs with academic institutions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297333&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297294&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>National Celebrations and Cultural Values:</strong> Independence Day 2026 will commemorate the 150th anniversary of &#x27;Vande Mataram&#x27; and focus on youth empowerment for a developed India, while the Prime Minister emphasized traditional Sanskrit values.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297232&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297448&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Public Health and Research Initiatives:</strong> Government officials highlighted the importance of integrating disease prevention with treatment, as the DHR-ICMR prepares to host a major health research event.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297383&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Economic and Industrial Development:</strong> The government recognized top performers on the Government e-Marketplace (GeM), launched a new accreditation portal for testing laboratories, and held a conclave to promote design-led innovation in the handloom sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297421&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297325&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297314&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Banking and Agricultural Support:</strong> Public Sector Bank leaders are set to convene for a strategic confluence, while the Union Agriculture Minister introduced a new national scholarship program for students.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297365&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297338&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Disaster Relief:</strong> The Indian Ports Association has provided ₹5 crore in financial assistance to support flood relief efforts in Assam.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297333&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,6 +28,7 @@ run_time_ist: "8:04AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297232&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Independence Day Celebrations 2026 to honour ‘150 Years of Vande Mataram’ &amp; ‘Yuva Shakti for Viksit Bharat@2047’</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297448&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares a Sanskrit Subhashitam, highlighting the eight essential qualit...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297421&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Commerce and Industry Minister Shri Piyush Goyal awards top buyers and sellers on GEM...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prevention and Healthy Lifestyles Must Go Hand in Hand with Disease Treatment : Shri ...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297383&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Health Research- Indian Council of Medical Research (DHR-ICMR) to Host ...</a></li>
@@ -36,7 +37,6 @@ run_time_ist: "8:04AM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297333&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Ports Association (IPA) extends ₹5 crore assistance to Assam flood relief</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297325&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Accreditation Board for Testing and Calibration Laboratories Launches India’...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297314&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Handloom Designers&#x27; Conclave 2026 Showcases Design-Led Innovation to Strengt...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2297294&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoSPI signs two MoUs with IDEAS, ISI Kolkata for undertaking Research Studies</a></li>
 </ul>
 
 </details>
