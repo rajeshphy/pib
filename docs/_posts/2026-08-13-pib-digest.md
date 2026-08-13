@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Digest of Recent Government Policy, Economic Data, and Institutional Updates"
-date: 2026-08-13T05:17:32.998118+00:00
-summary: "Economic and Trade Updates: The government released the Consumer Price Index (base 2024=100) for July 2026, while India and the Southern African Customs Unio..."
-run_time_ist: "10:47AM"
+title: "National Policy Updates on Education, Environment, and Technology"
+date: 2026-08-13T09:41:46.891313+00:00
+summary: "Educational and Social Welfare: New initiatives include fellowship schemes for Scheduled Tribes, reservation provisions for the Limboo and Tamang communities..."
+run_time_ist: "3:11PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 10:47AM</p>
+  <p class="post-meta">Gemini Summary: 3:11PM</p>
 
 <ul class="digest-points">
-  <li><strong>Economic and Trade Updates:</strong> The government released the Consumer Price Index (base 2024=100) for July 2026, while India and the Southern African Customs Union signed Terms of Reference to initiate trade negotiations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298681&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Institutional and Parliamentary Reporting:</strong> The National Commission for Scheduled Castes submitted its 2024–25 annual report to the President, and a parliamentary standing committee released its 393rd report.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298703&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298611&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Technology and Biodiversity Initiatives:</strong> NITI Aayog and the Digital India BHASHINI Division partnered to advance language technology, while the National Biodiversity Authority distributed over Rs. 15.5 crore in Access and Benefit Sharing proceeds.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298712&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298661&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Public Health Coordination:</strong> The Union Health Minister met with Members of Parliament from Jharkhand and Odisha to discuss strategies for strengthening regional healthcare services.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298602&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Leadership and Cultural Engagement:</strong> The Lok Sabha Speaker honored the life of Shri Kovind as a source of inspiration, and the Prime Minister shared a Sanskrit Subhashitam focused on the values of determination and perseverance.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298710&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Educational and Social Welfare:</strong> New initiatives include fellowship schemes for Scheduled Tribes, reservation provisions for the Limboo and Tamang communities, and expanded education support programs in Ladakh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298818&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Weather and Climate Technology:</strong> The government is advancing meteorological capabilities through &quot;Mission Mausam,&quot; which integrates AI and geospatial technologies to enhance indigenous weather forecasting and warning systems.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298819&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298817&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298815&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Economic Indicators:</strong> The government has released the Consumer Price Index data for July 2026, utilizing a revised base year of 2024.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Cultural and Environmental Conservation:</strong> Recent national events included the celebration of World Elephant Day in Visakhapatnam and new efforts to provide digital access to the nation&#x27;s cultural heritage.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298830&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298827&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Public Engagement:</strong> The Ministry of Civil Aviation participated in the &quot;Har Ghar Tiranga&quot; campaign by flagging off a Tiranga Rally to promote national awareness.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298824&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,14 +28,15 @@ run_time_ist: "10:47AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release of Consumer Price Index on Base 2024=100 for July, 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298712&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Biodiversity Authority releases Rs. 15.52 crore ABS Proceeds from Mustard Ge...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298710&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares a Sanskrit Subhashitam, highlighting determination, perseveranc...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298703&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release on 393rd Report of the Department-related Parliamentary Standing Commit...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298681&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and the Southern African Customs Union (SACU) sign Terms of Reference (ToR) for...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker Hails Shri Kovind’s Story as an Enduring Source of “inspiration For...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298661&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Digital India BHASHINI Division (DIBD) and NITI Aayog Sign Statement of Intent to Adv...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298611&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Commission for Scheduled Castes submits Annual Report-2024–25 to Hon’ble Pre...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298602&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Minister Shri Nadda interacts with MPs from Jharkhand and Odisha to stre...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298830&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Celebrations on World Elephant Day 2026 held at Visakhapatnam; Gaj Gaurav Aw...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298827&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Digital Access to Cultural Heritage</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Fellowship Scheme for Scheduled Tribes</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“education Support and Scholarship Schemes in Ladakh”</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298818&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Reservation for Limboo and Tamang Scheduled Tribes</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298819&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Mission Mausam</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298824&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Civil Aviation Minister Ram Mohan Naidu flags off Tiranga Rally under Har Ghar Tirang...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298817&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Indigenious Warning Systems</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298815&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Ai and Geospatial Technologies for Weather Forecasting</a></li>
 </ul>
 
 </details>
