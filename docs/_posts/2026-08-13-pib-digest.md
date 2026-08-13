@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy Updates on Education, Environment, and Technology"
-date: 2026-08-13T09:41:46.891313+00:00
-summary: "Educational and Social Welfare: New initiatives include fellowship schemes for Scheduled Tribes, reservation provisions for the Limboo and Tamang communities..."
-run_time_ist: "3:11PM"
+title: "Legislative Updates, Social Welfare Initiatives, and National Security Actions"
+date: 2026-08-13T15:27:43.190364+00:00
+summary: "Parliamentary Session: The Monsoon Session of Parliament concluded with the passage of 12 bills by both houses. Sources: [1]"
+run_time_ist: "8:57PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 3:11PM</p>
+  <p class="post-meta">Gemini Summary: 8:57PM</p>
 
 <ul class="digest-points">
-  <li><strong>Educational and Social Welfare:</strong> New initiatives include fellowship schemes for Scheduled Tribes, reservation provisions for the Limboo and Tamang communities, and expanded education support programs in Ladakh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298818&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Weather and Climate Technology:</strong> The government is advancing meteorological capabilities through &quot;Mission Mausam,&quot; which integrates AI and geospatial technologies to enhance indigenous weather forecasting and warning systems.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298819&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298817&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298815&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Economic Indicators:</strong> The government has released the Consumer Price Index data for July 2026, utilizing a revised base year of 2024.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Cultural and Environmental Conservation:</strong> Recent national events included the celebration of World Elephant Day in Visakhapatnam and new efforts to provide digital access to the nation&#x27;s cultural heritage.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298830&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298827&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Public Engagement:</strong> The Ministry of Civil Aviation participated in the &quot;Har Ghar Tiranga&quot; campaign by flagging off a Tiranga Rally to promote national awareness.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298824&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Parliamentary Session:</strong> The Monsoon Session of Parliament concluded with the passage of 12 bills by both houses.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298901&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Social Welfare and Inclusion:</strong> The government is enhancing healthcare and security for senior citizens, while reaffirming its commitment to the rights and inclusion of the LGBTQ+ community.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299181&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299174&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Education and Awareness:</strong> Digital learning is being expanded through smart classrooms in SC-dominated villages, and the National Mental Health and Substance Abuse (NMBA) program has reached over 30.52 crore people.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299179&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299177&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Law Enforcement:</strong> The Directorate of Revenue Intelligence (DRI) dismantled an illegal drug manufacturing facility in Jewar, Uttar Pradesh, resulting in the seizure of 30 kg of narcotics.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299208&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>International Relations and Policy:</strong> India continues to strengthen diplomatic ties with Kenya and international parliamentary delegations, while reporting significant progress in global climate action.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299186&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299122&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299109&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "3:11PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release of Consumer Price Index on Base 2024=100 for July, 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298830&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Celebrations on World Elephant Day 2026 held at Visakhapatnam; Gaj Gaurav Aw...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298827&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Digital Access to Cultural Heritage</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Fellowship Scheme for Scheduled Tribes</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“education Support and Scholarship Schemes in Ladakh”</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298818&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Reservation for Limboo and Tamang Scheduled Tribes</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298819&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Mission Mausam</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298824&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Civil Aviation Minister Ram Mohan Naidu flags off Tiranga Rally under Har Ghar Tirang...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298817&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Indigenious Warning Systems</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298815&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Parliament Question: Ai and Geospatial Technologies for Weather Forecasting</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298901&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Monsoon Session of Parliament Adjourns Sine Die; 12 Bills Passed by both Houses of Parliament</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299208&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI busts illegal drug manufacturing facility in Jewar, UP; 30 kg drugs seized and tw...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299186&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PARLIAMENT QUESTION: Milestone achieved in global climate action</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299181&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Strengthens Welfare, Healthcare and Social Security Measures for Senior Ci...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299179&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Transforming Education through Smart Classrooms in SC-Dominated Villages: A Digital L...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299177&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NMBA reaches, sensitizes more than 30.52 crore people across the country, this includ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299174&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Government Reaffirms Measures to Protect Rights and Promote Inclusion of LGBT...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299122&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and Kenya Share Historical and Multifaceted Relations Going Back Over Millennia...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299118&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Textiles to inaugurate Handloom Haat: The Handloom Experience Centr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299109&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President of India Shri C. P. Radhakrishnan Meets Parliamentary Delegation from ...</a></li>
 </ul>
 
 </details>
