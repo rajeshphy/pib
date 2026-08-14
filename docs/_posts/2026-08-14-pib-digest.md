@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Legislative Updates, Social Welfare Initiatives, and National Developments"
-date: 2026-08-14T03:05:26.372792+00:00
-summary: "Parliamentary proceedings: The Monsoon Session of Parliament concluded with the passage of 12 bills, while the President is scheduled to address the nation o..."
-run_time_ist: "8:35AM"
+title: "Legislative Updates, National Observances, and Government Welfare Initiatives"
+date: 2026-08-14T05:14:34.173399+00:00
+summary: "Parliamentary and Legal Developments: The Monsoon Session of Parliament concluded with the passage of 12 bills, while the Ministry of Law and Justice launche..."
+run_time_ist: "10:44AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 8:35AM</p>
+  <p class="post-meta">Gemini Summary: 10:44AM</p>
 
 <ul class="digest-points">
-  <li><strong>Parliamentary proceedings:</strong> The Monsoon Session of Parliament concluded with the passage of 12 bills, while the President is scheduled to address the nation on the eve of the 80th Independence Day.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298901&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299250&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Social welfare and inclusion:</strong> The government has reinforced support measures for senior citizens and reaffirmed its commitment to protecting the rights and social inclusion of the LGBTQ+ community.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299181&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299174&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Education and digital transformation:</strong> New initiatives are enhancing educational infrastructure through the implementation of smart classrooms in villages with high Scheduled Caste populations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299179&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Public health and drug enforcement:</strong> The National Mental Health and Substance Abuse (NMBA) program has reached over 30.52 crore people, while the Directorate of Revenue Intelligence (DRI) successfully dismantled an illegal drug manufacturing facility in Uttar Pradesh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299208&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299177&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Governance and climate policy:</strong> The Ministry of Law and Justice has launched a revamped digital portal, and the government reported significant milestones in its global climate action efforts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299217&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299186&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Parliamentary and Legal Developments:</strong> The Monsoon Session of Parliament concluded with the passage of 12 bills, while the Ministry of Law and Justice launched a revamped digital portal to improve legal services.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298901&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299217&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>National Observances and Commemorations:</strong> The President of India is scheduled to address the nation on the eve of the 80th Independence Day, as the Prime Minister honored the victims of the Partition.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299279&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299250&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Social Welfare and Inclusion Programs:</strong> The government is actively promoting the rights and social security of senior citizens and the LGBTQ+ community while expanding digital education infrastructure in SC-dominated villages.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299181&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299179&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299174&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Public Health and Anti-Drug Efforts:</strong> The National Action Plan for Drug Demand Reduction (NMBA) has reached over 30.52 crore people, complemented by law enforcement efforts that recently dismantled an illegal drug manufacturing facility in Uttar Pradesh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299208&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299177&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Climate and Environmental Policy:</strong> The government reported significant progress in meeting international climate action milestones during recent parliamentary proceedings.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299186&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,6 +28,7 @@ run_time_ist: "8:35AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2298901&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Monsoon Session of Parliament Adjourns Sine Die; 12 Bills Passed by both Houses of Parliament</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299279&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister recalls the courage of those impacted by Partition on Partition Horror...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299250&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India to Address the Nation Tomorrow on the Eve of 80th Independence Day</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299217&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister for Law &amp; Justice (I/C) Shri Arjun Ram Meghwal launches revamped India...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299208&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI busts illegal drug manufacturing facility in Jewar, UP; 30 kg drugs seized and tw...</a></li>
