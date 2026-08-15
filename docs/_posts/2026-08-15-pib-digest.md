@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Independence Day Commemorations and Key Policy Updates"
-date: 2026-08-15T04:04:15.705899+00:00
-summary: "Independence Day Observances: The nation celebrated its 80th Independence Day with presidential addresses, the \"Har Ghar Tiranga\" campaign, and the announcem..."
-run_time_ist: "9:34AM"
+title: "India Celebrates 80th Independence Day with National Tributes and New"
+date: 2026-08-15T08:56:23.692646+00:00
+summary: "Independence Day Commemorations: The nation celebrated its 80th Independence Day with the Prime Minister addressing the country from the Red Fort, paying hom..."
+run_time_ist: "2:26PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 9:34AM</p>
+  <p class="post-meta">Gemini Summary: 2:26PM</p>
 
 <ul class="digest-points">
-  <li><strong>Independence Day Observances:</strong> The nation celebrated its 80th Independence Day with presidential addresses, the &quot;Har Ghar Tiranga&quot; campaign, and the announcement of 78 gallantry awards and various honorary ranks.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299540&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299725&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299631&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299622&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299590&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Media and Regulatory Policy:</strong> The government has removed the 12-minute advertisement duration cap for television channels, while the National Commission for Homoeopathy issued a clarification regarding cross-practice regulations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299626&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299598&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Economic and Industrial Reforms:</strong> The government introduced amendments to the MMDR Act to ensure long-term stability in the major minerals sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299596&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Skill Development and Social Welfare:</strong> The Finance Minister engaged with PM Internship Scheme participants, and the Ministry of Social Justice reaffirmed its commitment to inclusive empowerment programs.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299707&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299652&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Promotion of Traditional Crafts:</strong> The Union Minister of Textiles inaugurated a Handloom Haat to support and showcase the handloom sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299718&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Independence Day Commemorations:</strong> The nation celebrated its 80th Independence Day with the Prime Minister addressing the country from the Red Fort, paying homage to Mahatma Gandhi at Rajghat, and honoring Sri Aurobindo on his birth anniversary.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299824&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299775&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299748&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299747&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299725&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Gallantry Awards:</strong> On the eve of Independence Day, the President approved 78 gallantry awards, including 13 posthumous honors, alongside 89 Mentions-in-Despatches.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299540&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>National Development Goals:</strong> The Prime Minister highlighted 12 years of national transformation and issued a clarion call for India&#x27;s future progress, while also launching the &quot;SURYAPATH TIRANGA&quot; global relay.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299805&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299798&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Youth Empowerment:</strong> The government announced a new initiative to provide AI-focused skill development training to 10 million youth within the next year.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299801&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Cultural and Festive Observances:</strong> The Prime Minister extended greetings for the Parsi New Year, and the Union Minister of Textiles inaugurated a Handloom Haat to promote the domestic textile sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299749&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299718&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "9:34AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299540&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President approves 78 Gallantry awards (13 posthumous) &amp; 89 Mention-in-Despatches on the eve of 80th Independence Day</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299725&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister greets everyone on the occasion of Independence Day</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299718&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Textiles Shri Giriraj Singh Inaugurates Handloom Haat: The Handloom...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299707&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Finance and Corporate Affairs interacts with interns from PM Intern...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299652&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Social Justice and Empowerment, Dr. Virendra Kumar Reaffirms Commit...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299631&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President’s address on the eve of 80th Independence Day reflects the nation’s strengt...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299626&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Removes 12-Minute Advertisement Duration Cap for Television Channels</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299622&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Manohar Lal inaugurates the Har Ghar Tiranga kiosk as part of the nationwide Har...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299598&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Commission for Homoeopathy Clarifies Regulatory Position on Cross-Practice b...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299596&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MMDR Amendment to bring long term Stability in Major Minerals Sector</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299824&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi&#x27;s address on the occasion of the 80th Independence ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">SURYAPATH TIRANGA Global Relay Goes Live, following the path of the Rising Sun</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299805&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">12 Years of Transformation: PM Modi Highlights India’s Progress in Independence Day A...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299801&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM announces AI skilling of 1 crore youth in one year</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299798&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi Gives Clarion Calls for India’s Next Leap Towards V...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299775&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of Prime Minister Shri Narendra Modi&#x27;s address from the ramparts of...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299749&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings on the start of the Parsi New Year</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299748&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays homage to Mahatma Gandhi at Rajghat</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299747&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Narendra Modi pays tribute to Sri Aurobindo on his birth anniversary</a></li>
 </ul>
 
 </details>
