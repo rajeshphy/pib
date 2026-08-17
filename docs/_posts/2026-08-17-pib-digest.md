@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Initiatives, Public Health, and Administrative Updates"
-date: 2026-08-17T04:11:36.485369+00:00
-summary: "Public Health Advocacy: Union Minister Dr. Jitendra Singh has called for prioritizing diabetes prevention and emphasized the critical importance of early dia..."
-run_time_ist: "9:41AM"
+title: "Government Updates: Defense, Governance, and National Events"
+date: 2026-08-17T09:09:55.871102+00:00
+summary: "Defense and Security: The Ministry of Defence has signed a contract to lease two MQ9B remotely piloted aircraft, while an Indian Army contingent has deployed..."
+run_time_ist: "2:39PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 9:41AM</p>
+  <p class="post-meta">Gemini Summary: 2:39PM</p>
 
 <ul class="digest-points">
-  <li><strong>Public Health Advocacy:</strong> Union Minister Dr. Jitendra Singh has called for prioritizing diabetes prevention and emphasized the critical importance of early diagnosis and timely medical intervention.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300189&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300188&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Economic Empowerment Schemes:</strong> Government programs like SJY, PM-AJAY, and the National Fellowship for Scheduled Castes are successfully helping individuals transition from financial hardship to sustainable livelihoods and global research opportunities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300194&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300193&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Administrative and Official Engagements:</strong> The government is set to confer the National Anubhav Awards 2026, while the Vice President attended the 22nd convocation of the SRM Institute of Science and Technology.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300158&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Trade and Security Enforcement:</strong> The Directorate of Revenue Intelligence (DRI) has detected significant misuse of the SAFTA agreement regarding areca nut imports, while authorities are investigating an accidental firearm discharge at Varanasi Airport.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300102&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300136&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>International Relations:</strong> The Chief of the Army Staff, General Dhiraj Seth, has commenced an official visit to Nepal to strengthen bilateral defense ties.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300155&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Defense and Security:</strong> The Ministry of Defence has signed a contract to lease two MQ-9B remotely piloted aircraft, while an Indian Army contingent has deployed to Thailand for the joint military exercise Maitree-XV.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300388&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300293&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Public Condolences:</strong> The Prime Minister has expressed grief and offered condolences following tragic incidents involving a fire in West Bengal and a stampede in Bihar.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300361&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300333&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Governance and Diplomacy:</strong> Senior officials from BRICS nations met to discuss key priorities, and the Chief Minister of Maharashtra held a meeting with the Prime Minister.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300360&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300324&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Awards and Education:</strong> Dr. Jitendra Singh will present the National Anubhav Awards 2026, and the Vice President attended the 11th convocation ceremony of the Central University of Jharkhand.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300370&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Fisheries Development:</strong> The Department of Fisheries marked the 80th Independence Day by reaffirming its commitment to the empowerment and welfare of the fisheries sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300391&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,15 +27,16 @@ run_time_ist: "9:41AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300102&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI uncovers large-scale illegal use of SAFTA agreement in areca imports</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Jitendra Singh to confer National Anubhav Awards 2026 at Vigyan Bhawan</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300194&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Daily-Wage Struggle to a Sustainable Grocery Business: How SJY and PM-AJAY Suppo...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300193&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Financial Pressure to Global Research Exposure: How National Fellowship for Sche...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300189&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Jitendra Singh Emphasises early diagnosis, timely medical interven...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300188&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr Jitendra Singh Calls for Making Diabetes Prevention a National Prio...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300158&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President Shri C. P. Radhakrishnan graces 22nd Convocation of SRM Institute of S...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300155&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">General Dhiraj Seth, Chief of the Army Staff Embarks on an Official Visit to Nepal</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300136&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Accidental Discharge of Licensed Weapon at Varanasi Airport</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300391&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Fisheries Celebrates 80th Independence Day, Reaffirms Commitment to Emp...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300388&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoD inks contract with General Atomics Aeronautical Systems, Inc for leasing of two M...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300370&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President Shri C. P. Radhakrishnan graces 11th Convocation of Central University...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300361&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister condoles the loss of lives due to a fire tragedy in Birbhum, West Beng...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300360&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Chief Minister of Maharashtra meets the Prime Minister</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300333&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister expresses grief over the loss of lives due to a stampede in Lakhisarai...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300324&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Senior Officers from BRICS Member Countries hold discussions on Key Priorities of the...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300293&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Army Contingent Departs for India-thailand Joint Military Exercise Maitree-xv</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300271&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares a Sanskrit Subhashitam, highlighting the power of collective re...</a></li>
 </ul>
 
 </details>
