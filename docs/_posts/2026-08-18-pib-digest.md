@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Security, Defense Indigenization, and International Cooperation Updates"
-date: 2026-08-18T09:04:03.307437+00:00
-summary: "National Security: Security forces successfully dismantled the ISIbacked Shahzad Bhatti terror network, preventing potential threats ahead of Independence Da..."
-run_time_ist: "2:34PM"
+title: "Updates on National Infrastructure, Governance, and Economic Development"
+date: 2026-08-18T14:58:18.379763+00:00
+summary: "Infrastructure and Connectivity: New projects are set to enhance regional connectivity, including a highway corridor between Guwahati and Tezpur to boost tra..."
+run_time_ist: "8:28PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 2:34PM</p>
+  <p class="post-meta">Gemini Summary: 8:28PM</p>
 
 <ul class="digest-points">
-  <li><strong>National Security:</strong> Security forces successfully dismantled the ISI-backed Shahzad Bhatti terror network, preventing potential threats ahead of Independence Day.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Defense Indigenization and Welfare:</strong> The government released the 6th Positive Indigenisation List featuring 405 strategic items to boost self-reliance, while a settlement was reached to benefit 423 contract workers at the Ordnance Factory in Kanpur.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300745&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300723&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>International Cooperation:</strong> India is participating in the 12th BRICS Environment Ministers Meeting and hosting upcoming BRICS Youth Council and Summit events.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300770&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300675&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Youth and Leadership Development:</strong> The Raksha Mantri flagged off the NCC’s ‘Aparajita’ high-altitude trek for girls, and the Vice-President is scheduled for an official visit to Uttarakhand on August 19–20.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300777&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300767&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Cultural Outreach:</strong> The Prime Minister shared a Sanskrit Subhashitam emphasizing the significance of self-respect.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300700&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Infrastructure and Connectivity:</strong> New projects are set to enhance regional connectivity, including a highway corridor between Guwahati and Tezpur to boost trade and tourism, alongside strengthened rail infrastructure in the Gwalior-Chambal region.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300907&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300889&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Corporate Acquisitions:</strong> The Competition Commission of India (CCI) has approved several equity acquisitions involving TM International Logistics, Acko Technology &amp; Services, and Bharti Life Insurance.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300957&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300956&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300955&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Governance and Public Service:</strong> Recent initiatives emphasize the importance of accurate data for effective benefit delivery, while public sector banks have finalized strategic roadmaps for 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300990&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300977&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Agricultural Development:</strong> The Indian Council of Agricultural Research (ICAR) has outlined a roadmap for agricultural transformation, supported by a unified commitment from the agriculture and rural development sector toward national policy goals.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300944&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300879&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Skill Development and Digital Cooperation:</strong> West Bengal hosted its first Kaushal Mahotsav to promote local employment, while the 7th BRICS ICT Working Group meeting in Pune focused on advancing digital cooperation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300968&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,14 +27,16 @@ run_time_ist: "2:34PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Modi government destroyed the ISI-backed terror group Shahzad Bhatti Network, ahead of Independence Day and thwarted its...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300777&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan to Visit Uttarakhand on August 19–20</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300770&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">12th BRICS Environment Ministers Meeting</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300767&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Mantri flags-off NCC’s All India Girls High Altitude Long Trek ‘Aparajita - Pa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300745&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Major Settlement Benefitting 423 Contract Workers at Ordnance Factory, Kanpur Through...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300723&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Aatmanirbhar Bharat: DDP notifies 6th Positive Indigenisation List of 405 strategical...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300700&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the importance of self-respec...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300675&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Youth Affairs To Host the BRICS Youth Council Meeting, Youth Summit and...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Historic Turnout Marks West Bengal’s First-Ever Kaushal Mahotsav in Balurghat hosted...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300990&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PSB Confluence 2026 concludes with actionable strategies across seven themes for Publ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300977&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Accurate Data Essential for Effective Governance and Delivery of Benefits to Right Be...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300968&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">7th BRICS ICT Working Group Meeting Continues in Pune with Strategic Focus on Digital...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300957&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves acquisition of 23% equity shareholding of TM International Logistics by ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300956&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves acquisition of additional shareholding of Acko Technology &amp; Services Pvt...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300955&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves acquisition of certain equity shareholding in Bharti Life Insurance Comp...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300944&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Agriculture and Rural Development Family to Unite Behind PM Modi’s ‘Shakti Ki Saptadh...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300907&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Gwalior-Chambal Region to Gain New Momentum with Strengthened Rail Connectivity</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300889&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Guwahati–Tezpur Corridor: A New Highway Link to Boost Assam’s Tea, Tourism and Trade</a></li>
 </ul>
 
 </details>
