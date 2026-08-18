@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "National Governance, Security, and Development Updates"
-date: 2026-08-18T01:57:10.058375+00:00
-summary: "Security and Governance: Security forces dismantled the ISIbacked Shahzad Bhatti terror network, while the Central Information Commission launched an upgrade..."
-run_time_ist: "7:27AM"
+date: 2026-08-18T04:07:42.087766+00:00
+summary: "National Security and Housing: Security forces dismantled an ISIbacked terror network ahead of Independence Day, while the government delivered 2.89 lakh puc..."
+run_time_ist: "9:37AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 7:27AM</p>
+  <p class="post-meta">Gemini Summary: 9:37AM</p>
 
 <ul class="digest-points">
-  <li><strong>Security and Governance:</strong> Security forces dismantled the ISI-backed Shahzad Bhatti terror network, while the Central Information Commission launched an upgraded portal for appeals and complaints.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300631&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>International Cooperation:</strong> India is hosting multiple BRICS-related events, including the Youth Council meeting, the Youth Summit, and the 7th ICT Working Group meeting in Pune to foster digital and youth collaboration.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300675&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300641&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Social Welfare and Housing:</strong> The government is advancing social inclusion through the SMILE scheme and welfare programs for nomadic communities, alongside the distribution of 2.89 lakh pucca houses to beneficiaries.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300668&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300601&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Economic and Industrial Growth:</strong> Finance Minister Nirmala Sitharaman chaired the 3rd meeting of the M-TIPB, while the ECMS reported significant progress in electronics manufacturing with 38 operational plants.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300658&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300625&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Agriculture and Skill Development:</strong> The government is monitoring Kharif crop coverage, while the Ministry of Skill Development and Entrepreneurship held a regional conference to enhance vocational training strategies.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300628&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300610&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>National Security and Housing:</strong> Security forces dismantled an ISI-backed terror network ahead of Independence Day, while the government delivered 2.89 lakh pucca houses to beneficiaries in Rajasthan.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300668&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>International Cooperation:</strong> India is hosting the BRICS Youth Council and ICT Working Group meetings to foster digital collaboration and youth engagement.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300675&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300641&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Economic and Welfare Initiatives:</strong> The government is advancing the economic empowerment of nomadic communities and tracking Kharif crop coverage, while the Ministry of Finance reviewed key economic policies.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300658&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300628&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Digital Governance and Industrial Growth:</strong> The Central Information Commission launched an upgraded portal for appeals, and the electronics manufacturing sector reached a milestone with 38 operational plants.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300631&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300625&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Skill Development and Democratic Engagement:</strong> The Ministry of Skill Development held a regional conference for state ministers, and the Election Commission emphasized the role of academia in strengthening democratic participation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300623&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300610&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,6 +28,7 @@ run_time_ist: "7:27AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Modi government destroyed the ISI-backed terror group Shahzad Bhatti Network, ahead of Independence Day and thwarted its...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300700&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the importance of self-respec...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300675&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Youth Affairs To Host the BRICS Youth Council Meeting, Youth Summit and...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300668&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Shivraj Singh Chouhan Delivers 2.89 Lakh Pucca Houses Worth ₹3,473 Crore to Raja...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300658&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister for Finance and Corporate Affairs Smt. Nirmala Sitharaman chairs 3rd M...</a></li>
@@ -36,7 +37,6 @@ run_time_ist: "7:27AM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300631&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Information Commission launches upgraded Second Appeals and Complaints Portal...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300628&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Progress of area coverage under Kharif crops as on 14.08.2026</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300623&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CEC Gyanesh Kumar calls upon Academia to strengthen informed democratic participation</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300625&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ECMS Accelerates Electronics Manufacturing: 38 Plants Operational, 16 in Advanced Con...</a></li>
 </ul>
 
 </details>
