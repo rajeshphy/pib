@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy Updates, Diplomatic Engagements, and Public Welfare Initiatives"
-date: 2026-08-19T09:05:34.291599+00:00
-summary: "Diplomatic and Trade Relations: The Raksha Mantri is set to hold bilateral talks with his Japanese counterpart, while the Union Minister of Commerce and Indu..."
-run_time_ist: "2:35PM"
+title: "Infrastructure, International Cooperation, and Youth Development Initiatives"
+date: 2026-08-19T14:58:46.590200+00:00
+summary: "Railway Infrastructure: The Cabinet has approved four multitracking railway projects spanning eight districts across West Bengal, Odisha, Tamil Nadu, and And..."
+run_time_ist: "8:28PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 2:35PM</p>
+  <p class="post-meta">Gemini Summary: 8:28PM</p>
 
 <ul class="digest-points">
-  <li><strong>Diplomatic and Trade Relations:</strong> The Raksha Mantri is set to hold bilateral talks with his Japanese counterpart, while the Union Minister of Commerce and Industry is visiting Singapore for trade discussions and encouraging Japanese businesses to increase investments in India.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301091&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301050&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301030&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Trade and Industry Development:</strong> The government is promoting the global expansion of the Makhana sector and conducting awareness sessions for exporters regarding the European Union’s Carbon Border Adjustment Mechanism (CBAM) regulations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301052&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301032&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Public Welfare and Human Rights:</strong> The NHRC has taken suo motu cognizance of a reported assault on two men, while the Prime Minister expressed condolences following a fatal fire incident in Kolkata.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301110&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301084&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Governance and Skill Development:</strong> West Bengal hosted its first-ever Kaushal Mahotsav to boost local employment, and the PSB Confluence 2026 concluded with new strategic frameworks for public sector banks.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300990&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Energy and Commemorative Events:</strong> The government introduced an incentive scheme to promote domestic Piped Natural Gas (PNG) connections, and the President of India paid tribute to Dr. Shanker Dayal Sharma on his birth anniversary.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301100&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301012&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Railway Infrastructure:</strong> The Cabinet has approved four multi-tracking railway projects spanning eight districts across West Bengal, Odisha, Tamil Nadu, and Andhra Pradesh to enhance connectivity.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301142&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>International Relations:</strong> India has strengthened ties through a high-level defence visit to Armenia and hosted BRICS working group meetings on youth and tourism in Gandhinagar and Jaipur.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301346&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301342&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301301&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Youth Engagement:</strong> New global initiatives like &#x27;Friends of MY Bharat&#x27; have been launched, and the registration deadline for the Yuva Sangam Phase VII exchange program has been extended to August 31, 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301334&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301300&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Environmental and Health Policy:</strong> The CAQM is mandating a phased transition to cleaner light goods vehicles in Delhi-NCR, while researchers have developed a targeted cancer drug designed to potentially replace traditional chemotherapy.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301339&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Law Enforcement and Governance:</strong> Authorities successfully intercepted a 56 kg methamphetamine smuggling attempt, and the government has reinforced conflict-of-interest safeguards for the RDI Fund.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301317&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "2:35PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301110&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister expresses grief over loss of lives in fire mishap in Kolkata</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301100&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Pays Floral Tributes to Dr Shanker Dayal Sharma on His Birth Anniv...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301091&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Mantri to hold bilateral talks with his Japanese counterpart in New Delhi to f...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301084&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHRC, India takes suo motu cognizance of the reported physical assault on two men fro...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301052&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Makhana Sector: Traditional Crop to Global Superfood</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301050&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Commerce &amp; Industry Shri Piyush Goyal leaves for Singapore for 4th ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301038&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the importance of benevolent ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301032&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Commerce Organises Awareness Session on EU CBAM Regulations for Exporte...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301030&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Piyush Goyal invites Japanese businesses to deepen investments and partnerships ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301012&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Brief: Incentive Scheme for Promotion of Domestic PNG Connections</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301142&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves four multitracking projects covering eight Districts in West Bengal, Odisha, Tamil Nadu and Andhra Prad...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301346&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Defence Secretary concludes two-day visit to Armenia</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301342&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">BRICS Youth Council Meeting and BRICS Youth Summit Held Successfully in Gandhinagar, ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301339&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM approves Phased Shift towards Cleaner Light Goods Vehicles in Delhi-NCR; Strengt...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301334&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">‘Friends of MY Bharat’: A New Global Youth Connect Inspired by PM Narendra Modi’s Vis...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301322&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">65th Subroto Cup International Football Tournament Opens With Grand Ceremony at Ambed...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301317&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">RDI Fund &#x27;Conflict of Interest&#x27; policy protected by Stringent Safeguards to Ensure pr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">A smart cancer drug activating primarily in cancer cells, could replace chemotherapy</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301300&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Registration Deadline for Yuva Sangam Phase VII Extended till August 31, 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301301&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">2nd BRICS 2026 Tourism Working Group Meeting Held in Jaipur</a></li>
 </ul>
 
 </details>
