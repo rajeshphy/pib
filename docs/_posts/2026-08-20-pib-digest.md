@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Infrastructure Development, Digital Governance, and Tribal Welfare Initiatives"
-date: 2026-08-20T09:06:08.997455+00:00
-summary: "Railway Infrastructure: The Cabinet has approved four multitracking railway projects spanning eight districts across West Bengal, Odisha, Tamil Nadu, and And..."
-run_time_ist: "2:36PM"
+title: "Updates on National Infrastructure, Technology, and Policy Initiatives"
+date: 2026-08-20T15:00:59.586924+00:00
+summary: "Infrastructure and Urban Development: The government is advancing the Delhi Master Plan 2047 to align with national development goals and has commissioned th..."
+run_time_ist: "8:30PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 2:36PM</p>
+  <p class="post-meta">Gemini Summary: 8:30PM</p>
 
 <ul class="digest-points">
-  <li><strong>Railway Infrastructure:</strong> The Cabinet has approved four multi-tracking railway projects spanning eight districts across West Bengal, Odisha, Tamil Nadu, and Andhra Pradesh to enhance connectivity.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301142&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Digital Services:</strong> The Aadhaar app has surpassed 50 million downloads, reflecting increased public adoption of resident-centric digital identification services.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301481&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Tribal Welfare:</strong> The Ministry of Tribal Affairs is actively reviewing the implementation of the Pradhan Mantri Janjatiya Vikas Mission to ensure effective last-mile delivery of welfare schemes in Madhya Pradesh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301419&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301418&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Logistics and Standards:</strong> The government has launched new transshipment cargo operations at Delhi Airport and is inviting eligible organizations to apply for recognition as government-approved testing centers.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301442&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301373&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>International Cooperation:</strong> India is scheduled to host the 12th BRICS Communications Ministers Meeting on August 21, 2026, to foster international collaboration in the communications sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301445&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Infrastructure and Urban Development:</strong> The government is advancing the Delhi Master Plan 2047 to align with national development goals and has commissioned the manufacturing of 238 AC EMU rakes to upgrade Mumbai’s suburban railway network.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301684&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301636&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Digital Transformation and AI:</strong> MeitY is collaborating with PhonePe to enhance PM GatiShakti with data intelligence, while the IndiaAI Mission is developing the AIKosh platform to bolster the nation&#x27;s AI-ready data ecosystem.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301687&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301666&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Research and Resource Management:</strong> The CMLRE has released a national report on deep-sea fishery resources, and CSIR laboratories are conducting workshops to promote the use of innovative materials and advanced composites.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301638&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Governance and Capacity Building:</strong> Initiatives are underway to strengthen global digital capacity building and accelerate talent identification for India’s future workforce, alongside a review of reservation policy implementation in public sector financial institutions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301644&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301642&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301628&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>International and Administrative Affairs:</strong> Union officials have participated in international financial discussions, while the newly reconstituted National Commission for Minorities has convened its first meeting of 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301712&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301635&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,15 +27,16 @@ run_time_ist: "2:36PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301142&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves four multitracking projects covering eight Districts in West Bengal, Odisha, Tamil Nadu and Andhra Prad...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301481&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Aadhaar App Crosses 5 crore Downloads, Strengthening Convenient and Resident Centric ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301445&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">12th BRICS Communications Ministers Meeting to be held on 21st August 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301442&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Eligible Organisations Encouraged to Apply for Recognition as Government Approved Tes...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301419&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Pradhan Mantri Janjatiya Vikas Mission</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301418&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoTA Secretary Takes Stock of Last-Mile Delivery of Tribal Welfare Schemes in Madhya ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301416&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays homage to former Prime Minister Shri Rajiv Gandhi</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301415&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the importance of enthusiasm ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301373&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Civil Aviation Minister Ram Mohan Naidu flags off Transshipment Cargo Operations at D...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301712&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of State for Finance Shri Pankaj Chaudhary participated virtually in 2...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301687&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MeitY partners with PhonePe to strengthen PM GatiShakti with granular data intelligen...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301684&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Delhi Master Plan 2047: A Roadmap for Viksit Delhi; Viksit Bharat 2047</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301666&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IndiaAI Mission Organises Workshop on AIKosh to Strengthen India&#x27;s AI-Ready Data Ecos...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CMLRE Unveils Landmark National Report on Deep-Sea and Distant-Water Fishery Resource...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301644&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Mansukh Mandaviya calls for accelerated talent identification to build India’s 20...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301642&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Global Digital Capacity Building Alliance: Building a Global Platform for State Capab...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301638&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CSIR-CRRI and CSIR-AMPRI Organise Workshop on Innovative Materials and Advanced Compo...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301636&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ICF, RCF and MCF to Start Manufacturing 238 AC EMU Rakes for Mumbai Suburban Railway ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301635&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Newly Reconstituted National Commission for Minorities Holds First Meeting of 2026, R...</a></li>
 </ul>
 
 </details>
