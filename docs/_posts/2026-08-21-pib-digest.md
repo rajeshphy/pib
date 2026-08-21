@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Policy Updates, International Cooperation, and Regulatory Actions"
-date: 2026-08-21T14:59:42.109325+00:00
-summary: "Governance and Policy Review: The Prime Minister held a highlevel meeting with government secretaries to review administrative progress, while the government..."
-run_time_ist: "8:29PM"
+title: "Government Policy Updates on Economic, Diplomatic, and Social Initiatives"
+date: 2026-08-21T20:59:30.004984+00:00
+summary: "Economic Stability: The government is implementing measures to stabilize sugar prices and ensure sufficient supply during the upcoming festive season. Source..."
+run_time_ist: "2:29AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 8:29PM</p>
+  <p class="post-meta">Gemini Summary: 2:29AM</p>
 
 <ul class="digest-points">
-  <li><strong>Governance and Policy Review:</strong> The Prime Minister held a high-level meeting with government secretaries to review administrative progress, while the government launched a ₹62,500 crore scheme to enhance global competitiveness in mobile phone manufacturing.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301764&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302098&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>International Relations and Cooperation:</strong> India engaged in international diplomacy through the 14th India-Nepal Joint Working Group meeting and hosted the 12th BRICS Tourism Ministers&#x27; meeting, which resulted in the adoption of the Jaipur Declaration.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302144&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302085&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302067&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Regulatory Enforcement:</strong> The Competition Commission of India (CCI) issued penalties against multiple entities, including the Agro Input Dealers Association, for engaging in anti-competitive practices.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302081&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302079&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Ministerial Consultations and Outreach:</strong> Union Ministers chaired consultative committee meetings for the Ministries of Civil Aviation and Women and Child Development, while the National Financial Reporting Authority conducted outreach programs for stakeholders.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302094&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302092&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302084&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Rural Development and Infrastructure:</strong> The Department of Rural Development launched a national entrepreneurship campaign, and the NHAI held discussions with the National Road Safety Board to improve safety standards on national highways.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302066&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302042&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Economic Stability:</strong> The government is implementing measures to stabilize sugar prices and ensure sufficient supply during the upcoming festive season.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302018&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Leadership and Policy Vision:</strong> Prime Minister Narendra Modi outlined India’s economic and developmental trajectory during his address at the Economic Times World Leaders Forum.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302214&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302213&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302204&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Diplomatic and International Cooperation:</strong> India engaged in the 25th Defence Consultative Group meeting with the UK and participated in the 12th BRICS Communications Ministers meeting to strengthen global partnerships.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302196&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302144&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Social and Educational Recognition:</strong> President Droupadi Murmu is set to honor 48 educators with the National Teachers Awards, while the Vice President inaugurated &#x27;MALHAR 2026&#x27; to promote Indian classical music.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302212&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302178&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Financial Inclusion:</strong> The Department of Financial Services concluded a workshop focused on improving the accessibility of financial services for citizens.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,15 @@ run_time_ist: "8:29PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2301764&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM Chairs Third High-Level Meeting with Secretaries to Government of India</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302018&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Acts to Curb Sugar Price Rise, Ensure Adequate Availability During Festive Season</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302214&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares glimpses of his address at the Economic Times World Leaders For...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302213&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi addresses the Economic Times World Leaders Forum 20...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302212&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Smt Droupadi Murmu to Confer National Teachers Awards on 48 school...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302204&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Text of PM’s address at the Economic Times World Leaders Forum 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DFS Concludes Two-Day Workshop on Enhancing Accessibility of Financial Services for D...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302196&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and UK conduct 25th Defence Consultative Group Meeting</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302178&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President inaugurates &#x27;MALHAR 2026&#x27;, celebrates India&#x27;s rich classical music her...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302144&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Communications, Sh. Jyotiraditya M. Scindia Leads 12th BRICS Commun...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302098&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Notifies ₹62,500 Cr Mobile Phone Manufacturing Scheme to Boost Global Comp...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302094&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Ram Mohan Naidu chairs Consultative Committee of Civil Aviation in Mys...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302092&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Smt. Annpurna Devi Chairs Consultative Committee Meeting of the Minist...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302085&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">14th India-Nepal Joint Working Group Meeting Held in Dehradun</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302084&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Financial Reporting Authority (NFRA) conducts sixth outreach programmes with...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302081&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI imposes monetary and non-monetary sanctions on Agro Input Dealers Association, Ag...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302079&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI imposes penalty on Rekha Agencies and SS Marketing for indulging in anti-competit...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302066&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Secretary, Department of Rural Department launches ‘National Campaign on Entrepreneur...</a></li>
 </ul>
 
 </details>
