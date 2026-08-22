@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy, Diplomatic Engagements, and Cultural Initiatives Digest"
-date: 2026-08-22T04:06:03.413505+00:00
-summary: "Economic and Financial Oversight: The government is implementing measures to stabilize sugar prices and ensure supply during the festive season, while the De..."
-run_time_ist: "9:36AM"
+title: "Government Updates on Economic, Social, and Administrative Initiatives"
+date: 2026-08-22T08:58:04.765216+00:00
+summary: "Market and Health Regulation: The government is implementing measures to stabilize sugar prices during the festive season and has restricted the manufacture..."
+run_time_ist: "2:28PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 9:36AM</p>
+  <p class="post-meta">Gemini Summary: 2:28PM</p>
 
 <ul class="digest-points">
-  <li><strong>Economic and Financial Oversight:</strong> The government is implementing measures to stabilize sugar prices and ensure supply during the festive season, while the Department of Financial Services has concluded a workshop focused on improving financial inclusion for citizens.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302018&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>International Diplomacy and Cooperation:</strong> India participated in the 25th UK-India Defence Consultative Group meeting and led discussions at the 12th BRICS Communications Ministers meeting to strengthen global partnerships.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302196&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302144&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Prime Ministerial Address:</strong> Prime Minister Narendra Modi outlined his vision for India’s global role and economic future during his keynote address at the Economic Times World Leaders Forum.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302214&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302213&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302204&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>National Awards and Recognition:</strong> President Droupadi Murmu is set to honor 48 educators with the National Teachers Awards in recognition of their significant contributions to the school education sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302212&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Cultural Heritage Promotion:</strong> Vice President Jagdeep Dhankhar inaugurated &#x27;MALHAR 2026&#x27;, an event dedicated to celebrating and preserving India&#x27;s classical music traditions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302178&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Market and Health Regulation:</strong> The government is implementing measures to stabilize sugar prices during the festive season and has restricted the manufacture and sale of specific fixed-dose drug combinations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302018&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Economic and Enterprise Development:</strong> Authorities are promoting the Employees’ Enrolment Campaign to expand social security coverage and reviewing proposals to boost women-led rural enterprises.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302239&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Environmental and Animal Welfare:</strong> The National Biodiversity Authority has released ₹2.82 crore to state and union territory boards, while the National Animal Disease Control Programme continues its efforts to manage livestock health.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302262&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302242&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Defense and Infrastructure:</strong> The Indian Navy has received the &#x27;Mangrol,&#x27; the third anti-submarine warfare shallow water craft, as part of ongoing maritime capability enhancements.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302253&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>National Events and Recognition:</strong> Preparations are underway for the 57th International Film Festival of India, and the President is set to honor 48 educators with the National Teachers Awards.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302236&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302212&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,14 +28,15 @@ run_time_ist: "9:36AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302018&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Acts to Curb Sugar Price Rise, Ensure Adequate Availability During Festive Season</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302262&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NBA releases ₹2.82 crore of ABS funds to 27 State Biodiversity Boards, 3 UT Biodivers...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">EPFO urges establishments to utilize the Employees’ Enrolment Campaign, 2026 to ensur...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302242&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Animal Disease Control Programme (NADCP)</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302253&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Delivery of Mangrol – the Third Anti-submarine Warfare Shallow Water Craft Built By C...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302241&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Official Visit of Shri Hardeep Singh Puri, Minister for Petroleum and Natural Gas, to...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302239&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Empowered Committee Reviews Proposals to Accelerate Growth of Women-led Rural Enterpr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Restricts Manufacture, Sale and Distribution of Fixed Dose Combinations Co...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302236&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">First Steering Committee Meeting For 57th IFFI Held Under Chairmanship of MoS Dr. L. ...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302214&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares glimpses of his address at the Economic Times World Leaders For...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302213&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi addresses the Economic Times World Leaders Forum 20...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302212&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Smt Droupadi Murmu to Confer National Teachers Awards on 48 school...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302204&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM’s address at the Economic Times World Leaders Forum 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DFS Concludes Two-Day Workshop on Enhancing Accessibility of Financial Services for D...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302196&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and UK conduct 25th Defence Consultative Group Meeting</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302178&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President inaugurates &#x27;MALHAR 2026&#x27;, celebrates India&#x27;s rich classical music her...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302144&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Communications, Sh. Jyotiraditya M. Scindia Leads 12th BRICS Commun...</a></li>
 </ul>
 
 </details>
