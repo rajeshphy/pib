@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Digest of Recent Government Policy, International Cooperation, and Public Health"
-date: 2026-08-23T04:09:06.244079+00:00
-summary: "Public Health Regulation: The government has restricted the manufacture, sale, and distribution of specific fixeddose combinations containing Chlorpheniramin..."
-run_time_ist: "9:39AM"
+title: "India’s Recent Developments in Diplomacy, Space, and Public Policy"
+date: 2026-08-23T08:58:25.628555+00:00
+summary: "International Engagements: The Indian Air Force successfully concluded multinational exercises Pitch Black and Udara Shakti, while INS Sudarshini arrived in..."
+run_time_ist: "2:28PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 9:39AM</p>
+  <p class="post-meta">Gemini Summary: 2:28PM</p>
 
 <ul class="digest-points">
-  <li><strong>Public Health Regulation:</strong> The government has restricted the manufacture, sale, and distribution of specific fixed-dose combinations containing Chlorpheniramine Maleate.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>International Diplomacy and Defense:</strong> India hosted the BRICS Youth Ministers’ meeting in Visakhapatnam and concluded participation in multinational Indian Air Force exercises, Pitch Black and Udara Shakti.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302406&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302371&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Science and Technology Advancement:</strong> Union Minister Dr. Jitendra Singh called for India to transition from the &quot;Pharmacy of the World&quot; to the &quot;Laboratory of the World&quot; while emphasizing the integration of AI in research.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302339&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302328&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Sanitation and Public Welfare:</strong> A national workshop was held to address the goal of ending fatalities in sanitation work, while the Lieutenant Governor of Jammu &amp; Kashmir met with the Prime Minister to discuss regional matters.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302363&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302351&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Institutional Milestones:</strong> The CSIR-NIScPR celebrated the platinum jubilee of its popular Hindi science magazine, marking 75 years of scientific communication.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302401&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>International Engagements:</strong> The Indian Air Force successfully concluded multinational exercises Pitch Black and Udara Shakti, while INS Sudarshini arrived in Lisbon as part of Lokayan 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302406&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302441&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Space Sector Growth:</strong> Prime Minister Narendra Modi marked National Space Day and held discussions with space startup CEOs to foster innovation in the industry.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302434&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302430&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Economic and Diplomatic Cooperation:</strong> Commerce Minister Piyush Goyal is leading a 200-member business delegation abroad, and the BRICS Youth Ministers’ Meeting in Visakhapatnam concluded with the adoption of a joint statement.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302445&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302371&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Sustainable Development and Sanitation:</strong> Government initiatives are focusing on promoting regenerative agriculture for resilient farming systems and hosting a national workshop to eliminate fatalities in sanitation work.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302428&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302351&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Administrative and Institutional Milestones:</strong> The Lieutenant Governor of Jammu &amp; Kashmir met with the Prime Minister, and CSIR-NIScPR celebrated its Platinum Jubilee marking 75 years of its Hindi science magazine.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302401&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302363&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,15 +27,16 @@ run_time_ist: "9:39AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Restricts Manufacture, Sale and Distribution of Fixed Dose Combinations Containing Chlorpheniramine Maleate a...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302406&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Air Force Concludes High-tempo Multinational Exercises Pitch Black and Udara Shakti 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302445&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Commerce and Industry Minister Shri Piyush Goyal Leads A 200-Member Business Delegati...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302441&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lokayan 2026 – Ins Sudarshini Arrives in Lisbon, Portugal</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302434&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM’s interaction with Space Startup CEOs</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302430&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings on National Space Day</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302428&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Rebuilding Farming Systems: Regenerative Agriculture for a Resilient India</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302406&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Air Force Concludes High-tempo Multinational Exercises Pitch Black and Udara S...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302401&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CSIR-NIScPR Organises Platinum Jubilee Ceremony to Mark 75 years of its popular Hindi...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302371&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">BRICS Youth Ministers’ Meeting 2026 Concludes in Visakhapatnam; Joint Statement Adopt...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302363&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lieutenant Governor of Jammu &amp; Kashmir meets Prime Minister</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302351&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Workshop on “Mission Zero – Ending Fatalities in Sanitation Work”</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302339&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr Jitendra Singh announces unanimous adoption of &#x27;Chennai Declaration&#x27;, reaffirming ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302340&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Maheshwari Samaj Has a Glorious Legacy of Service, Sacrifice and Social Commitment: L...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302328&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India Must Move from ‘Pharmacy of the World’ to ‘Laboratory of the World’; AI Must Co...</a></li>
 </ul>
 
 </details>
