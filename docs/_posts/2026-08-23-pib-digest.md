@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Overview of Recent Government Policy, International Cooperation, and Public Initiatives"
-date: 2026-08-23T02:08:44.038406+00:00
-summary: "Public Health and Safety: The government has restricted the manufacture and sale of specific fixeddose combinations containing Chlorpheniramine Maleate, whil..."
-run_time_ist: "7:38AM"
+title: "Digest of Recent Government Policy, International Cooperation, and Public Health"
+date: 2026-08-23T04:09:06.244079+00:00
+summary: "Public Health Regulation: The government has restricted the manufacture, sale, and distribution of specific fixeddose combinations containing Chlorpheniramin..."
+run_time_ist: "9:39AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 7:38AM</p>
+  <p class="post-meta">Gemini Summary: 9:39AM</p>
 
 <ul class="digest-points">
-  <li><strong>Public Health and Safety:</strong> The government has restricted the manufacture and sale of specific fixed-dose combinations containing Chlorpheniramine Maleate, while a national workshop was held to address the elimination of fatalities in sanitation work.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302351&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>International Relations and Defense:</strong> The Indian Air Force successfully completed multinational exercises Pitch Black and Udara Shakti, and the BRICS Youth Ministers’ Meeting in Visakhapatnam concluded with the adoption of a joint statement.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302406&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302371&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Scientific and Technological Advancement:</strong> Dr. Jitendra Singh emphasized transitioning India from the &quot;Pharmacy of the World&quot; to the &quot;Laboratory of the World&quot; through AI integration, alongside the adoption of the &#x27;Chennai Declaration&#x27; on scientific cooperation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302339&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302328&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Institutional and Cultural Milestones:</strong> CSIR-NIScPR celebrated the platinum jubilee of its popular Hindi science magazine, while the Lieutenant Governor of Jammu &amp; Kashmir held a meeting with the Prime Minister.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302401&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302363&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Social Recognition:</strong> The Lieutenant Governor acknowledged the Maheshwari Samaj for its historical contributions to social service and community commitment.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302340&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Public Health Regulation:</strong> The government has restricted the manufacture, sale, and distribution of specific fixed-dose combinations containing Chlorpheniramine Maleate.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302237&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>International Diplomacy and Defense:</strong> India hosted the BRICS Youth Ministers’ meeting in Visakhapatnam and concluded participation in multinational Indian Air Force exercises, Pitch Black and Udara Shakti.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302406&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302371&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Science and Technology Advancement:</strong> Union Minister Dr. Jitendra Singh called for India to transition from the &quot;Pharmacy of the World&quot; to the &quot;Laboratory of the World&quot; while emphasizing the integration of AI in research.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302339&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302328&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Sanitation and Public Welfare:</strong> A national workshop was held to address the goal of ending fatalities in sanitation work, while the Lieutenant Governor of Jammu &amp; Kashmir met with the Prime Minister to discuss regional matters.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302363&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302351&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Institutional Milestones:</strong> The CSIR-NIScPR celebrated the platinum jubilee of its popular Hindi science magazine, marking 75 years of scientific communication.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302401&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
 </ul>
 
 <section class="source-note">
