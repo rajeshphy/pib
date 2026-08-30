@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Governance, Infrastructure, and Policy Updates"
-date: 2026-08-30T09:24:32.509531+00:00
-summary: "Educational and Public Events: The NEETPG 2026 examination was conducted nationwide with enhanced security, while the President is set to preside over the NI..."
-run_time_ist: "2:54PM"
+title: "National Developments in Diplomacy, Defense, and Public Governance"
+date: 2026-08-30T13:55:58.575006+00:00
+summary: "Diplomatic relations with Uzbekistan: Prime Minister Narendra Modi held highlevel talks and signed multiple agreements during his state visit, where he was a..."
+run_time_ist: "7:25PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 2:54PM</p>
+  <p class="post-meta">Gemini Summary: 7:25PM</p>
 
 <ul class="digest-points">
-  <li><strong>Educational and Public Events:</strong> The NEET-PG 2026 examination was conducted nationwide with enhanced security, while the President is set to preside over the NIFT Combined Convocation 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304654&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304601&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Infrastructure and Development:</strong> The Raksha Mantri and the Chief Minister of Uttar Pradesh inaugurated 14 new development projects through a formal Bhoomi Pujan ceremony.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304645&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Policy and Trade Initiatives:</strong> The government has notified new Legal Metrology rules regarding Indian Standard Time, and India is actively advancing Comprehensive Economic Partnership Agreement (CEPA) negotiations with Chile.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304613&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304610&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Strategic and Public Outreach:</strong> The Vice President participated in commemorative events for Kerala’s history and a former leader&#x27;s birth centenary, while the Prime Minister addressed the 137th episode of Mann Ki Baat.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304635&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304616&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304564&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Health and Fisheries Promotion:</strong> Union Minister Dr. Mansukh Mandaviya promoted physical fitness through the &quot;Fit India Sundays&quot; cycling event, and the Vice President is scheduled to release the &quot;Mission Rangeen Machhli 2031&quot; strategic plan.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304612&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Diplomatic relations with Uzbekistan:</strong> Prime Minister Narendra Modi held high-level talks and signed multiple agreements during his state visit, where he was also conferred with the country’s highest civilian honor, the &quot;Oliy Darajali Do’stlik&quot; Order.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304718&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304717&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304704&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304701&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Defense and security initiatives:</strong> The 4th Tri-Services Future Warfare Course concluded in New Delhi, while the government continues to engage with Armed Forces HQ associations on administrative matters.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304742&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304675&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Infrastructure and skill development:</strong> The Raksha Mantri and Uttar Pradesh Chief Minister launched 14 development projects in the state, complemented by a new industry-focused skill development initiative organized by the MSDE and the UP government.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304737&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304645&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Public service and digital governance:</strong> The Integrated Fertilizer Management System (iFMS) has transitioned to a data-driven phase, and the NEET-PG 2026 examination was successfully conducted nationwide with enhanced security measures.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304690&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304654&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Cultural and regional events:</strong> The Vice President inaugurated the Aranmula Uthrittathi Vallamkali, highlighting the cultural heritage of Kerala.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304691&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "2:54PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304654&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NEET-PG 2026 Successfully Conducted Nationwide with Robust Security and Real-Time Mon...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304645&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Mantri &amp; UP Chief Minister perform Bhoomi Pujan for 14 development projects wo...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304635&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President Shri C. P. Radhakrishnan attends 115th Anniversary Celebrations of Ker...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Mansukh Mandaviya leads 88th Edition of Fit India Sundays on Cycle...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304616&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM’s address in the 137th Episode of Mann Ki Baat on 30.08.2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304613&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Consumer Affairs Notifies Legal Metrology (Indian Standard Time) Rules,...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304612&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Hon’ble Vice President of India to Release “Mission Rangeen Machhli 2031” Strategic A...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304610&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India–Chile CEPA Negotiations Advance; Commerce Secretary Shri Rajesh Agrawal Meets C...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304601&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India to Grace NIFT Combined Convocation 2026 Tomorrow in New Delhi</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304564&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President Shri C. P. Radhakrishnan attends birth centenary celebrations of forme...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304742&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">4th Tri-Services Future Warfare Course concludes in New Delhi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304737&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MSDE in collaboration with Government of Uttar Pradesh organises PM-SETU Industry Con...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304718&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Joint Statement during the State Visit of Prime Minister Narendra Modi to Uzbekistan</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304717&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Conferred with “Oliy Darajali Do’stlik” Order, Uzbekistan’s highest ho...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister holds official talks on his State Visit to Uzbekistan</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304704&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">List of Outcomes: Prime Minister’s State Visit to Uzbekistan</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304701&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister&#x27;s press statement during the joint press statement with the President ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304691&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President inaugurates Aranmula Uthrittathi Vallamkali, celebrates Keralam’s rich...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304690&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Integrated Fertilizer Management System (iFMS) Enters a New Phase of Data-Driven Fert...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304675&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Jitendra Singh holds Interaction with the delegation of Armed Forces HQ Associati...</a></li>
 </ul>
 
 </details>
