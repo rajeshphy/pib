@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Summary of Recent Government Policy, International Relations, and Administrative Updates"
-date: 2026-08-31T05:53:35.457434+00:00
-summary: "International Diplomacy: Prime Minister Narendra Modi held highlevel talks in Uzbekistan, where he was awarded the country's highest honor, the \"Oliy Darajal..."
-run_time_ist: "11:23AM"
+title: "National Governance, Environmental Initiatives, and Strategic Reviews"
+date: 2026-08-31T10:00:12.279682+00:00
+summary: "Fertilizer Management: The Integrated Fertilizer Management System (iFMS) has transitioned into a new phase focused on datadriven oversight to improve distri..."
+run_time_ist: "3:30PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 11:23AM</p>
+  <p class="post-meta">Gemini Summary: 3:30PM</p>
 
 <ul class="digest-points">
-  <li><strong>International Diplomacy:</strong> Prime Minister Narendra Modi held high-level talks in Uzbekistan, where he was awarded the country&#x27;s highest honor, the &quot;Oliy Darajali Do’stlik&quot; Order, and signed a joint statement to strengthen bilateral relations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304718&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304717&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Trade and Economic Cooperation:</strong> India and Brazil held the 8th Trade Monitoring Mechanism meeting to discuss bilateral economic engagement, while the National Biodiversity Authority disbursed Rs. 5.68 crore under Access and Benefit-Sharing provisions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304804&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304759&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Regulatory and Administrative Updates:</strong> The Department of Consumer Affairs notified the Legal Metrology (Indian Standard Time) Rules, 2026, and the Union Minister reviewed the progress of the Swachh Bharat Mission–Urban in Chandigarh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304613&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304767&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Skill Development and Defense Training:</strong> The Ministry of Skill Development and Entrepreneurship partnered with the Uttar Pradesh government for an industry conference, while the 4th Tri-Services Future Warfare Course concluded in New Delhi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304742&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304737&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Diplomatic Engagements:</strong> During his visit to Uzbekistan, the Prime Minister paid tribute at the Shastri Memorial and visited the Tashkent State University of Oriental Studies.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304746&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Fertilizer Management:</strong> The Integrated Fertilizer Management System (iFMS) has transitioned into a new phase focused on data-driven oversight to improve distribution and efficiency.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304690&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Fisheries Development:</strong> The Vice President of India participated in a Fisheries Outreach Programme in Agatti, Lakshadweep, to engage with the local fishing community.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304937&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Environmental Sustainability:</strong> Depalpur has successfully cleared legacy waste under the &quot;Mission Zero&quot; initiative, while New Delhi is set to host the 4th Indo-German Environmental Forum in September 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304917&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Defense Sector Oversight:</strong> The Raksha Mantri will conduct an annual performance review of 16 Defense Public Sector Undertakings (DPSUs), and the Raksha Rajya Mantri is scheduled to inaugurate the second Annual Trident Lecture of CENJOWS.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304901&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304900&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Cultural Outreach:</strong> The Prime Minister highlighted the importance of positive thinking and constructive action by sharing a Sanskrit Subhashitam.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304934&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,14 @@ run_time_ist: "11:23AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304613&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Consumer Affairs Notifies Legal Metrology (Indian Standard Time) Rules, 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304804&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Commerce Secretary Shri Rajesh Agrawal Co-Chairs India-Brazil 8th Trade Monitoring Me...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304767&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Manohar Lal reviews Swachh Bharat Mission–Urban progress in Chand...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304759&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Biodiversity Authority disburses Rs. 5.68 Crore in Access and Benefit-Sharin...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304746&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister lays wreath at Shastri Memorial and visits Tashkent State University o...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304742&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">4th Tri-Services Future Warfare Course concludes in New Delhi</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304737&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MSDE in collaboration with Government of Uttar Pradesh organises PM-SETU Industry Con...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304718&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Joint Statement during the State Visit of Prime Minister Narendra Modi to Uzbekistan</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304717&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Conferred with “Oliy Darajali Do’stlik” Order, Uzbekistan’s highest ho...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister holds official talks on his State Visit to Uzbekistan</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304690&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Integrated Fertilizer Management System (iFMS) Enters a New Phase of Data-Driven Fertilizer Management</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304937&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President Shri C. P. Radhakrishnan attends Fisheries Outreach Programme in Agatt...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304934&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam emphasising on positive thoughts and const...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Hon’ble Vice-President of India attends Fisheries Outreach Programme in Agatti, Laksh...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304917&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">4th Indo-German Environmental Forum to be held in New Delhi on September 1, 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Mission Zero: Depalpur Triumphs in Tackling Legacy Waste</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304901&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Rajya Mantri to inaugurate second Annual Trident Lecture of CENJOWS</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2304900&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Mantri to undertake annual performance review of 16 DPSUs in New Delhi</a></li>
 </ul>
 
 </details>
