@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Infrastructure, Digital Innovation, and Policy Developments in India"
-date: 2026-09-10T08:19:28.010232+00:00
-summary: "Infrastructure expansion: The Cabinet has approved five multitracking railway projects spanning 17 districts across several southern and central states. Sour..."
-run_time_ist: "1:49PM"
+title: "Government Policy Updates, Diplomatic Engagements, and Enforcement Actions"
+date: 2026-09-10T13:03:45.255658+00:00
+summary: "Diplomatic and International Relations: Prime Minister Narendra Modi held discussions with the German Chancellor and Prince Rahim Aga Khan, while also affirm..."
+run_time_ist: "6:33PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 1:49PM</p>
+  <p class="post-meta">Gemini Summary: 6:33PM</p>
 
 <ul class="digest-points">
-  <li><strong>Infrastructure expansion:</strong> The Cabinet has approved five multi-tracking railway projects spanning 17 districts across several southern and central states.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308262&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Digital and educational advancement:</strong> The Digital India BHASHINI division is promoting language technology, while the NIELIT Digital University has partnered with Saylor University, USA, to enhance digital education.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308618&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308606&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Governance and land management:</strong> The government is prioritizing deregulation for next-generation reforms and preparing to launch updated operational guidelines for the Digital India Land Records Modernization Programme (DILRMP 3.0).<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308600&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308504&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>International cooperation:</strong> India is strengthening global partnerships through the ASEAN–India Ministerial Meeting on food security and collaborating with BRICS nations to support women-led enterprises.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308621&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308552&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Conservation and agricultural development:</strong> Authorities have seized protected wildlife species in an anti-smuggling operation, while new infrastructure is being developed to support Basmati and organic farming sectors.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308530&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308493&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Diplomatic and International Relations:</strong> Prime Minister Narendra Modi held discussions with the German Chancellor and Prince Rahim Aga Khan, while also affirming India&#x27;s preparations for hosting the 2026 BRICS summit.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308837&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308838&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Enforcement and Anti-Smuggling Operations:</strong> The Directorate of Revenue Intelligence (DRI) conducted major operations resulting in the seizure of protected wildlife species and approximately 41 kg of smuggled gold.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308530&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308801&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Social Welfare and Digital Inclusion:</strong> The government has provided scholarships to over 1.44 crore Scheduled Caste students and launched a digital initiative to support persons with disabilities through a partnership between DEPwD, ALIMCO, and EkStep.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308831&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308827&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Governance and Regulatory Reforms:</strong> Authorities have amended e-commerce rules to enhance consumer protection, while the Ministry of Housing and Urban Affairs is reviewing preparations for the upcoming Swachhata Hi Seva campaign.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308809&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308759&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Official Visits and Recognition:</strong> The Vice-President is scheduled to visit the Union Territory of Dadra and Nagar Haveli and Daman and Diu, and the NCSC Chairman was honored with the Dr. APJ Abdul Kalam Jan Seva Award.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308828&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308805&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "1:49PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308262&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves five multitracking projects covering 17 Districts across the states of Tamil Nadu, Andhra Pradesh, Karn...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308621&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">9th ASEAN–India Ministerial Meeting Reaffirms Commitment to Food Security, Sustainabl...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308618&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Digital India BHASHINI Division Organises Workshop at Maharashtra Mantralaya; Advance...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308606&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NIELIT Digital University (NDU) Platform Integrated with Saylor University, USA</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308600&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri. Rajiv Gauba Calls for Deregulation as the Defining Feature of India&#x27;s Next-Gene...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308575&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam seeking blessings for well-being, wisdom a...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308552&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India to work with BRICS partners to expand opportunities for women-led enterprises i...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308530&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes two leopard pelts; 180 live Indian star tortoises; 12 live tokay geckos; a...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308504&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Land Resources to Launch Operational Guidelines for DILRMP 3.0; Set to ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308493&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Jitin Prasada Lays Foundation Stone for BEDF Basmati and Organic ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308530&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes two leopard pelts; 180 live Indian star tortoises; 12 live tokay geckos; around 24 kg pangolin scales and 500...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308837&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Narendra Modi receives a telephone call from the Chancellor of Germany</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">His Highness Prince Rahim Aga Khan V calls on Prime Minister Shri Narendra Modi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308838&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister highlights India’s readiness for BRICS 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308831&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Over 1.44 crore Scheduled Caste students supported with scholarships amounting to Rs ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308828&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President to visit Union Territory of Dadra and Nagar Haveli and Daman and Diu o...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308827&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Need to Opportunity: DEPwD, ALIMCO and EkStep Join Hands to Build a Digital Brid...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308809&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Manohar Lal reviews preparations for Swachhata Hi Seva 2026 with ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308805&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCSC Chairman Shri Kishor Makwana Conferred Dr. APJ Abdul Kalam Jan Seva Award 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308801&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI intensifies crackdown on gold smuggling in pan-India operations; seizes around 41...</a></li>
 </ul>
 
 </details>
