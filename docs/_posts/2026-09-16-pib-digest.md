@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Updates on National Welfare Schemes, Digital Infrastructure, and Policy Initiatives"
-date: 2026-09-16T08:47:35.705953+00:00
-summary: "Digital Payments and Technology: UPI remains free for all peertopeer transactions and 96% of merchant payments, while preparations are underway for the upcom..."
-run_time_ist: "2:17PM"
+title: "Policy Updates, Administrative Initiatives, and National Recognitions"
+date: 2026-09-16T13:40:09.986564+00:00
+summary: "Social Security Reform: The Union Cabinet has approved increasing the monthly wage ceiling for EPFO coverage from Rs. 15,000 to Rs. 25,000. Sources: [1]"
+run_time_ist: "7:10PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 2:17PM</p>
+  <p class="post-meta">Gemini Summary: 7:10PM</p>
 
 <ul class="digest-points">
-  <li><strong>Digital Payments and Technology:</strong> UPI remains free for all peer-to-peer transactions and 96% of merchant payments, while preparations are underway for the upcoming SEMICON India 2026 event.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310726&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Support for Artisans and Housing:</strong> The PM Vishwakarma scheme has successfully registered 30 lakh artisans over three years, alongside ongoing efforts to provide inclusive housing through the PMAY-U initiative.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310759&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310751&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310717&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Environmental and Energy Policy:</strong> India has launched a new Net Zero portal to track climate goals, while government representatives participated in the G20 Energy Abundance Working Group to discuss global energy strategies.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310737&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310739&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Public Service and Governance:</strong> The Department of Drinking Water and Sanitation has launched the Swachh Seva Aankalan, and the Department of Animal Husbandry is preparing for a new special administrative campaign.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310773&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310741&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Education and Youth Development:</strong> Recent initiatives include the launch of an executive program on labor law and social security, as well as the successful completion of a high-altitude expedition by NCC girl cadets.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310731&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310725&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Social Security Reform:</strong> The Union Cabinet has approved increasing the monthly wage ceiling for EPFO coverage from Rs. 15,000 to Rs. 25,000.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310811&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Environmental and Industrial Oversight:</strong> Authorities are enforcing pollution compliance through industrial inspections in Uttar Pradesh, while CSIR is promoting sustainable technology transfers for leather processing and road construction.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311019&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311013&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Administrative Campaigns:</strong> Various government departments have launched preparations and dedicated web portals for the upcoming Special Campaign 6.0, focusing on cleanliness and administrative efficiency.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311007&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311004&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Governance and Economic Empowerment:</strong> The government has reconstituted the Central Board of Film Certification and held workshops to assist Central Public Sector Enterprises in accessing global and domestic debt markets.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311010&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311000&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Cultural and Social Recognition:</strong> Actor Anant Nag has been selected for the 2024 Dadasaheb Phalke Award, alongside new initiatives by the Babu Jagjivan Ram National Foundation and the Ministry of Culture to promote social equality and tourism.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310991&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310989&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "2:17PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">UPI Continues to Remain Free for Peer to Peer Transactions and 96% of Merchant Transactions</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310773&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Drinking Water &amp; Sanitation launches Swachh Seva Aankalan for Swachh Bh...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310759&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PMAY-U: The Story of Housing, Inclusion and Empowerment</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310757&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam emphasizing on courage and wisdom</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310751&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM Vishwakarma Completes Three Years: 30 Lakh Artisans Registered Under the Scheme</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310741&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Animal Husbandry and Dairying gear up to participate in Special Campaig...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310737&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of State Shri Kirti Vardhan Singh launches India’s Net Zero Portal and...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310739&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Manohar Lal Participates in G20 Energy Abundance Working Group; Addresses Minist...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310731&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Inaugural PDUNASS–GNLU Executive Program on Labour Law and Social Security Compliance...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310726&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM to inaugurate SEMICON India 2026 on 17 September in New Delhi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310811&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves enhancement of EPFO wage ceiling from Rs.15,000 to Rs.25,000 per month</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311044&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Care That Goes Beyond the Prescription</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311019&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CSIR Transfers Technologies for Sustainable Leather Processing and Safer, Greener Roa...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311013&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM conducts special inspection of industries in Hapur, Uttar Pradesh; 16 of 22 unit...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311010&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Empowering CPSEs for Global and Domestic Debt Markets: DPE Holds Interactive Workshop...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311007&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Financial Services gears up for Special Campaign 6.0</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311004&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr Jitendra Singh Launches Web Portal for Special Swachhata Campaign 6...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Drinking Water and Sanitation Begins Preparations for Special Campaign ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311000&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Reconstitutes Central Board of Film Certification with 18 Members</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Culture and Tourism Shri Gajendra Singh Shekhawat launches 8th Edit...</a></li>
 </ul>
 
 </details>
