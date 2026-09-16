@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Policy Updates, Administrative Initiatives, and National Recognitions"
-date: 2026-09-16T13:40:09.986564+00:00
-summary: "Social Security Reform: The Union Cabinet has approved increasing the monthly wage ceiling for EPFO coverage from Rs. 15,000 to Rs. 25,000. Sources: [1]"
-run_time_ist: "7:10PM"
+title: "Government Policy Updates, National Initiatives, and Administrative Actions"
+date: 2026-09-16T18:15:45.526557+00:00
+summary: "Social Security Reform: The Union Cabinet has approved increasing the EPFO wage ceiling from Rs. 15,000 to Rs. 25,000 per month. Sources: [1]"
+run_time_ist: "11:45PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 7:10PM</p>
+  <p class="post-meta">Gemini Summary: 11:45PM</p>
 
 <ul class="digest-points">
-  <li><strong>Social Security Reform:</strong> The Union Cabinet has approved increasing the monthly wage ceiling for EPFO coverage from Rs. 15,000 to Rs. 25,000.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310811&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Environmental and Industrial Oversight:</strong> Authorities are enforcing pollution compliance through industrial inspections in Uttar Pradesh, while CSIR is promoting sustainable technology transfers for leather processing and road construction.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311019&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311013&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Administrative Campaigns:</strong> Various government departments have launched preparations and dedicated web portals for the upcoming Special Campaign 6.0, focusing on cleanliness and administrative efficiency.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311007&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311004&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Governance and Economic Empowerment:</strong> The government has reconstituted the Central Board of Film Certification and held workshops to assist Central Public Sector Enterprises in accessing global and domestic debt markets.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311010&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311000&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Cultural and Social Recognition:</strong> Actor Anant Nag has been selected for the 2024 Dadasaheb Phalke Award, alongside new initiatives by the Babu Jagjivan Ram National Foundation and the Ministry of Culture to promote social equality and tourism.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310991&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310989&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Social Security Reform:</strong> The Union Cabinet has approved increasing the EPFO wage ceiling from Rs. 15,000 to Rs. 25,000 per month.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310811&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Cleanliness and Waste Management:</strong> Government departments are launching the &quot;Swachhata Hi Seva 2026&quot; campaign and Special Campaign 6.0, alongside national webinars focused on improving solid and e-waste management practices.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311161&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311130&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311113&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Trade and Industrial Development:</strong> APEDA has signed an agreement with Gulfood to expand global food trade, while the government is reviewing the integration of recycled ship steel into domestic manufacturing.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311115&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311096&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Disaster Response and Security:</strong> The Union Government is actively assessing flood damage in Bihar and has officially designated the Shahzad Bhatti Network as a terrorist organization under the UAPA.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311105&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311078&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Commemorative Events:</strong> Preparations are underway for the Hyderabad Liberation Day celebrations to be held at the Secunderabad Parade Grounds.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311082&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,14 @@ run_time_ist: "7:10PM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310811&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves enhancement of EPFO wage ceiling from Rs.15,000 to Rs.25,000 per month</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311044&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Care That Goes Beyond the Prescription</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311019&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CSIR Transfers Technologies for Sustainable Leather Processing and Safer, Greener Roa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311013&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM conducts special inspection of industries in Hapur, Uttar Pradesh; 16 of 22 unit...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311010&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Empowering CPSEs for Global and Domestic Debt Markets: DPE Holds Interactive Workshop...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311007&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Financial Services gears up for Special Campaign 6.0</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311004&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr Jitendra Singh Launches Web Portal for Special Swachhata Campaign 6...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Drinking Water and Sanitation Begins Preparations for Special Campaign ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311000&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Reconstitutes Central Board of Film Certification with 18 Members</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2310997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Culture and Tourism Shri Gajendra Singh Shekhawat launches 8th Edit...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311161&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Nation gears up for Swachhata Hi Seva 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311130&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Webinar on Solid and e-Waste Management organised by the Department of Schoo...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311115&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">APEDA Signs MoU with Gulfood Organiser to Strengthen Global Food Trade Opportunities</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311113&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Legislative Department Gears Up for Special Campaign 6.0 to Boost Cleanliness and Red...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311105&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">On PM Modi’s Directions, Shivraj Singh Chouhan Reaches Bihar to Assess Flood Damage a...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311096&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Reviews Use of Steel from Ship Recycling to Boost Steel Manufacturing and ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311082&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Hyderabad Liberation Day Celebrations to be Organised Tomorrow at Secunderabad Parade...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311078&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MHA declares Shahzad Bhatti Network as a terrorist organization under UAPA, says Unio...</a></li>
 </ul>
 
 </details>
