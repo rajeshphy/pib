@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy Updates, Official Engagements, and Sectoral Achievements"
-date: 2026-09-20T13:10:42.742169+00:00
-summary: "LPG Subsidy Compliance: Biometric Aadhaar authentication will become mandatory for all subsidised domestic LPG refills starting October 1, 2026. Sources: [1]"
-run_time_ist: "6:40PM"
+title: "Government Initiatives, Legal Developments, and National Achievements Digest"
+date: 2026-09-20T17:32:13.911711+00:00
+summary: "Economic and Employment Updates: Government flagship schemes have contributed to a reduction in the national unemployment rate from 6% to 3.2%, while the CAT..."
+run_time_ist: "11:02PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 6:40PM</p>
+  <p class="post-meta">Gemini Summary: 11:02PM</p>
 
 <ul class="digest-points">
-  <li><strong>LPG Subsidy Compliance:</strong> Biometric Aadhaar authentication will become mandatory for all subsidised domestic LPG refills starting October 1, 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Economic and Employment Trends:</strong> Government flagship schemes have contributed to a reduction in the national unemployment rate from 6% to 3.2%.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312543&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Agricultural and Industrial Development:</strong> Officials are focusing on sustainable farming practices at the South Zonal Agriculture Conference and aiming to elevate India to the top position in global silk production.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Official Visits and Engagements:</strong> The President of India is scheduled to visit Gujarat, while the Vice-President will attend events in Tamil Nadu.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312723&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312708&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Sports and Administrative Milestones:</strong> The Prime Minister commended Indian shooters for their international medal successes, and the CAT Jammu Bench has been recognized for achieving one of the highest service case disposal rates in the country.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312713&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312709&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Economic and Employment Updates:</strong> Government flagship schemes have contributed to a reduction in the national unemployment rate from 6% to 3.2%, while the CAT Jammu Bench has achieved one of the highest disposal rates for service-related cases in the country.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312543&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312709&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Legal and Regulatory Discussions:</strong> The Indian Institute of Corporate Affairs (IICA) hosted sessions examining the evolution of the Insolvency and Bankruptcy Code (IBC) and its interface with the Prevention of Money Laundering Act (PMLA).<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312783&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312782&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Presidential Engagements and Visits:</strong> The President of India addressed the valedictory session of the National Green Tribunal’s international conference and is scheduled for an official visit to Gujarat from September 21 to 23.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312747&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312728&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312723&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Youth and Agricultural Development:</strong> Over 4 lakh youth participated in the Rashtriya Sankalp Samaroh, while the South Zonal Agriculture Conference in Hyderabad focused on strategies for sustainable and resilient farming.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312794&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Infrastructure and Sports Recognition:</strong> Union Minister Jyotiraditya Scindia inspected a site for new communications infrastructure, and the Prime Minister commended Indian shooters for their recent medal-winning performances.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312743&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312713&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "6:40PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Biometric Aadhaar Authentication Mandatory for Subsidised Domestic LPG Refills from 1 October 2026</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312543&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Unemployment Rate Reduced from 6% to 3.2% Due to Government’s Flagship Schemes: Union...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">South Zonal Agriculture Conference in Hyderabad to deliberate on sustainable and resi...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312794&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Rashtriya Sankalp Samaroh Witnesses Participation of Over 4 Lakh Youth Across More Th...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312783&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IICA hosts important session on ‘IBC as an Evolving Law Through the Amendments’,.</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312782&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IICA’s Meet the Legend Programme Explores ‘PMLA–IBC Interface’</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312747&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India addresses Valedictory Session of NGT’s International Conference on...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312743&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Communications Shri Jyotiraditya Scindia inspects site identified f...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312728&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Graces the Valedictory Session of the International Conference on ...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312723&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India to Visit Gujarat from September 21 to 23</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates shooters Sonam Uttam Maskar, Elavenil Valarivan and Vida...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312713&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates shooter Elavenil Valarivan on winning Silver Medal at th...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312709&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAT Jammu Bench’s Disposal of Service Cases Among the Highest in the Country: Dr. Jit...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312708&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan to visit Tamil Nadu on September 21; to parti...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312680&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister, Shri Rajiv Ranjan Singh and Shri Suvendu Adhikari, Hon&#x27;ble Chief Mini...</a></li>
 </ul>
 
 </details>
