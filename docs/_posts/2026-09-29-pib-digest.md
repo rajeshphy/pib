@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "PIB Regional Updates"
-date: 2026-09-29T05:58:59.229694+00:00
-summary: "DRI busts panIndia gold smuggling network and seizes around 6.6 kg of foreignorigin gold worth more than Rs. 10 crore;...: DRI busts panIndia gold smuggling..."
-run_time_ist: "11:28AM"
+title: "Government Policy Updates, Administrative Initiatives, and National Achievements"
+date: 2026-09-29T10:03:08.739407+00:00
+summary: "Tax and Pension Administration: The CBDT has extended the income tax return filing deadline for AY 202627 to November 21, 2026, while the Principal Controlle..."
+run_time_ist: "3:33PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 11:28AM</p>
+  <p class="post-meta">Gemini Summary: 3:33PM</p>
 
 <ul class="digest-points">
-  <li><strong>DRI busts pan-India gold smuggling network and seizes around 6.6 kg of foreign-origin gold worth more than Rs. 10 crore;...:</strong> DRI busts pan-India gold smuggling network and seizes around 6.6 kg of foreign-origin gold worth more than Rs. 10 crore;....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2315943&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Union Environment Minister hands over India’s first PRAMAAN certificates under the In...:</strong> Union Environment Minister hands over India’s first PRAMAAN certificates under the In....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316355&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Prime Minister shares Sanskrit Subhashitam highlighting the six qualities that invite...:</strong> Prime Minister shares Sanskrit Subhashitam highlighting the six qualities that invite....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316334&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Prime Minister congratulates Vithya Ramraj on winning Bronze in Women’s 400m hurdles ...:</strong> Prime Minister congratulates Vithya Ramraj on winning Bronze in Women’s 400m hurdles ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316259&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Prime Minister congratulates Gulveer Singh on winning Silver in Men’s 1500m at Asian ...:</strong> Prime Minister congratulates Gulveer Singh on winning Silver in Men’s 1500m at Asian ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Tax and Pension Administration:</strong> The CBDT has extended the income tax return filing deadline for AY 2026-27 to November 21, 2026, while the Principal Controller of Communication Accounts has issued a new schedule for telecom pensioners.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316050&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316460&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Governance and Anti-Corruption:</strong> The government is launching &quot;Special Campaign 6.0&quot; throughout October to promote cleanliness and administrative efficiency, alongside ongoing efforts to curb corruption in FCRA registration processes.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316474&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316383&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Agricultural and Rural Development:</strong> The Ministry of Agriculture is fostering a &quot;Team Agriculture&quot; approach to enhance global food security, while the Department of Drinking Water and Sanitation held the eleventh edition of the Sujal Gram Samvad to discuss rural water initiatives.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316459&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316456&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Environmental and Sustainability Standards:</strong> The Union Environment Minister has officially awarded India’s first PRAMAAN certificates, marking a significant step in the country&#x27;s sustainability and environmental certification framework.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316355&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>National Achievements and Cultural Outreach:</strong> NIFT students secured international recognition at WorldSkills Shanghai 2026 with multiple medals, while the Prime Minister continues to share traditional Sanskrit wisdom to promote cultural values.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316376&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316334&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,15 @@ run_time_ist: "11:28AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2315943&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI busts pan-India gold smuggling network and seizes around 6.6 kg of foreign-origin gold worth more than Rs. 10 crore;...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316050&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CBDT extends due date for furnishing Return of Income for AY 2026-27 from 31st October, 2026 to 21st November, 2026 in r...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316474&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government to Launch Special Campaign 6.0 from 2–31 October with Focus on Swachhata a...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316460&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Principal Controller of Communication Accounts releases schedule for Telecom Pensione...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316459&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DDWS organises Eleventh Edition of Sujal Gram Samvad</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316456&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shree Shivraj Singh Chouhan Calls for ‘Team Agriculture’ to Make India a Global Food ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316383&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Two officials apprehended for seeking illegal gratification to facilitate FCRA regist...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316376&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NIFT Students Make a Mark at WorldSkills Shanghai 2026 with Two Silver Medals and a M...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316355&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Environment Minister hands over India’s first PRAMAAN certificates under the In...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316334&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the six qualities that invite...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316259&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Vithya Ramraj on winning Bronze in Women’s 400m hurdles ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Gulveer Singh on winning Silver in Men’s 1500m at Asian ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316253&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Parul Chaudhary on winning Bronze in Women’s 5000m at As...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316250&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Yashvir Singh and Rohit Yadav on winning Silver and Bron...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Murali Sreeshankar on winning medal in Men’s Long Jump a...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316242&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Ho&#x27;nble Union Minister for Fisheries Animal Husbandry and Dairying &amp; Panchayatiraj Sh...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316230&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Rashtriya Raksha University to Launch Second Batch of Masters in Financial and Econom...</a></li>
 </ul>
 
 </details>
