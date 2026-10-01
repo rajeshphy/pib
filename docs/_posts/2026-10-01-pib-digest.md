@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-10-01T15:35:38.050220+00:00
+date: 2026-10-01T19:38:48.125111+00:00
 summary: "Government Revises Sugar Stock Holding Norms to Prevent Hoarding and Ensure Smooth Supply to Consumers During Festive Se...: Government Revises Sugar Stock H..."
-run_time_ist: "9:05PM"
+run_time_ist: "1:08AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 9:05PM</p>
+  <p class="post-meta">Headline Digest: 1:08AM</p>
 
 <ul class="digest-points">
   <li><strong>Government Revises Sugar Stock Holding Norms to Prevent Hoarding and Ensure Smooth Supply to Consumers During Festive Se...:</strong> Government Revises Sugar Stock Holding Norms to Prevent Hoarding and Ensure Smooth Supply to Consumers During Festive Se....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317497&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>CRIT and IIFT Organise Three-Day Orientation Course on Trade Negotiations:</strong> CRIT and IIFT Organise Three-Day Orientation Course on Trade Negotiations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317962&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Union Minister Shri Hardeep Singh Puri commends energy sector resilience, insulation ...:</strong> Union Minister Shri Hardeep Singh Puri commends energy sector resilience, insulation ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317940&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdha...:</strong> Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdha....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317937&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>MY Bharat-NSS Organises Nationwide “Health Walk/Run” Under Nasha Mukt Yuva Abhiyan:</strong> MY Bharat-NSS Organises Nationwide “Health Walk/Run” Under Nasha Mukt Yuva Abhiyan.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317932&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Legislative Department and Department of Legal Affairs Jointly Organized a Shramdaan ...:</strong> Legislative Department and Department of Legal Affairs Jointly Organized a Shramdaan ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318014&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Insolvency and Bankruptcy Code has strengthened credit discipline, improved recovery ...:</strong> Insolvency and Bankruptcy Code has strengthened credit discipline, improved recovery ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317998&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>District Opium Office, Mandsaur Second Division, Mandsaur, conducts awareness program...:</strong> District Opium Office, Mandsaur Second Division, Mandsaur, conducts awareness program....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317994&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Brahma Kumaris and DOO office organise drug abuse and addiction awareness campaign un...:</strong> Brahma Kumaris and DOO office organise drug abuse and addiction awareness campaign un....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317993&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "9:05PM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317497&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Revises Sugar Stock Holding Norms to Prevent Hoarding and Ensure Smooth Supply to Consumers During Festive Se...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318014&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Legislative Department and Department of Legal Affairs Jointly Organized a Shramdaan ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317998&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Insolvency and Bankruptcy Code has strengthened credit discipline, improved recovery ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317994&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">District Opium Office, Mandsaur Second Division, Mandsaur, conducts awareness program...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317993&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Brahma Kumaris and DOO office organise drug abuse and addiction awareness campaign un...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Bureau of Narcotics, DNC office, conducts drug abuse and addiction awareness ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317976&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cooperation between the Nalanda University and the CSIR-Traditional Knowledge Digital...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317962&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CRIT and IIFT Organise Three-Day Orientation Course on Trade Negotiations</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317940&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Hardeep Singh Puri commends energy sector resilience, insulation ...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317937&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdha...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317932&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat-NSS Organises Nationwide “Health Walk/Run” Under Nasha Mukt Yuva Abhiyan</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317928&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Virendra Kumar, Shri B L Verma To Distribute Assistive Devices Among Senior Citiz...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317917&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sādhana Śhrinkhla: First Regional Workshop on Mission Karmayogi Concludes at Vijayawa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of State (I/C) for Law and Justice Shri Arjun Ram Meghwal Leads Cleanl...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Commerce and Industry Shri Piyush Goyal Participates in Opening Day...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317908&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Land Resources Organises “Ek Din, Ek Ghanta, Ek Saath” Cleanliness Driv...</a></li>
 </ul>
 
 </details>
