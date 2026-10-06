@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Policy Updates, Scientific Advancements, and Institutional Milestones"
-date: 2026-10-06T10:39:00.562159+00:00
-summary: "Cabinet Approvals: The Union Cabinet has approved the establishment of an Integrated Transport & Logistics Authority and a Rs. 10,000 crore commitment for an..."
-run_time_ist: "4:09PM"
+title: "Government Policy, Appointments, and National Development Updates"
+date: 2026-10-06T15:23:26.604194+00:00
+summary: "Economic and Industrial Support: The Cabinet has approved a Rs 10,000 crore SME Growth Fund to provide direct equity investment for small and medium enterpri..."
+run_time_ist: "8:53PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 4:09PM</p>
+  <p class="post-meta">Gemini Summary: 8:53PM</p>
 
 <ul class="digest-points">
-  <li><strong>Cabinet Approvals:</strong> The Union Cabinet has approved the establishment of an Integrated Transport &amp; Logistics Authority and a Rs. 10,000 crore commitment for an SME Growth Fund.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319534&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319531&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>International Scientific Cooperation:</strong> India and Switzerland have strengthened their strategic partnership in science and technology to build upon two decades of research collaboration.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319563&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319560&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Institutional and Academic Milestones:</strong> President Droupadi Murmu presided over the first convocation ceremony of AIIMS Bilaspur.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319547&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319526&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Technological and Research Developments:</strong> The DRDO successfully conducted a flight trial of a high-altitude platform, while researchers uncovered new insights into a rare giant binary black hole system.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319551&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319522&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Governance and Industry Initiatives:</strong> Government leaders emphasized the role of youth in national development, discussed India&#x27;s water-governance model, and held the inaugural meeting of the Development Council for the Textile Industry.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319567&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319539&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319524&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Economic and Industrial Support:</strong> The Cabinet has approved a Rs 10,000 crore SME Growth Fund to provide direct equity investment for small and medium enterprises.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Strategic Appointments and Governance:</strong> The government has appointed Air Marshal Ashutosh Dixit as the new Chief of the Air Staff and facilitated the swearing-in of new members for the Ministry of Social Justice and Empowerment.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Public Engagement and Dialogue:</strong> Government officials are actively promoting public participation through initiatives like the &#x27;Shram Samvad&#x27; labor dialogue and the IndiaAI Mission’s university engagement program.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319828&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319826&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319821&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Infrastructure and Technology Outreach:</strong> The Prime Minister held discussions with the GSMA board regarding global mobile communications, while the Ministry of Communications focused on development initiatives for the North Eastern Region.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319810&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319793&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Sanitation and Enforcement Efforts:</strong> Authorities are advancing the &#x27;Swachhata Hi Seva&#x27; campaign for waste management and self-reliance, while the DRI has intensified operations against cross-border gold smuggling.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319832&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319801&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "4:09PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319567&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“Yuva Shakti is the Strength of Viksit Bharat”: Dr. Mansukh Mandaviya</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319565&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Year...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319563&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India, Switzerland Strengthen Strategic Science &amp; Technology Partnership; Dr. Jitendr...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319560&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indo-Swiss Research Framework to Give Fresh Impetus to Two Decades of Scientific Coop...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319551&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRDO Conducts Flight Trial of High-Altitude Platform</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319547&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PRESIDENT OF INDIA GRACES the first convocation of AIIMS Bilaspur</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319539&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article on how India’s water-governance model is offering us...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319534&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves Commitment of Rs.10,000 Crore towards establishment of the SME Growt...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319531&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves setting up of Integrated Transport &amp; Logistics Authority</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319526&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President Smt. Droupadi Murmu addresses first historic Convocation of AIIMS Bilaspur ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves Commitment of Rs.10,000 Crore towards establishment of the SME Growth Fund for direct equity investment...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319832&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI cracks down on cross-border gold smuggling along Indo-Bangladesh border; seizes o...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319828&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Strong Democracies Are Built on Dialogue, Diverse Views and Meaningful Public Partici...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Sudhansh Pant, Secretary, MoSJE to Administer Oath to Newly Appointed Members of...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319822&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government appoints Air Marshal Ashutosh Dixit, PVSM, AVSM, VM, VSM as Chief of the A...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319826&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Secretary (Labour &amp; Employment) Leads ‘Shram Samvad’ at Rudrapur, Uttarakhand</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319821&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IndiaAI Mission Organised AIKosh University Engagement Programme at National Institut...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319810&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM interacts with Global System for Mobile Communications Association (GSMA) Board Me...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319801&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Swachhata Hi Seva 2026 : MoPR and DDWS Take Cleanliness and Waste Management Message ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Waste Picking to Self-Reliance:</a></li>
 </ul>
 
 </details>
