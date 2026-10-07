@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Policy Updates, Economic Initiatives, and Administrative Developments"
-date: 2026-10-07T06:16:59.811934+00:00
-summary: "Economic Support: The Cabinet has approved a Rs 10,000 crore commitment to establish an SME Growth Fund to provide direct equity investment for small and med..."
-run_time_ist: "11:46AM"
+title: "Government Initiatives in Science, Governance, and Infrastructure Development"
+date: 2026-10-07T10:29:56.413008+00:00
+summary: "Scientific Innovation: Researchers have developed a new metalfree porous material designed to facilitate the production of affordable clean energy. Sources: [1]"
+run_time_ist: "3:59PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 11:46AM</p>
+  <p class="post-meta">Gemini Summary: 3:59PM</p>
 
 <ul class="digest-points">
-  <li><strong>Economic Support:</strong> The Cabinet has approved a Rs 10,000 crore commitment to establish an SME Growth Fund to provide direct equity investment for small and medium enterprises.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>International Engagement:</strong> The Commerce and Industry Minister held discussions with leading U.S. companies, while India emphasized that COP31 must focus on closing climate gaps and accelerating implementation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319908&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319890&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Public Health and Enforcement:</strong> The Union Health Minister is set to launch the national JOSH teams, and the DRI successfully seized gold during a crackdown on cross-border smuggling along the Indo-Bangladesh border.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319900&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319832&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Governance and Administration:</strong> The Election Commission clarified protocols for political meetings, and the Ministry of Social Justice and Empowerment administered oaths to newly appointed members of its statutory bodies.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319864&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Leadership and Development:</strong> The Prime Minister highlighted India’s recent development journey and agricultural transformation through shared articles, while also engaging in cultural and service-oriented observances.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319931&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319925&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319912&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Scientific Innovation:</strong> Researchers have developed a new metal-free porous material designed to facilitate the production of affordable clean energy.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320120&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Administrative Efficiency:</strong> The Department of Science and Technology is prioritizing cleanliness and the disposal of pending files as part of its preparations for Special Campaign 6.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320115&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320113&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Governance and Policy:</strong> The Ministry of Social Justice and Empowerment has inducted new members to its governing bodies, while officials emphasized promoting Hindi through opportunity rather than imposition.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320110&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320092&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Strategic Infrastructure and Planning:</strong> India has initiated the construction of new fleet support ships and released a strategic roadmap for environmental economic accounting through 2030.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320063&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320049&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Public Services and Diplomacy:</strong> The government is organizing a circle-level Dak Adalat for grievance redressal, while an Indian Parliamentary delegation is engaging in international diplomatic efforts.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320068&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320035&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "11:46AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves Commitment of Rs.10,000 Crore towards establishment of the SME Growth Fund for direct equity investment...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319931&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article on India’s development journey in recent years marke...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article on transformation of Indian agriculture</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319925&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister visits Shri Vinayak temple</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319912&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam emphasising on the virtue of dedicated ser...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319908&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Commerce and Industry Minister Shri Piyush Goyal Holds Meetings with Leading U.S. Com...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319900&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Minister Shri J.P. Nadda to Lead National Launch of JOSH Teams Tomorrow ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319890&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">COP31 should focus on Closing Gaps, Fulfilling Commitments and Accelerating Implement...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319864&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ECI Clarifies Protocol for Meetings with Political Delegations, Says No Political Par...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319832&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI cracks down on cross-border gold smuggling along Indo-Bangladesh border; seizes o...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320120&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">New metal-free porous material can help produce affordable clean energy</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320115&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DST Reviews Preparedness for Special Campaign 6; Calls for Focused Action on Swachhat...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320113&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DST Steps Up Preparations for Special Campaign 6; Focus on Swachhata, Disposal of Pen...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320110&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Secretary MoSJE Shri Sudhansh Pant Administers Oath to Newly Appointed Members of Gov...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320092&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Hindi Promotion Should Be Through Creating Opportunities and Stake, Not by Imposition...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320068&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The Indian Parliamentary Delegation led by Shri Harivansh, Hon’ble Deputy Chairman, R...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320063&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Document on “Strategy for Environmental Economic Accounts in India 2026-2030”</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320035&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Circle level Dak Adalat on october 28</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320049&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Launch and Keel Laying of Fleet Support Ships</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319996&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article highlighting learning, teamwork and hard work in gov...</a></li>
 </ul>
 
 </details>
