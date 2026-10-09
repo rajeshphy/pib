@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Summary of Recent Government Policy, Governance, and Economic Initiatives"
-date: 2026-10-09T10:49:14.443860+00:00
-summary: "Economic and Trade Policy: The GST Council finalized its 57th meeting recommendations, while the 15th ASEANIndia Trade in Goods Agreement Joint Committee mee..."
-run_time_ist: "4:19PM"
+title: "National Policy, Technology, and Governance Updates"
+date: 2026-10-09T15:30:14.347154+00:00
+summary: "Healthcare affordability: The government has expanded price controls on cancer medications, a move projected to save patients ₹2,500 crore annually. Sources:..."
+run_time_ist: "9:00PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 4:19PM</p>
+  <p class="post-meta">Gemini Summary: 9:00PM</p>
 
 <ul class="digest-points">
-  <li><strong>Economic and Trade Policy:</strong> The GST Council finalized its 57th meeting recommendations, while the 15th ASEAN-India Trade in Goods Agreement Joint Committee meeting focused on strengthening regional trade relations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320934&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321209&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Infrastructure and Digital Innovation:</strong> The government is advancing digital and industrial growth through the MeitY pavilion’s technology showcases, the inauguration of Windergy India 2026, and the National Land Monetisation Corporation’s call for bids on prime land assets.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321282&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321258&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Public Welfare and Social Development:</strong> Initiatives include a new geriatric care training program for the elderly, a national review workshop in Bastar to improve state-specific governance, and the repurposing of PM mementos for public causes.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321314&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321268&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Regulatory and Administrative Updates:</strong> The TRAI has released draft regulations for digital rights management in broadcasting, and the UPSC has published its recruitment results for August.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321259&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321213&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Governance and Institutional Milestones:</strong> The National Human Rights Commission is preparing for its 33rd Foundation Day, alongside ongoing government efforts to promote governance strategies for the Viksit Bharat 2047 vision.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321285&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321270&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Healthcare affordability:</strong> The government has expanded price controls on cancer medications, a move projected to save patients ₹2,500 crore annually.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321092&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Technological advancement:</strong> India is strengthening its global 6G partnerships and expanding 5G use-case laboratories to drive domestic telecommunications innovation.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321533&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321511&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Defense and security:</strong> The Indian Navy is commissioning an indigenous anti-submarine craft, while the government is encouraging increased private sector participation in defense manufacturing.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321523&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321516&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Governance and accessibility:</strong> The Department of Empowerment of Persons with Disabilities (DEPwD) is prioritizing administrative efficiency and advocating for a whole-of-government approach to ensure universal accessibility.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321518&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321517&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Infrastructure and services:</strong> New initiatives include the inauguration of renewable energy forums, a partnership between India Post and Blue Dart for parcel services, and enhanced meteorological training for cyclone warnings.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321513&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321512&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "4:19PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320934&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Recommendations of the 57th Meeting of the GST Council</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321092&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Expands Cancer Medicine Price Controls; Cancer Patients Expected to Save ₹2,500 Crore Annually</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321314&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Secretary MoSJE Shri Sudhansh Pant inaugurates Five-Day Geriatric Care Training...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">9th National Review Workshop concludes in Bastar with a call for State-specific actio...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321285&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The National Human Rights Commission, India to celebrate its 33rd Foundation Day on 1...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321282&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MeitY Pavilion showcases India’s digital innovation and emerging technology capabilit...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321270&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article on lesson for governance for Viksit Bharat 2047</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321268&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Personal Gifts to a Public Cause: Andhra Pradesh&#x27;s PM Mementos Support a Nationa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321259&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TRAI releases Draft Telecommunication (Broadcasting and Cable) Services DRM-based Dig...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321258&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NLMC Invites Bids for Monetisation of 5.119-Acre Prime Freehold Land Parcel of HIL (I...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321535&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM condoles loss of lives in a mishap in Kutch, Gujarat</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321533&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Bharat 6G Alliance Strengthens Global Partnerships at 3rd International Bharat 6G Sym...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321523&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Mantri Presents SIDM Champion Awards 2026 and Calls for Greater Private Sector...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321518&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Files to Freedom: DEPwD Drives Swachhata, Pendency Reduction and Efficient Governance</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321516&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy Set to Commission Indigenous Anti-submarine Warfare Shallow Water Craft ‘...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321517&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“Accessibility Cannot Be an Afterthought”: DEPwD Calls for a Whole-of-Government Appr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321513&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IMD conducts Training Workshop on Cyclone and Marine Weather Warning Services for use...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321512&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Posts and Blue Dart Express Limited Sign agreement for India Post Parce...</a></li>
 </ul>
 
 </details>
