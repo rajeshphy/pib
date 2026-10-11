@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Development, Security, and Public Service Updates"
-date: 2026-10-11T10:14:22.904165+00:00
-summary: "Agricultural Initiatives: The government is advancing food security and rural prosperity through the Prime Minister DhanDhaanya Krishi Yojana and a dedicated..."
-run_time_ist: "3:44PM"
+title: "National Development, Infrastructure, and Governance Updates"
+date: 2026-10-11T15:01:37.698767+00:00
+summary: "Infrastructure and Development: The Prime Minister inaugurated and laid the foundation for various development projects in Chennai while participating in the..."
+run_time_ist: "8:31PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 3:44PM</p>
+  <p class="post-meta">Gemini Summary: 8:31PM</p>
 
 <ul class="digest-points">
-  <li><strong>Agricultural Initiatives:</strong> The government is advancing food security and rural prosperity through the Prime Minister Dhan-Dhaanya Krishi Yojana and a dedicated mission to achieve self-reliance in pulse production.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321731&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321892&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>International Naval Cooperation:</strong> The Indian Navy is strengthening bilateral maritime ties through joint exercises, with INS Sahyadri arriving in Russia for INDRA and INS Trishul reaching the UK for Exercise Konkan.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Law Enforcement and Security:</strong> The Directorate of Revenue Intelligence (DRI) has intensified anti-smuggling operations, successfully seizing significant quantities of gold from the Bangladesh border and crystal meth from a train passenger.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321864&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321861&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Public Service and Employment:</strong> Indian Railways has announced 3,548 graduate-level vacancies for NTPC roles, while Union Minister Dr. Mansukh Mandaviya led national youth initiatives focused on fitness and anti-drug awareness.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321920&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321873&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Energy and Governance:</strong> Union Minister Pralhad Joshi inaugurated the Windergy India 2026 event in Chennai to promote renewable energy, while state delegations engaged in inter-state diplomatic discussions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321918&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Infrastructure and Development:</strong> The Prime Minister inaugurated and laid the foundation for various development projects in Chennai while participating in the golden jubilee celebrations of Jaigopal Garodia Hindu Vidyalaya.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321998&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321985&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321939&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Employment and Public Welfare:</strong> Indian Railways has announced 3,548 graduate-level NTPC vacancies, while the Department of Ex-Servicemen Welfare is intensifying efforts under Special Campaign 6.0.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321873&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321988&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Energy and Research Initiatives:</strong> Union Minister Pralhad Joshi inaugurated Windergy India 2026 in Chennai, and IITM Pune hosted an early career workshop focused on atmospheric research.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321986&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Regional and Ministerial Engagements:</strong> Union Minister Jyotiraditya Scindia is leading development-focused engagements in the North East, and an Uttarakhand delegation held discussions with the Governor of West Bengal.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322028&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321918&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Defense and Social Outreach:</strong> INS Sahyadri arrived in Russia for a bilateral naval exercise, while Union Minister Dr. Mansukh Mandaviya led youth in fitness and anti-drug awareness activities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321920&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "3:44PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321731&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Dhan-Dhaanya Krishi Yojana (PMDDKY)</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321873&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Railways Announces 3,548 Graduate-Level NTPC Vacancies, Opening New Career Opportunities for Aspiring Youth</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322028&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union DoNER Minister Jyotiraditya Scindia to Lead Development-Focused Engagements in ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi participates in golden jubilee celebrations of Jaig...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321998&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM’s address during Golden Jubilee celebrations of Jaigopal Garo...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321988&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Ex-Servicemen Welfare Intensifies Efforts under Special Campaign 6.0 to...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321986&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IITM Pune Hosts &quot;The APARC Early Career Workshop&quot; and Curtain-Raiser for ESTIC</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321985&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi lays the foundation stone, inaugurates and dedicate...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321939&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM’s address during the launch of development projects in Chenna...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321926&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Naval Ship Sahyadri Arrives at Vladivostok, Russia, for Bilateral Exercise Ind...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321918&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Uttarakhand Delegation Interacts with Governor of West Bengal, Shri R. N. Ravi, durin...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321920&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Mansukh Mandaviya leads youth in fitness activities, anti-drug ple...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321915&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Ins Trishul Arrives at Plymouth, Uk for Exercise Konkan 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321892&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Mission for Aatmanirbharta in Pulses</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321873&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Railways Announces 3,548 Graduate-Level NTPC Vacancies, Opening New Career Opp...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321859&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays tribute to Maharaja Agrasen ji</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321864&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI cracks down on gold smuggling from Bangladesh in Eastern Region; seizes over 7.8 ...</a></li>
 </ul>
 
 </details>
