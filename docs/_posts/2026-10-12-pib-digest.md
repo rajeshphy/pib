@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "PIB Regional Updates"
-date: 2026-10-12T06:17:27.965692+00:00
-summary: "India’s Mission for Aatmanirbharta in Pulses: India’s Mission for Aatmanirbharta in Pulses. Sources: [1]"
-run_time_ist: "11:47AM"
+title: "National Development, Cultural Initiatives, and Scientific Advancements Digest"
+date: 2026-10-12T11:13:24.808602+00:00
+summary: "Infrastructure and Development: The Prime Minister inaugurated and laid the foundation for various development projects, while the DhanDhaanya Krishi Yojana..."
+run_time_ist: "4:43PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 11:47AM</p>
+  <p class="post-meta">Gemini Summary: 4:43PM</p>
 
 <ul class="digest-points">
-  <li><strong>India’s Mission for Aatmanirbharta in Pulses:</strong> India’s Mission for Aatmanirbharta in Pulses.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321892&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline...:</strong> Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Union Environment Minister interacts with Mid-Career Training Participants of Indian ...:</strong> Union Environment Minister interacts with Mid-Career Training Participants of Indian ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322088&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Prime Minister offers prayers to Maa Brahmacharini on the second day of Navratri:</strong> Prime Minister offers prayers to Maa Brahmacharini on the second day of Navratri.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322086&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Prime Minister pays homage to Rajmata Vijayraje Scindia Ji:</strong> Prime Minister pays homage to Rajmata Vijayraje Scindia Ji.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322084&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Infrastructure and Development:</strong> The Prime Minister inaugurated and laid the foundation for various development projects, while the Dhan-Dhaanya Krishi Yojana marked its first anniversary.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321985&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322267&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Cultural and Sporting Events:</strong> New Delhi is hosting the BRICS Theatre Festival and the BRICS Traditional and Indigenous Demonstration Games to celebrate cultural and sporting heritage.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322281&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Scientific Research and Innovation:</strong> New advancements in smart biomaterials and solar magnetic activity research have been announced, alongside the selection of the first cohort for the Research, Development and Innovation Fund.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322253&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322249&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Public Health and Energy:</strong> The Union Health Minister laid the foundation for an ICMR centre, and the Windergy India 2026 event was inaugurated to discuss the future of the wind energy sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322248&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Regulatory and Economic Updates:</strong> The government released the Consumer Price Index for September 2026, while TRAI conducted mobile network quality assessments in New Delhi and Thrissur.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322244&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322242&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "11:47AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321892&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Mission for Aatmanirbharta in Pulses</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321985&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi lays the foundation stone, inaugurates and dedicates various development projects wort...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322088&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Environment Minister interacts with Mid-Career Training Participants of Indian ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322086&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister offers prayers to Maa Brahmacharini on the second day of Navratri</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322084&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays homage to Rajmata Vijayraje Scindia Ji</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322083&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam praying to Maa Ambika for the well-being a...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322077&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TDB-DST signs agreement with Peptris for ₹86 crore RDI support to accelerate AI-drive...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322065&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Coal stocks at power plants remain stable above 18 MT; depletion thins out in October...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322060&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Bureau of Narcotics (CBN) M.P. Unit seizes over 4.2 tonnes of poppy straw in ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322059&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes around 5.8 kg foreign-origin gold worth Rs. 9 crores from a secret cavity ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322295&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Research, Development and Innovation Fund Announces First Cohort of 19 Second Level F...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322281&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">BRICS Theatre Festival 2026 Commences Today at National School of Drama in New Delhi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322267&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Dhan-Dhaanya Krishi Yojana Completes One Year</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322253&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Large- and small-scale magnetic activity driving microwave polar brightening in the S...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">BRICS Traditional and Indigenous Demonstration Games 2026 Celebrate Sporting Heritage...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322249&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Molecular geometry tweak opens new way for smart biomaterials</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322248&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Minister Shri Jagat Prakash Nadda lays foundation stone of ICMR Centre f...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2322244&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release of Consumer Price Index on Base 2024=100 for September, 2026</a></li>
 </ul>
 
 </details>
