@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "PIB Regional Updates"
-date: 2026-10-14T18:44:49.743158+00:00
-summary: "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees: Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Em..."
-run_time_ist: "12:14AM"
+title: "Updates on National Policy, Research Initiatives, and International Cooperation"
+date: 2026-10-14T23:26:33.300137+00:00
+summary: "Employee Benefits: The Union Cabinet has approved a 78day Productivity Linked Bonus for eligible railway employees. Sources: [1]"
+run_time_ist: "4:56AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:14AM</p>
+  <p class="post-meta">Gemini Summary: 4:56AM</p>
 
 <ul class="digest-points">
-  <li><strong>Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees:</strong> Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline...:</strong> Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Advanced Chemicals, Petrochemicals and Material Technologies Included under Research,...:</strong> Advanced Chemicals, Petrochemicals and Material Technologies Included under Research,....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323590&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayu...:</strong> NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayu....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Government mobilizes National Law Universities to target Criminal Case Backlogs acros...:</strong> Government mobilizes National Law Universities to target Criminal Case Backlogs acros....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323573&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Employee Benefits:</strong> The Union Cabinet has approved a 78-day Productivity Linked Bonus for eligible railway employees.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Research and Innovation:</strong> New initiatives have been launched to integrate advanced chemical and material technologies into research, while multiple symposiums and programs are promoting technological advancements in the Ayurveda sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323590&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323568&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323564&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Legal and Defense Reforms:</strong> The government is engaging National Law Universities to address criminal case backlogs, while the Indian Navy has successfully completed its maiden command of Combined Task Force 154.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323573&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323572&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>International Relations:</strong> India is strengthening its global footprint through bilateral trade reviews with Brunei Darussalam and the launch of new science and technology partnerships with the Global South.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323562&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323546&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Industry and Infrastructure:</strong> Government officials are emphasizing the need for stronger collaboration between defense, academia, and industry to drive development, alongside efforts to expand the renewable energy sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323554&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
 </ul>
 
 <section class="source-note">
