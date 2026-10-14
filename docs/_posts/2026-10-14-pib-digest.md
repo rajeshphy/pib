@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-10-14T13:57:02.683800+00:00
+date: 2026-10-14T18:44:49.743158+00:00
 summary: "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees: Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Em..."
-run_time_ist: "7:27PM"
+run_time_ist: "12:14AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 7:27PM</p>
+  <p class="post-meta">Headline Digest: 12:14AM</p>
 
 <ul class="digest-points">
   <li><strong>Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees:</strong> Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
   <li><strong>Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline...:</strong> Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Release of 121st Issue of Sarvekshana, Journal of Official Statistics:</strong> Release of 121st Issue of Sarvekshana, Journal of Official Statistics.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323502&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Foreign Minister of Canada calls on Prime Minister:</strong> Foreign Minister of Canada calls on Prime Minister.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323495&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Union Minister Dr. Jitendra Singh Felicitates 62 Young Innovators at 12th NLEPC, Says...:</strong> Union Minister Dr. Jitendra Singh Felicitates 62 Young Innovators at 12th NLEPC, Says....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323482&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Advanced Chemicals, Petrochemicals and Material Technologies Included under Research,...:</strong> Advanced Chemicals, Petrochemicals and Material Technologies Included under Research,....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323590&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayu...:</strong> NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayu....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Government mobilizes National Law Universities to target Criminal Case Backlogs acros...:</strong> Government mobilizes National Law Universities to target Criminal Case Backlogs acros....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323573&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -29,14 +29,14 @@ run_time_ist: "7:27PM"
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320750&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Pralhad Joshi inaugurates Windergy India 2026 in Chennai; Outline...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323502&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Release of 121st Issue of Sarvekshana, Journal of Official Statistics</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323495&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Foreign Minister of Canada calls on Prime Minister</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323482&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Jitendra Singh Felicitates 62 Young Innovators at 12th NLEPC, Says...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323468&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Approves Strategic Restructuring of IDBI Bank Ltd.</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323467&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Quality Infrastructure, Clean Energy and Consumer Safety Take Centre Stage at the Nat...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323466&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Telecommunication Engineering Centre (TEC) Celebrates World Standards Day 2026 at TEC...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323461&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Agriculture and Farmers’ Welfare and Rural Development Minister Shri Shivraj Si...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323450&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Constitutes Committee to Examine Issues Relating to Sugarcane Farmers and ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323590&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Advanced Chemicals, Petrochemicals and Material Technologies Included under Research,...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCISM Chairperson launches CCRAS SPARK 5.0 and CCRAS Ayurshodh 2026 to strengthen Ayu...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323573&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government mobilizes National Law Universities to target Criminal Case Backlogs acros...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323572&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy Completes Maiden Command of Combined Task Force 154</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323570&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Bharat’s civilisational journey had, for centuries, been a story of cultural exchange...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323568&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ITRA, Jamnagar to Organise National Symposium ‘Ayutech Navonmesh 2026’ on Artificial ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323564&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">KAUMARACON 2026 to Begin at AIIA, New Delhi, on October 15; Vice-President to Address...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323562&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and Brunei Darussalam Review Bilateral Trade and Economic Cooperation at Third ...</a></li>
 </ul>
 
 </details>
