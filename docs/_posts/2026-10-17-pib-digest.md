@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Developments in Defense, Space, Public Health, and Infrastructure"
-date: 2026-10-17T12:20:05.298177+00:00
-summary: "Defense advancements: The Indian Navy has commissioned its first indigenous multipurpose vessel, INS Samarthak, and inaugurated new infrastructure under Proj..."
-run_time_ist: "5:50PM"
+title: "PIB Regional Updates"
+date: 2026-10-17T17:23:31.993134+00:00
+summary: "Clarification on Legislative Developments concerning Government’s shareholding in IDBI: Clarification on Legislative Developments concerning Government’s sha..."
+run_time_ist: "10:53PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 5:50PM</p>
+  <p class="post-meta">Headline Digest: 10:53PM</p>
 
 <ul class="digest-points">
-  <li><strong>Defense advancements:</strong> The Indian Navy has commissioned its first indigenous multi-purpose vessel, INS Samarthak, and inaugurated new infrastructure under Project Seabird.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324581&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324655&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Space and climate initiatives:</strong> India’s space economy is projected to reach $40–45 billion within the next decade, while the IITM has launched stakeholder consultations to integrate climate science into public services.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324662&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324660&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Public health and safety regulations:</strong> The FSSAI is strengthening food safety by proposing new pesticide residue limits for tea and restricting the addition of sucrose in infant nutrition products.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324656&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324637&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Social welfare and governance:</strong> Government efforts are focused on promoting equality, dignity, and emotional well-being, alongside the formation of a Supreme Court-mandated High Powered Enquiry Committee.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324691&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324672&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Infrastructure and environmental innovation:</strong> Development projects are underway to enhance connectivity in Kashmir, while the Environment Ministry is engaging with startups to develop scalable environmental solutions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324638&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324629&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Clarification on Legislative Developments concerning Government’s shareholding in IDBI:</strong> Clarification on Legislative Developments concerning Government’s shareholding in IDBI.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324612&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Prime Minister expresses grief over the demise of Morbi’s Rajmata Vijaykunwarba:</strong> Prime Minister expresses grief over the demise of Morbi’s Rajmata Vijaykunwarba.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324810&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>AIIA Marks Its 10th Foundation Day with Two MoUs, Major Academic Publications and Dig...:</strong> AIIA Marks Its 10th Foundation Day with Two MoUs, Major Academic Publications and Dig....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324808&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>AIIA recognised as a Centre of Excellence for RAV in Kaumarbhritya:</strong> AIIA recognised as a Centre of Excellence for RAV in Kaumarbhritya.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324801&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Exercise Konkan-26 Concludes Off Plymouth, Uk:</strong> Exercise Konkan-26 Concludes Off Plymouth, Uk.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "5:50PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324581&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy Commissions Ins Samarthak, the First Indigenous Multi-purpose Vessel</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324691&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The Hon’ble Supreme Court of India had constituted a High Powered Enquiry Committee (...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324672&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Building a Life of Equality and Dignity</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">A Journey Towards Recovery and Emotional Well-being</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324662&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Space Economy to Reach USD 40-45 Billion in 7–8 Years; Dr Jitendra Singh unde...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324660&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IITM Hosts First Stakeholder Consultation Meeting on Climate Science into Services fo...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324658&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan Expresses Grief over the Demise of Music Comp...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324656&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">FSSAI Proposes Science-Based Pesticide Residue Limits for Tea, Reaffirming Commitment...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324655&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Inauguration of Project Seabird Infrastructure By Vice Admiral Sanjay Vatsayan, Foc-i...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324638&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Environment Minister interacts with Start-ups to explore Affordable, Scalable, ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324612&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Clarification on Legislative Developments concerning Government’s shareholding in IDBI</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324810&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister expresses grief over the demise of Morbi’s Rajmata Vijaykunwarba</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324808&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">AIIA Marks Its 10th Foundation Day with Two MoUs, Major Academic Publications and Dig...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324801&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">AIIA recognised as a Centre of Excellence for RAV in Kaumarbhritya</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Exercise Konkan-26 Concludes Off Plymouth, Uk</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324759&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Bureau of Narcotics (CBN) organises five drug awareness programmes for MP you...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324757&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NBA disburses Rs 1.19 Crore to 29 State Biodiversity Boards and one UT Biodiversity C...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324755&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM reviews Paddy Stubble Management Measures in Firozpur and Faridkot; stresses Tim...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324751&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">SHILP SAMAGAM MELA 2026-Mysuru, Karnataka</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324743&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Trade Margin Rationalisation on 137 Anti-Cancer Drugs</a></li>
 </ul>
 
 </details>
