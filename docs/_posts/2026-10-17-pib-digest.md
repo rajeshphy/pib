@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Infrastructure, Defense, and Public Service Updates"
-date: 2026-10-17T07:58:26.866914+00:00
-summary: "Defense and Infrastructure: The Indian Navy has commissioned its first indigenous multipurpose vessel, INS Samarthak, while ongoing infrastructure projects c..."
-run_time_ist: "1:28PM"
+title: "National Developments in Defense, Space, Public Health, and Infrastructure"
+date: 2026-10-17T12:20:05.298177+00:00
+summary: "Defense advancements: The Indian Navy has commissioned its first indigenous multipurpose vessel, INS Samarthak, and inaugurated new infrastructure under Proj..."
+run_time_ist: "5:50PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 1:28PM</p>
+  <p class="post-meta">Gemini Summary: 5:50PM</p>
 
 <ul class="digest-points">
-  <li><strong>Defense and Infrastructure:</strong> The Indian Navy has commissioned its first indigenous multi-purpose vessel, INS Samarthak, while ongoing infrastructure projects continue to focus on enhancing connectivity in Kashmir.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324319&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324629&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324581&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Environmental Regulation:</strong> The Commission for Air Quality Management (CAQM) is strengthening enforcement measures during the paddy harvesting season by expanding remote monitoring via PTZ cameras to all regulated industries.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324557&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324555&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Healthcare Advancements:</strong> The All India Institute of Ayurveda (AIIA) has celebrated a decade of service with over 3.7 million patients treated, while ITRA Jamnagar hosted a conference on integrating technology into traditional medicine.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324601&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324520&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Governance and Urban Development:</strong> The Ministry of Housing and Urban Affairs held the 10th Central Sanctioning and Monitoring Committee meeting, and the government issued clarifications regarding legislative developments concerning its shareholding in IDBI Bank.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324612&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324593&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Public Examinations:</strong> The Union Public Service Commission has announced the schedule and details for the Combined Geo-Scientist Examination for 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324560&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Defense advancements:</strong> The Indian Navy has commissioned its first indigenous multi-purpose vessel, INS Samarthak, and inaugurated new infrastructure under Project Seabird.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324581&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324655&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Space and climate initiatives:</strong> India’s space economy is projected to reach $40–45 billion within the next decade, while the IITM has launched stakeholder consultations to integrate climate science into public services.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324662&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324660&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Public health and safety regulations:</strong> The FSSAI is strengthening food safety by proposing new pesticide residue limits for tea and restricting the addition of sucrose in infant nutrition products.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324656&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324637&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Social welfare and governance:</strong> Government efforts are focused on promoting equality, dignity, and emotional well-being, alongside the formation of a Supreme Court-mandated High Powered Enquiry Committee.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324691&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324672&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Infrastructure and environmental innovation:</strong> Development projects are underway to enhance connectivity in Kashmir, while the Environment Ministry is engaging with startups to develop scalable environmental solutions.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324638&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324629&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "1:28PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324319&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan Commissions Indian Navy’s First Indigenous Multi-Purpose Vessel INS Samarthak at...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324629&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Connecting Kashmir: Building the Infrastructure for Growth</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324616&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister offers prayers to Maa Kalaratri during Navratri</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324612&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Clarification on Legislative Developments concerning Government’s shareholding in IDB...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324601&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ITRA Jamnagar Hosts National Conference “Ayu-Tech Navonmesh 2026” on the Integration ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324593&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Secretary, Department of Urban Development, MoHUA chairs 10th meeting of CSMC under P...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324581&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy Commissions Ins Samarthak, the First Indigenous Multi-purpose Vessel</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324560&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Combined Geo-scientist Examination, 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324557&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM expands PTZ Camera-based Remote Monitoring to all Industries covered under Direc...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324555&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM team visits Punjab’s Moga District to review Enforcement Measures during Paddy H...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324691&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The Hon’ble Supreme Court of India had constituted a High Powered Enquiry Committee (...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324672&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Building a Life of Equality and Dignity</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">A Journey Towards Recovery and Emotional Well-being</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324662&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Space Economy to Reach USD 40-45 Billion in 7–8 Years; Dr Jitendra Singh unde...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324660&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IITM Hosts First Stakeholder Consultation Meeting on Climate Science into Services fo...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324658&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan Expresses Grief over the Demise of Music Comp...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324656&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">FSSAI Proposes Science-Based Pesticide Residue Limits for Tea, Reaffirming Commitment...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324655&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Inauguration of Project Seabird Infrastructure By Vice Admiral Sanjay Vatsayan, Foc-i...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324638&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Environment Minister interacts with Start-ups to explore Affordable, Scalable, ...</a></li>
 </ul>
 
 </details>
