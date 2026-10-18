@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy Updates, Public Welfare, and Regional Developments"
-date: 2026-10-18T12:45:16.425199+00:00
-summary: "Healthcare and Agriculture: The government has rationalized trade margins for 137 anticancer drugs to improve affordability, while research highlights the nu..."
-run_time_ist: "6:15PM"
+title: "National Security, Administrative Efficiency, and Developmental Initiatives"
+date: 2026-10-18T17:26:41.511748+00:00
+summary: "Drug Enforcement: The Directorate of Revenue Intelligence (DRI) dismantled a coastal drug trafficking network in Tamil Nadu, resulting in the seizure of 137..."
+run_time_ist: "10:56PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 6:15PM</p>
+  <p class="post-meta">Gemini Summary: 10:56PM</p>
 
 <ul class="digest-points">
-  <li><strong>Healthcare and Agriculture:</strong> The government has rationalized trade margins for 137 anti-cancer drugs to improve affordability, while research highlights the nutritional benefits of purple potatoes and the potential of AI in healthcare technology.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324743&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324875&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324850&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Infrastructure and Fisheries:</strong> The NCRTC celebrated three years of Namo Bharat operations, and the Department of Fisheries conducted an official visit to assess coldwater fisheries in Munsyari.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324914&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324891&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Security and Diplomacy:</strong> The Directorate of Revenue Intelligence seized 137 kg of crystal meth to disrupt coastal drug trafficking, and the Raksha Mantri is set to represent India at the SCO Council of Heads of Government.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324852&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
-  <li><strong>Public Welfare and Youth Engagement:</strong> The MY Bharat–NSS initiative has launched the second month of the Nasha Mukt Yuva Abhiyan to promote a drug-free youth, while the Prime Minister extended support to the Indian contingent for the 2026 Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324916&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324826&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Condolences:</strong> The Prime Minister expressed grief over the loss of lives in a Gwalior mishap and a Kolkata stampede, as well as the passing of Morbi’s Rajmata Vijaykunwarba.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324842&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324810&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Drug Enforcement:</strong> The Directorate of Revenue Intelligence (DRI) dismantled a coastal drug trafficking network in Tamil Nadu, resulting in the seizure of 137 kg of crystal meth and four arrests.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Administrative Governance:</strong> Government departments are prioritizing operational efficiency and public service delivery through the Special Campaign 6.0, which has led to significant progress in resolving public grievances.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324958&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324940&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Defense and Maritime Operations:</strong> The Indian Navy’s INS Sudarshini has departed Salalah, Oman, for the Lokayan 2026 expedition, while the Indian Air Force successfully executed a short-notice casualty evacuation from Leh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324937&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324922&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Development and Outreach:</strong> Union Secretaries visited various regional projects, including the Shilp Samagam Mela and Munsyari coldwater fisheries, to review progress and support local economic initiatives.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324968&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324891&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>National Milestones and Sports:</strong> The nation celebrated three years of Namo Bharat operations, while leadership extended well-wishes to the Indian contingent for the upcoming Asian Para Games 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324916&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324914&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "6:15PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324743&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Trade Margin Rationalisation on 137 Anti-Cancer Drugs</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes massive 137 kg consignment of crystal meth; busts coastal drug trafficking network; 4 arrested in Tamil Nadu</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324975&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India’s Greetings on Durga Puja</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324968&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Social Justice Empowerment Secretary Shri Sudhansh Pant Visits Shilp Samagam Me...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324958&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of School Education and Literacy focuses on administrative efficiency, cle...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324940&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Special Campaign 6.0: Department of Posts Achieves Significant Progress in Grievance ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324937&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lokayan 2026 – Indian Naval Ship Sudarshini Departs Salalah, Oman</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324922&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Iaf Conducts Short-notice Casualty Evacuation from Leh</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324916&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends best wishes to Indian contingent for Asian Para Games 2026</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324914&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCRTC Celebrates Namo Bharat Diwas 2026, Marking Three Successful Years of Namo Bhara...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324891&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Abhilaksh Likhi, Union Secretary, Department of Fisheries, Visits Munsyari Coldwa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324875&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Nutrient-Rich Purple Potato</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes massive 137 kg consignment of crystal meth; busts coastal drug trafficking...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324852&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Mantri Shri Rajnath Singh to represent India at SCO Council of Heads of Govern...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324850&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">STPI Tech Conclave highlights AI&#x27;s Potential in Healthcare &amp; Assistive Technologies</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324842&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister expresses grief over loss of lives in mishap in Gwalior, Madhya Prades...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister expresses grief over loss of lives in stampede in Kolkata</a></li>
 </ul>
 
 </details>
