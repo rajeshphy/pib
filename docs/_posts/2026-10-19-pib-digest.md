@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Governance, Diplomatic Outreach, and Sporting Achievements Digest"
-date: 2026-10-19T09:12:48.580285+00:00
-summary: "Diplomatic and Administrative Engagements: INS Sudarshini has departed Salalah, Oman, for the LOKAYAN 2026 voyage, while the Governor of Assam held a meeting..."
-run_time_ist: "2:42PM"
+title: "PIB Regional Updates"
+date: 2026-10-19T15:48:49.952447+00:00
+summary: "Combined Defence Services Examination (ii), 2026 Declaration of Written Result Thereo...: Combined Defence Services Examination (ii), 2026 Declaration of Wri..."
+run_time_ist: "9:18PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 2:42PM</p>
+  <p class="post-meta">Headline Digest: 9:18PM</p>
 
 <ul class="digest-points">
-  <li><strong>Diplomatic and Administrative Engagements:</strong> INS Sudarshini has departed Salalah, Oman, for the LOKAYAN 2026 voyage, while the Governor of Assam held a meeting with the Prime Minister.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324937&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325039&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Sporting Success:</strong> The Prime Minister congratulated Avani Lekhara for winning silver and Mona Agarwal for securing gold and setting a new Asian record in the Women’s 10m Air Rifle event.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325041&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325040&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Government Initiatives and Campaigns:</strong> The Department of Land Resources and the Department of Personnel and Training (DoPT) have launched &quot;Special Campaign 6,&quot; focusing on cleanliness, record management, and tree plantation drives.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325024&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324988&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Policy and Institutional Developments:</strong> Authorities are reviewing the development of a coldwater fisheries cluster in Pithoragarh, and India is set to host the 61st meeting of the International Committee of Legal Metrology for the first time.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325058&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Public Outreach and Awareness:</strong> The NHRC announced winners of its 2026 Human Rights Quiz, while the Prime Minister extended festive greetings and shared cultural messages during the Navratri season.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325038&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325012&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324984&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324983&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Combined Defence Services Examination (ii), 2026 Declaration of Written Result Thereo...:</strong> Combined Defence Services Examination (ii), 2026 Declaration of Written Result Thereo....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>DRI foils major ganja trafficking attempt; seizes 591 kg cannabis smuggled from Nepal:</strong> DRI foils major ganja trafficking attempt; seizes 591 kg cannabis smuggled from Nepal.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325281&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>DRI seizes more than 43 lakh foreign-origin smuggled cigarettes worth Rs. 8.64 crore ...:</strong> DRI seizes more than 43 lakh foreign-origin smuggled cigarettes worth Rs. 8.64 crore ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325279&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Union Minister Dr. Virendra Kumar Reviews Functioning of Divisions, Bureaus and Insti...:</strong> Union Minister Dr. Virendra Kumar Reviews Functioning of Divisions, Bureaus and Insti....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325268&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>India and Saudi Arabia Discuss the bilateral Electrical Interconnection Initiative:</strong> India and Saudi Arabia Discuss the bilateral Electrical Interconnection Initiative.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325257&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "2:42PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324937&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lokayan 2026 – Indian Naval Ship Sudarshini Departs Salalah, Oman</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325058&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Secretary Chairs Meeting on Coldwater Fisheries Cluster at Pithoragarh; Reviews...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325041&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Avani Lekhara on winning Silver in Women’s 10m Air Rifle...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325040&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Mona Agarwal on winning Gold and setting a new Asian Par...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325039&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Governor of Assam meets Prime Minister</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325038&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings to citizens on Maha Navami</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325024&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Land Resources Advances Special Campaign 6 with Focus on Swachhata, Rec...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325012&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHRC, India announces the 10 winners of its online Human Rights Quiz-2026 organised a...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India to Host 61st Meeting of International Committee of Legal Metrology for the Firs...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324988&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DoPT Launches Special Campaign 6 with Swachhata Pledge, Cleanliness Drive and Tree Pl...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Combined Defence Services Examination (ii), 2026 Declaration of Written Result Thereo...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325281&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI foils major ganja trafficking attempt; seizes 591 kg cannabis smuggled from Nepal</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325279&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes more than 43 lakh foreign-origin smuggled cigarettes worth Rs. 8.64 crore ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325268&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Virendra Kumar Reviews Functioning of Divisions, Bureaus and Insti...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325257&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and Saudi Arabia Discuss the bilateral Electrical Interconnection Initiative</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325246&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">5th Edition of India-australia Joint Military Exercise Austrahind Commences at Thiruv...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325239&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CSIR-NIScPR Successfully Concludes Two-Week Skill Training Programme on Library Autom...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325235&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Openin...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325230&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Saturation Campaign of Financial Inclusion (FI) Schemes to Run from 21st October 2026...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325228&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India’s Greetings on the Eve of Vijayadashami</a></li>
 </ul>
 
 </details>
