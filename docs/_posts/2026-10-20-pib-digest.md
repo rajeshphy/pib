@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-10-20T18:33:31.169348+00:00
+date: 2026-10-20T23:24:21.739684+00:00
 summary: "Prime Minister congratulates Hokato Hotozhe Sema on winning Bronze at the Asian Para ...: Prime Minister congratulates Hokato Hotozhe Sema on winning Bronze..."
-run_time_ist: "12:03AM"
+run_time_ist: "4:54AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:03AM</p>
+  <p class="post-meta">Headline Digest: 4:54AM</p>
 
 <ul class="digest-points">
   <li><strong>Prime Minister congratulates Hokato Hotozhe Sema on winning Bronze at the Asian Para ...:</strong> Prime Minister congratulates Hokato Hotozhe Sema on winning Bronze at the Asian Para ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325620&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
