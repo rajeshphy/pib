@@ -1,20 +1,21 @@
 ---
 layout: default
-title: "National Security, Commemorations, and Sporting Achievements"
-date: 2026-10-21T05:07:10.469358+00:00
-summary: "Regional Security: The Raksha Mantri urged SCO member nations to collaborate on dismantling the support networks of terrorism. Sources: [1]"
-run_time_ist: "10:37AM"
+title: "Governance, Sustainability, and Administrative Updates from India"
+date: 2026-10-21T08:48:16.445065+00:00
+summary: "National Governance and Policy: The Prime Minister has highlighted government efforts to foster national prosperity and knowledge, while promoting ministeria..."
+run_time_ist: "2:18PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 10:37AM</p>
+  <p class="post-meta">Gemini Summary: 2:18PM</p>
 
 <ul class="digest-points">
-  <li><strong>Regional Security:</strong> The Raksha Mantri urged SCO member nations to collaborate on dismantling the support networks of terrorism.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325428&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>National Commemoration:</strong> The Prime Minister honored the sacrifices of police personnel on Police Commemoration Day.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325655&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Cultural Reflection:</strong> The Prime Minister shared a Sanskrit Subhashitam to emphasize the importance of expressing gratitude.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325652&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Para-Sports Success:</strong> The Prime Minister congratulated Indian athletes for their medal-winning performances at the Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325620&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325619&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325615&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325610&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325611&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325602&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325603&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325596&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325594&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>National Governance and Policy:</strong> The Prime Minister has highlighted government efforts to foster national prosperity and knowledge, while promoting ministerial insights on key policy initiatives.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325589&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325735&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Legal and Federal Cooperation:</strong> The Law Commission of India is hosting a national conference to discuss the principles and implementation of cooperative federalism.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325856&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Environmental and Sanitation Initiatives:</strong> The Department of Agricultural Research and Education (DARE) and ICAR have conducted nearly 4,000 cleanliness drives as part of the Swachhata Special Campaign.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325852&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Sustainable Mining Practices:</strong> The Coal Controller’s Organization (CCO) received a SKOCH Gold Award for its SUVIKALP initiative, which focuses on the sustainable repurposing of closed mine sites.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325820&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Public Service Recruitment:</strong> The Union Public Service Commission (UPSC) has officially released the recruitment results for the month of September.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325768&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -26,16 +27,13 @@ run_time_ist: "10:37AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325428&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">25th SCO Council of Heads of Government Meeting: Raksha Mantri calls for unified action to dismantle the entire ecosyste...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325655&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays tributes to brave police personnel on Police Commemoration Day</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325652&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares a Sanskrit Subhashitam, highlighting the enduring gratitude and...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325620&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Hokato Hotozhe Sema on winning Bronze at the Asian Para ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325619&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Nishad Kumar on winning Gold at the Asian Para Games</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325615&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Pradeep Kumar on winning Bronze at the Asian Para Games</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325610&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Rakesh on winning Silver at the Asian Para Games</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325611&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Devender Kumar on winning Gold at the Asian Para Games</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325602&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Pranav Soorma on winning Gold at the Asian Para Games</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325603&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Ram Ratan Singh on winning Silver at the Asian Para Game...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325589&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM Modi-led Govt is striving to make India a nation that combines prosperity, knowledge and strength with a commitment t...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325856&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Law Commission of India to organise National Conference on ‘Co-operative Federalism a...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325852&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DARE/ICAR Undertakes Nearly 4,000 Cleanliness Drives under Swachhata Special Campaign...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325820&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCO&#x27;s SUVIKALP Initiative Advances Sustainable Mine Repurposing, Receives SKOCH Gold ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article by Union Minister Shri Shivraj Singh Chouhan highlig...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325768&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Public Service Commission announces Recruitment Results for the month of Septem...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2325735&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article by Union Ministers Shri Pralhad Joshi and Shri Shivr...</a></li>
 </ul>
 
 </details>
