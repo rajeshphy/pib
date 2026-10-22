@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "PIB Regional Updates"
-date: 2026-10-22T18:39:57.599562+00:00
-summary: "Towards FutureReady Data Leaders: Comprehensive Capacity Building recommendations by...: Towards FutureReady Data Leaders: Comprehensive Capacity Building re..."
-run_time_ist: "12:09AM"
+title: "National Policy Updates, Ministerial Engagements, and Sporting Achievements"
+date: 2026-10-22T23:36:31.626479+00:00
+summary: "Governance and Policy: The government is advancing capacitybuilding initiatives to develop futureready data leadership and has launched a national campaign f..."
+run_time_ist: "5:06AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:09AM</p>
+  <p class="post-meta">Gemini Summary: 5:06AM</p>
 
 <ul class="digest-points">
-  <li><strong>Towards Future-Ready Data Leaders: Comprehensive Capacity Building recommendations by...:</strong> Towards Future-Ready Data Leaders: Comprehensive Capacity Building recommendations by....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Governor of Uttarakhand meets the Prime Minister:</strong> Governor of Uttarakhand meets the Prime Minister.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327040&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Prime Minister congratulates Swatik Patil on winning Bronze at the Asian Para Games:</strong> Prime Minister congratulates Swatik Patil on winning Bronze at the Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327015&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Prime Minister Shri Narendra Modi addresses the NDTV World Summit 2026 in New Delhi:</strong> Prime Minister Shri Narendra Modi addresses the NDTV World Summit 2026 in New Delhi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327006&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Prime Minister congratulates Solairaj Dharmaraj on winning Gold at the Asian Para Gam...:</strong> Prime Minister congratulates Solairaj Dharmaraj on winning Gold at the Asian Para Gam....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Governance and Policy:</strong> The government is advancing capacity-building initiatives to develop future-ready data leadership and has launched a national campaign focused on protecting both citizens and agricultural land.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326933&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Prime Ministerial Engagements:</strong> Prime Minister Narendra Modi addressed the NDTV World Summit 2026 in New Delhi and held a formal meeting with the Governor of Uttarakhand.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327040&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327006&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326985&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Agricultural Outreach:</strong> Union Minister Shri Shivraj Singh Chouhan engaged directly with farmers during a Kisan Chaupal held in Karnal, Haryana.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Asian Para Games Success:</strong> The Prime Minister extended his congratulations to Indian athletes Solairaj Dharmaraj and Dilip for winning Gold medals at the Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326994&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Recognition of Sporting Excellence:</strong> The Prime Minister acknowledged the achievements of Swatik Patil, Ravanni Valasanini, and Tejas Nandkumar, who each secured Bronze medals at the Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327015&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327001&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326998&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
 </ul>
 
 <section class="source-note">
