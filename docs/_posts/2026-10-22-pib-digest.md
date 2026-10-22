@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "Government Initiatives in Agriculture, Skill Development, and International Relations"
-date: 2026-10-22T14:01:16.379643+00:00
-summary: "Agrivoltaics innovation: The government is promoting the integration of solar power generation with agricultural production to enhance landuse efficiency. So..."
-run_time_ist: "7:31PM"
+title: "PIB Regional Updates"
+date: 2026-10-22T18:39:57.599562+00:00
+summary: "Towards FutureReady Data Leaders: Comprehensive Capacity Building recommendations by...: Towards FutureReady Data Leaders: Comprehensive Capacity Building re..."
+run_time_ist: "12:09AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 7:31PM</p>
+  <p class="post-meta">Headline Digest: 12:09AM</p>
 
 <ul class="digest-points">
-  <li><strong>Agrivoltaics innovation:</strong> The government is promoting the integration of solar power generation with agricultural production to enhance land-use efficiency.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326152&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Skill development outcomes:</strong> Under the PM-DAK scheme, over 1.87 lakh candidates received training, with more than 96,000 individuals successfully placed between 2020 and 2024.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326836&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>International trade engagement:</strong> The Union Minister for Ports, Shipping and Waterways has invited Polish companies to explore investment and collaborative growth opportunities in India.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326831&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Environmental regulation:</strong> The Commission for Air Quality Management (CAQM) has directed authorities in Punjab and Haryana to expedite measures to control air pollution.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326828&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Sports achievements:</strong> The Prime Minister extended his congratulations to several Indian athletes for their gold, silver, and bronze medal performances at the Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326797&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326793&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326792&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326791&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326790&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326786&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Towards Future-Ready Data Leaders: Comprehensive Capacity Building recommendations by...:</strong> Towards Future-Ready Data Leaders: Comprehensive Capacity Building recommendations by....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Governor of Uttarakhand meets the Prime Minister:</strong> Governor of Uttarakhand meets the Prime Minister.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327040&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Prime Minister congratulates Swatik Patil on winning Bronze at the Asian Para Games:</strong> Prime Minister congratulates Swatik Patil on winning Bronze at the Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327015&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Prime Minister Shri Narendra Modi addresses the NDTV World Summit 2026 in New Delhi:</strong> Prime Minister Shri Narendra Modi addresses the NDTV World Summit 2026 in New Delhi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327006&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Prime Minister congratulates Solairaj Dharmaraj on winning Gold at the Asian Para Gam...:</strong> Prime Minister congratulates Solairaj Dharmaraj on winning Gold at the Asian Para Gam....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "7:31PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326152&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“Solar panels above, thriving crops below”: Union Minister Shri Shivraj Singh Chouhan inaugurates the 7th AgriVoltaics W...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326836&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">1, 87,305 Candidates Trained and Placed 96,162 During 2020-21 to 2023-24 under PM-DAK...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326831&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Sarbananda Sonowal Invites Polish Firms to ‘Build, Innovate and Grow w...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326828&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM Reviews Air Pollution Control Measures in Punjab and Haryana, Calls for Prompt G...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326800&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Ravi Karthik Budigina on winning Bronze at the Asian Par...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326797&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Rahul on winning Bronze at the Asian Para Games</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Varun Singh Bhati on winning Silver at the Asian Para Ga...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326793&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Shailesh Kumar on winning Gold at the Asian Para Games</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326792&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Naveen Sivakumar and Surya Kant Yadav on winning Bronze ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326791&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Jayanti on winning Silver at the Asian Para Games</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Towards Future-Ready Data Leaders: Comprehensive Capacity Building recommendations by...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327040&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Governor of Uttarakhand meets the Prime Minister</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327015&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Swatik Patil on winning Bronze at the Asian Para Games</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327006&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi addresses the NDTV World Summit 2026 in New Delhi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Solairaj Dharmaraj on winning Gold at the Asian Para Gam...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327001&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Ravanni Valasanini on winning Bronze at the Asian Para G...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Shivraj Singh Chouhan Interacts with Farmers at Kisan Chaupal in Haryana’s Karna...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326998&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Tejas Nandkumar on winning Bronze at the Asian Para Game...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326994&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Dilip on winning Gold at the Asian Para Games</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2326985&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM&#x27;s address in NDTV World Summit</a></li>
 </ul>
 
 </details>
