@@ -1,21 +1,20 @@
 ---
 layout: default
-title: "Government Initiatives in Healthcare, Technology, and Public Welfare"
-date: 2026-10-23T13:43:34.623246+00:00
-summary: "Healthcare and Pharmaceutical Oversight: The government is reviewing pharmaceutical marketing practices, enhancing healthcare infrastructure, and promoting r..."
-run_time_ist: "7:13PM"
+title: "Indian Athlete Achievements and Infrastructure Development Updates"
+date: 2026-10-23T18:31:54.516582+00:00
+summary: "Asian Para Games Success: The Prime Minister commended multiple Indian athletes for their medalwinning performances, including gold, silver, and bronze finis..."
+run_time_ist: "12:01AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 7:13PM</p>
+  <p class="post-meta">Gemini Summary: 12:01AM</p>
 
 <ul class="digest-points">
-  <li><strong>Healthcare and Pharmaceutical Oversight:</strong> The government is reviewing pharmaceutical marketing practices, enhancing healthcare infrastructure, and promoting recovery programs for substance abuse.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327570&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327534&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Technological and Economic Development:</strong> New incubation facilities have been launched in Dehradun to boost the tech ecosystem, while the Department of Commerce is strategizing to reach a $2 trillion export target.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327568&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327521&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Public Service and Administrative Efficiency:</strong> The government is advancing the Special Campaign 6 for administrative targets and has launched an upgraded NMMS app with improved security features.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327558&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327556&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
-  <li><strong>Social Welfare and Urban Infrastructure:</strong> Efforts to support senior citizens are being strengthened through the Atal Vayo Abhyuday Yojana, alongside the inauguration of the 19th Urban Mobility India Conference in Bhubaneswar.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327551&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327498&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
-  <li><strong>Sports Achievements:</strong> The Prime Minister extended congratulations to several Indian athletes for their medal-winning performances at the Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327559&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327554&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327545&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
+  <li><strong>Asian Para Games Success:</strong> The Prime Minister commended multiple Indian athletes for their medal-winning performances, including gold, silver, and bronze finishes across various sporting disciplines.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327741&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327740&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327739&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327736&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327735&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327733&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327730&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327729&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327727&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Historic Javelin Performance:</strong> The Prime Minister celebrated a historic podium sweep by Indian athletes in the Men’s Javelin Throw event at the Asian Para Games.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327738&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Airport Infrastructure Symposium:</strong> The CSIR-Central Road Research Institute (CRRI) launched the Indian Airport Pavement Symposium (IAPS 2026) in New Delhi to discuss advancements in aviation infrastructure.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327710&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Network Architecture Consultation:</strong> The government is actively seeking public opinion and stakeholder input regarding the design of a new network architecture.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327670&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +26,16 @@ run_time_ist: "7:13PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327570&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Critical Overdose To Sustained Recovery</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327568&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">STPI inaugurates new incubation facility in Dehradun to strengthen Uttarakhand’s tech...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327559&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Nitesh Kumar and Pramod Bhagat on their medals at the As...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327558&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DFPD gives further push to Special Campaign 6 to achieve targets</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327556&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Shivraj Singh Chouhan Launches Enhanced NMMS App Version with Advanced Security ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327554&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Bhawna Choudhary and Pooja Jatyan on winning Silver at t...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327551&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">19th Urban Mobility India Conference and Exhibition 2026 inaugurated in Bhubaneswar, ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327545&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Thulasimathi Murugesan on winning Silver at the Asian Pa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327534&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Pharmaceuticals Constitutes Committee to Review Pharmaceutical Marketin...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Minister Shri J.P. Nadda Reviews Healthcare Services and Infrastructure ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327741&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Nimisha Chakkungalparambil Suresh on winning Silver at t...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327740&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Sandeep on winning Bronze at the Asian Para Games</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327739&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Pranav Soorma and Dharambir on winning Gold and Bronze a...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327738&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister hails historic podium sweep by Indian athletes in Men’s Javelin Throw ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327736&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Rakeshbhai Bhatt on winning Bronze at the Asian Para Gam...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327735&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Navdeep on winning Bronze at the Asian Para Games</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327733&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Himanshu Nandal on winning Bronze at the Asian Para Game...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327730&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Thulasimathi Murugesan and Manasi Joshi on winning Gold ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327729&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Nitesh Kumar and Thulasimathi Murugesan on winning Silve...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2327727&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister congratulates Mona Agarwal on winning Gold and setting a new World Rec...</a></li>
 </ul>
 
 </details>
