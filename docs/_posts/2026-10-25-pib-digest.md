@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "PIB Regional Updates"
-date: 2026-10-25T17:42:31.596377+00:00
-summary: "Prime Minister shares glimpses of his visit to Varanasi: Prime Minister shares glimpses of his visit to Varanasi. Sources: [1]"
-run_time_ist: "11:12PM"
+title: "Government Initiatives in Infrastructure, Trade, and Public Governance"
+date: 2026-10-25T22:48:15.342161+00:00
+summary: "Infrastructure and Financial Development: Prime Minister Modi inaugurated new RBI facilities in Bhubaneswar, including a data center and research institute,..."
+run_time_ist: "4:18AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 11:12PM</p>
+  <p class="post-meta">Gemini Summary: 4:18AM</p>
 
 <ul class="digest-points">
-  <li><strong>Prime Minister shares glimpses of his visit to Varanasi:</strong> Prime Minister shares glimpses of his visit to Varanasi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328291&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Prime Minister Shri Narendra Modi boosts morale of artisans by highlighting achievem...:</strong> Prime Minister Shri Narendra Modi boosts morale of artisans by highlighting achievem....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Sarbananda Sonowal to pitch India&#x27;s Shipbuilding Opportunity to Korean Industry durin...:</strong> Sarbananda Sonowal to pitch India&#x27;s Shipbuilding Opportunity to Korean Industry durin....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328265&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Union Minister Piyush Goyal Holds Trade and Investment Talks in the Netherlands:</strong> Union Minister Piyush Goyal Holds Trade and Investment Talks in the Netherlands.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328254&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>NIFTEM-K Hosts India’s First AI × Food Tech Hackathon, ‘Hack the Fork’:</strong> NIFTEM-K Hosts India’s First AI × Food Tech Hackathon, ‘Hack the Fork’.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328253&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Infrastructure and Financial Development:</strong> Prime Minister Modi inaugurated new RBI facilities in Bhubaneswar, including a data center and research institute, while also highlighting his recent engagements in Varanasi and support for local artisans.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328291&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328288&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328250&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328234&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>International Trade and Diplomacy:</strong> Union Ministers are actively engaging in global partnerships, with discussions focused on shipbuilding opportunities in Korea and trade and investment prospects in the Netherlands.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328265&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328254&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Regulatory and Security Enforcement:</strong> The government has launched &#x27;Operation Trident&#x27; to combat drug trafficking and is intensifying regulatory actions against misleading advertisements and non-compliant product sales.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328200&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328181&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Innovation and Urban Policy:</strong> NIFTEM-K hosted India’s first AI-focused food technology hackathon, while the National Urban Conclave 2026 concluded with new strategies to improve urban governance.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328253&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328185&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
+  <li><strong>Legislative and Official Engagements:</strong> India is set to host the 12th BRICS Parliamentary Forum, and the Vice-President is scheduled for an official visit to Andhra Pradesh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328201&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328196&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
 </ul>
 
 <section class="source-note">
