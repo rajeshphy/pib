@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy Updates: Defence, Governance, and Environmental Initiatives"
-date: 2026-10-27T09:15:28.069804+00:00
-summary: "Defence Modernization: The Defence Acquisition Council has approved capital procurement proposals valued at Rs 2.12 lakh crore to strengthen the capabilities..."
-run_time_ist: "2:45PM"
+title: "National Development, Infrastructure, and Innovation Updates"
+date: 2026-10-27T14:50:11.427830+00:00
+summary: "Science and Innovation: Prime Minister Narendra Modi inaugurated the Emerging Science, Technology and Innovation Expo, while the DPIIT launched the 6th editi..."
+run_time_ist: "8:20PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 2:45PM</p>
+  <p class="post-meta">Gemini Summary: 8:20PM</p>
 
 <ul class="digest-points">
-  <li><strong>Defence Modernization:</strong> The Defence Acquisition Council has approved capital procurement proposals valued at Rs 2.12 lakh crore to strengthen the capabilities of the armed forces.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328486&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Governance and Regulatory Reforms:</strong> The government is advancing trust-based governance through startup support and regulatory reforms, while the Central Vigilance Commission observes Vigilance Awareness Week to promote integrity.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328846&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328842&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a></span></li>
-  <li><strong>Environmental and Agricultural Sustainability:</strong> Initiatives are underway to promote soil health and sustainable orchard management, alongside a reaffirmed national commitment to biodiversity conservation and carbon capture technologies.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328913&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328896&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328830&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
-  <li><strong>Public Safety and Welfare:</strong> The National Human Rights Commission has issued an advisory to enhance women&#x27;s safety in public and professional spaces, while industrial settlements have secured financial benefits for over 10,900 Bihar Gramin Bank employees.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328904&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328843&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Administrative Progress:</strong> Government ministries are actively reviewing key development programs and implementing the Special Campaign 6 to improve cleanliness and institutional efficiency.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328810&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Science and Innovation:</strong> Prime Minister Narendra Modi inaugurated the Emerging Science, Technology and Innovation Expo, while the DPIIT launched the 6th edition of the National Startup Awards to foster entrepreneurship.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329164&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329161&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329132&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
+  <li><strong>Infrastructure and Housing:</strong> Authorities held a regional workshop in Lucknow to review progress under the PMAY-G housing scheme and discussed strategies for improving urban development.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329156&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329137&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
+  <li><strong>Defense and Border Development:</strong> The Border Roads Organization celebrated the 19th Raising Day of Project ARUNANK, and the Indian Navy concluded the 33rd Singapore-India Maritime Bilateral Exercise (SIMBEX-24) alongside new naval vessel construction milestones.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329191&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329151&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329125&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Social Welfare and Cultural Heritage:</strong> The government distributed PPE kits to sanitation workers under the NAMASTE scheme, while the IGNCA and ASI announced a new initiative to protect and revive Indian cultural identity.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329167&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329152&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>International and Regional Engagement:</strong> Union Minister Raksha Khadse emphasized the role of sports diplomacy through the India-New Zealand Rugby Series in strengthening bilateral relations.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329193&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "2:45PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328486&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DAC clears capital acquisition proposals worth Rs 2.12 lakh crore for defence forces</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328913&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ICAR-MGIFRI Promotes Soil Health, Balanced Fertilisation and Sustainable Orchard Mana...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328904&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHRC, India issues an Advisory on ‘Women’s Safety at Work and Public Spaces’</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328896&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India Reaffirms Commitment to Biodiversity Conservation and Effective Implementation ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328881&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister for Education, Shri Pralhad Joshi, to felicitate winners of Viksit Bha...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328852&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Pays Floral Tributes to Shri K.r. Narayanan on His Birth Anniversa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328846&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Vigilance Commission observes Vigilance Awareness Week 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328842&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DPIIT Advances Trust-Based Governance Through Startup Support, Regulatory Reforms and...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328843&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Industrial Settlements Benefit Over 10,900 Bihar Gramin Bank Employees, Securing Fina...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328835&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoPNG Makes Significant Progress under Special Campaign 6 for Swachhata and Disposal ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329193&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union MoS Raksha Khadse Highlights Role of India-New Zealand Rugby Series in Advancin...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329191&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">BRO Celebrates Project ARUNANK’S 19th Raising Day in Arunachal Pradesh</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329167&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Under NAMASTE Scheme, Union Minister of State Shri B. L. Verma Distributes PPE Kits A...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329164&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi inaugurates Emerging Science, Technology and Innova...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329161&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Text of PM’s address during inauguration of the Emerging Science, Technology and Inno...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329156&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Regional Rural Workshop under PMAY-G Held in Lucknow to Review Progress and Deliberat...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329152&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IGNCA and ASI to Launch Timeless India: Protection &amp; Revival of Indian Cultural Ident...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329151&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Conclusion of 33rd Edition of Singapore-india Maritime Bilateral Exercise (simbex-202...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329137&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">‘Opportunity for Shared Commitment to Improve Future of Our Cities’: Shri Tokhan Sahu...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329132&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DPIIT Launches 6th Edition of National Startup Awards to Recognise Innovation and Ent...</a></li>
 </ul>
 
 </details>
