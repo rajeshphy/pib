@@ -1,21 +1,21 @@
 ---
 layout: default
-title: "National Policy Updates, Regional Developments, and Strategic Initiatives"
-date: 2026-10-30T06:11:10.325793+00:00
-summary: "Governance and Labor Reforms: The government has notified the National Social Security Board for gig and unorganised workers, while hosting regional capacity..."
-run_time_ist: "11:41AM"
+title: "Government Policy Updates, Infrastructure Assessments, and National Initiatives"
+date: 2026-10-30T10:21:09.879340+00:00
+summary: "Financial and Social Policy: The government has issued clarifications regarding the strategic restructuring of IDBI Bank and notified the National Social Sec..."
+run_time_ist: "3:51PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Gemini Summary: 11:41AM</p>
+  <p class="post-meta">Gemini Summary: 3:51PM</p>
 
 <ul class="digest-points">
-  <li><strong>Governance and Labor Reforms:</strong> The government has notified the National Social Security Board for gig and unorganised workers, while hosting regional capacity-building programs to raise awareness regarding new labor codes.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330299&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
-  <li><strong>Economic and Trade Initiatives:</strong> The government is focusing on strategic restructuring of IDBI Bank, promoting higher utilization of Free Trade Agreements, and highlighting value-added enterprises in the fisheries sector.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330291&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330284&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 8</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330281&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a></span></li>
-  <li><strong>Regional Events and Cultural Heritage:</strong> Arunachal Pradesh is hosting the 14th International Tourism Mart in Tawang and facilitating the public veneration of Lord Buddha’s holy relics.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330300&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330273&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a></span></li>
-  <li><strong>Security and Diplomatic Engagements:</strong> The Directorate of Revenue Intelligence dismantled a major synthetic drug manufacturing lab in Uttar Pradesh, while the Indian Navy’s First Training Squadron concluded a successful visit to Sri Lanka.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330320&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330310&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>National Outreach and Official Visits:</strong> The Prime Minister is scheduled to visit Gujarat, while the MY Bharat platform continues its youth engagement campaign through nationwide &quot;Viksit Bharat Yuva Samvad&quot; programs.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329999&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330240&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Financial and Social Policy:</strong> The government has issued clarifications regarding the strategic restructuring of IDBI Bank and notified the National Social Security Board to support unorganised, gig, and platform workers.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330284&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330299&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 12</a></span></li>
+  <li><strong>Telecommunications Quality:</strong> The Telecom Regulatory Authority of India (TRAI) has conducted independent drive tests to assess mobile network performance in Adoni and the Leh region.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330384&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330377&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>International Relations and Cooperation:</strong> India is set to host the ICAR-CGIAR Science and Partnership Week in 2027, while the 19th India–BLEU Joint Economic Commission met in Luxembourg to bolster trade ties.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330371&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330346&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 7</a></span></li>
+  <li><strong>Public Services and Welfare:</strong> The Department of Pension &amp; Pensioners’ Welfare is facilitating a nationwide Digital Life Certificate campaign to assist retirees.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330361&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 6</a></span></li>
+  <li><strong>Law Enforcement and Cultural Outreach:</strong> The DRI dismantled a major synthetic drug laboratory in Uttar Pradesh, while the Indian Navy concluded a diplomatic visit to Sri Lanka and holy relics of Lord Buddha are being prepared for public veneration in Arunachal Pradesh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330320&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 9</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330310&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 10</a> <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330300&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 11</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "11:41AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329999&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM to Visit Gujarat on 30-31 October</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330320&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">First Training Squadron of the Indian Navy Departs Colombo, Sri Lanka</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330318&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shram Samvad: Regional Level Capacity-Building and Awareness Programme on Labour Code...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330310&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI busts a big clandestine synthetic drug manufacturing laboratory in Uttar Pradesh;...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330300&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Holy Relics of Lord Buddha to be Exposed for Public Veneration in Arunachal Pradesh f...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330299&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government notifies National Social Security Board for Unorganised Workers and Gig &amp; ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330291&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Fisheries Sector Looks Beyond Production: Fish Value Addition Enterprises and Mobile ...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330284&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Clarification on the Process of Strategic Restructuring of the IDBI Bank Ltd.</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330281&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Commerce and Industry, Shri Piyush Goyal Calls for Greater FTA Util...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330273&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">14th International Tourism Mart Inaugurated in Tawang, Arunachal Pradesh</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330384&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TRAI released findings of Independent Drive Test (IDT) conducted across Adoni - Mantr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330383&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President calls for holistic rural development to realise Viksit Bharat 2047; gr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330377&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TRAI assesses Mobile Network Quality across Leh and Nearby Areas Route under J&amp;K LSA,...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330371&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India to Host ICAR- CGIAR Science and Partnership Week 2027 in New Delhi from April 1...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330361&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Pension &amp; Pensioners’ Welfare is conducting Nationwide Digital Life Cer...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330346&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">19th India–BLEU Joint Economic Commission Session Held in Luxembourg to Strengthen Tr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330328&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the importance knowledge, wis...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330320&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">First Training Squadron of the Indian Navy Departs Colombo, Sri Lanka</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330310&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI busts a big clandestine synthetic drug manufacturing laboratory in Uttar Pradesh;...</a></li>
 </ul>
 
 </details>
