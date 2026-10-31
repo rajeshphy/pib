@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-10-31T14:40:33.064004+00:00
-summary: "Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashes at Joshimath in Uttarakhand: Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashe..."
-run_time_ist: "8:10PM"
+date: 2026-10-31T18:39:30.444716+00:00
+summary: "‘Kendriya Grihmantri Dakshata Padak’ awarded to 490 personnel of various States/UTs/CAPFs/CPOs for the year 2026: ‘Kendriya Grihmantri Dakshata Padak’ awarde..."
+run_time_ist: "12:09AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 8:10PM</p>
+  <p class="post-meta">Headline Digest: 12:09AM</p>
 
 <ul class="digest-points">
-  <li><strong>Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashes at Joshimath in Uttarakhand:</strong> Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashes at Joshimath in Uttarakhand.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>MY Bharat’s ‘Viksit Bharat Yuva Samvad: Know Your Vote’ Campaign Engages Over 11,000 ...:</strong> MY Bharat’s ‘Viksit Bharat Yuva Samvad: Know Your Vote’ Campaign Engages Over 11,000 ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330991&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>National CSR Meet for School Education organised through Vidyanjali:</strong> National CSR Meet for School Education organised through Vidyanjali.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330979&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Vice-President Shri C. P. Radhakrishnan attends ‘Sardar Katha’ at Uprashtrapati Bhava...:</strong> Vice-President Shri C. P. Radhakrishnan attends ‘Sardar Katha’ at Uprashtrapati Bhava....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330939&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Last date for submission of applications under the National Means-cum-Merit Scholarsh...:</strong> Last date for submission of applications under the National Means-cum-Merit Scholarsh....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330936&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>‘Kendriya Grihmantri Dakshata Padak’ awarded to 490 personnel of various States/UTs/CAPFs/CPOs for the year 2026:</strong> ‘Kendriya Grihmantri Dakshata Padak’ awarded to 490 personnel of various States/UTs/CAPFs/CPOs for the year 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330728&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>High level CAQM Team reviews Paddy Straw Management Measures reviews in Sangrur, Pati...:</strong> High level CAQM Team reviews Paddy Straw Management Measures reviews in Sangrur, Pati....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331055&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>MY Bharat - NSS Mobilises Over 96,700 Youth in Nationwide Cyclothons and Walkathons u...:</strong> MY Bharat - NSS Mobilises Over 96,700 Youth in Nationwide Cyclothons and Walkathons u....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331041&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Department of Pharmaceuticals Organises Plog Run under Fit India Freedom Run 7.0 on R...:</strong> Department of Pharmaceuticals Organises Plog Run under Fit India Freedom Run 7.0 on R....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331042&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>English rendering of PM’s speech at the Rashtriya Ekta Diwas programme in Kevadia, Gu...:</strong> English rendering of PM’s speech at the Rashtriya Ekta Diwas programme in Kevadia, Gu....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331035&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "8:10PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashes at Joshimath in Uttarakhand</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330991&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat’s ‘Viksit Bharat Yuva Samvad: Know Your Vote’ Campaign Engages Over 11,000 ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330979&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National CSR Meet for School Education organised through Vidyanjali</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330939&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan attends ‘Sardar Katha’ at Uprashtrapati Bhava...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330936&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Last date for submission of applications under the National Means-cum-Merit Scholarsh...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">15 Day Shilp Samagam Mela 2026 To Start At Dilli Haat, New Delhi, From Tomorrow</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330905&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Legislative Department Participates in ‘Run for Unity’ on Rashtriya Ekta Diwas.</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330894&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">EPFO to Celebrate 74th Foundation Day in New Delhi Tomorrow</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330891&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan Addresses 72nd Annual General Body Meeting of...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330869&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoHUA Conducts Participatory Workshop to Chart a Shared Roadmap for Clean Delhi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330728&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">‘Kendriya Grihmantri Dakshata Padak’ awarded to 490 personnel of various States/UTs/CAPFs/CPOs for the year 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331055&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">High level CAQM Team reviews Paddy Straw Management Measures reviews in Sangrur, Pati...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331041&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat - NSS Mobilises Over 96,700 Youth in Nationwide Cyclothons and Walkathons u...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331042&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Pharmaceuticals Organises Plog Run under Fit India Freedom Run 7.0 on R...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331035&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM’s speech at the Rashtriya Ekta Diwas programme in Kevadia, Gu...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331033&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi participates in Rashtriya Ekta Diwas Celebrations m...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331032&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Delhi Records Lowest Average AQI for October in the Last Eight Years at 166</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331012&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker Calls Upon Youth to Uphold National Unity and Integrity and Contrib...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331006&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PRESIDENT OF INDIA GRACES the Dhwaj Stambh Pujan, Dhawaja Pujan and Dhwajarohan cerem...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330997&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Government releases tax devolution of ₹1,09,019 crore to State Governments, as ...</a></li>
 </ul>
 
 </details>
