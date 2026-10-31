@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-10-31T18:39:30.444716+00:00
+date: 2026-10-31T23:44:45.274707+00:00
 summary: "‘Kendriya Grihmantri Dakshata Padak’ awarded to 490 personnel of various States/UTs/CAPFs/CPOs for the year 2026: ‘Kendriya Grihmantri Dakshata Padak’ awarde..."
-run_time_ist: "12:09AM"
+run_time_ist: "5:14AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:09AM</p>
+  <p class="post-meta">Headline Digest: 5:14AM</p>
 
 <ul class="digest-points">
   <li><strong>‘Kendriya Grihmantri Dakshata Padak’ awarded to 490 personnel of various States/UTs/CAPFs/CPOs for the year 2026:</strong> ‘Kendriya Grihmantri Dakshata Padak’ awarded to 490 personnel of various States/UTs/CAPFs/CPOs for the year 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330728&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
