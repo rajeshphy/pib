@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-10-31T09:53:08.212337+00:00
-summary: "The Government of India Constitutes the ‘High Level Committee on Banking for Viksit Bharat’: The Government of India Constitutes the ‘High Level Committee on..."
-run_time_ist: "3:23PM"
+date: 2026-10-31T14:40:33.064004+00:00
+summary: "Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashes at Joshimath in Uttarakhand: Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashe..."
+run_time_ist: "8:10PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 3:23PM</p>
+  <p class="post-meta">Headline Digest: 8:10PM</p>
 
 <ul class="digest-points">
-  <li><strong>The Government of India Constitutes the ‘High Level Committee on Banking for Viksit Bharat’:</strong> The Government of India Constitutes the ‘High Level Committee on Banking for Viksit Bharat’.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330598&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Union Minister Dr. Jitendra Singh Positions IIPA’s Nationwide Outreach for Inclusive ...:</strong> Union Minister Dr. Jitendra Singh Positions IIPA’s Nationwide Outreach for Inclusive ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330834&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Government of India extends Customs Duty Exemption on Cotton imports up to 31st Decem...:</strong> Government of India extends Customs Duty Exemption on Cotton imports up to 31st Decem....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330823&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>CCI approves acquisition of certain shareholding in Navi Ltd by MIH Payments Holdings...:</strong> CCI approves acquisition of certain shareholding in Navi Ltd by MIH Payments Holdings....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330818&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>CCI approves acquisition of the equity share capital of IntelliSmart Infrastructure (...:</strong> CCI approves acquisition of the equity share capital of IntelliSmart Infrastructure (....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330819&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashes at Joshimath in Uttarakhand:</strong> Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashes at Joshimath in Uttarakhand.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>MY Bharat’s ‘Viksit Bharat Yuva Samvad: Know Your Vote’ Campaign Engages Over 11,000 ...:</strong> MY Bharat’s ‘Viksit Bharat Yuva Samvad: Know Your Vote’ Campaign Engages Over 11,000 ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330991&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>National CSR Meet for School Education organised through Vidyanjali:</strong> National CSR Meet for School Education organised through Vidyanjali.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330979&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Vice-President Shri C. P. Radhakrishnan attends ‘Sardar Katha’ at Uprashtrapati Bhava...:</strong> Vice-President Shri C. P. Radhakrishnan attends ‘Sardar Katha’ at Uprashtrapati Bhava....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330939&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Last date for submission of applications under the National Means-cum-Merit Scholarsh...:</strong> Last date for submission of applications under the National Means-cum-Merit Scholarsh....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330936&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "3:23PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330598&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The Government of India Constitutes the ‘High Level Committee on Banking for Viksit Bharat’</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330834&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Jitendra Singh Positions IIPA’s Nationwide Outreach for Inclusive ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330823&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government of India extends Customs Duty Exemption on Cotton imports up to 31st Decem...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330818&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves acquisition of certain shareholding in Navi Ltd by MIH Payments Holdings...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330819&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves acquisition of the equity share capital of IntelliSmart Infrastructure (...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330817&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves merger of Sapphire Foods India with and into Devyani International and r...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330816&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves acquisition of 100% of the issued share capital of Solenergi Power (Targ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330815&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves acquisition of certain stake in Vodafone Group PLC by Vega SAS</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330813&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MCA successfully concludes nationwide Special Campaign 6.0 on Swachchta</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330789&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker Hails Gayatri Parivar’s Contributions to India&#x27;s Spiritual Renaissa...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330663&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Helicopter belonging to M/S Transbharat Aviation Pvt Ltd crashes at Joshimath in Uttarakhand</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330991&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat’s ‘Viksit Bharat Yuva Samvad: Know Your Vote’ Campaign Engages Over 11,000 ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330979&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National CSR Meet for School Education organised through Vidyanjali</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330939&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan attends ‘Sardar Katha’ at Uprashtrapati Bhava...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330936&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Last date for submission of applications under the National Means-cum-Merit Scholarsh...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330929&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">15 Day Shilp Samagam Mela 2026 To Start At Dilli Haat, New Delhi, From Tomorrow</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330905&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Legislative Department Participates in ‘Run for Unity’ on Rashtriya Ekta Diwas.</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330894&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">EPFO to Celebrate 74th Foundation Day in New Delhi Tomorrow</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330891&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan Addresses 72nd Annual General Body Meeting of...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2330869&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MoHUA Conducts Participatory Workshop to Chart a Shared Roadmap for Clean Delhi</a></li>
 </ul>
 
 </details>
