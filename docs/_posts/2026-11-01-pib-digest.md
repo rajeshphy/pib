@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-01T19:00:07.390972+00:00
+date: 2026-11-01T23:54:11.783635+00:00
 summary: "‘Khadi Diwali Fest2026’ organized at Connaught Place, Delhi, with the objective of t...: ‘Khadi Diwali Fest2026’ organized at Connaught Place, Delhi, with th..."
-run_time_ist: "12:30AM"
+run_time_ist: "5:24AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:30AM</p>
+  <p class="post-meta">Headline Digest: 5:24AM</p>
 
 <ul class="digest-points">
   <li><strong>‘Khadi Diwali Fest-2026’ organized at Connaught Place, Delhi, with the objective of t...:</strong> ‘Khadi Diwali Fest-2026’ organized at Connaught Place, Delhi, with the objective of t....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331368&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
