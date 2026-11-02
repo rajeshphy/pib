@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-02T11:33:59.088312+00:00
+date: 2026-11-02T18:43:06.801422+00:00
 summary: "Aatmanirbhar Bharat: MoD inks Rs 53,866.50 crore contracts with GRSE & GSL for 8 Next Generation Corvettes for Indian Na...: Aatmanirbhar Bharat: MoD inks Rs..."
-run_time_ist: "5:03PM"
+run_time_ist: "12:13AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 5:03PM</p>
+  <p class="post-meta">Headline Digest: 12:13AM</p>
 
 <ul class="digest-points">
   <li><strong>Aatmanirbhar Bharat: MoD inks Rs 53,866.50 crore contracts with GRSE &amp; GSL for 8 Next Generation Corvettes for Indian Na...:</strong> Aatmanirbhar Bharat: MoD inks Rs 53,866.50 crore contracts with GRSE &amp; GSL for 8 Next Generation Corvettes for Indian Na....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331418&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>HQ IDS-CENJOWS Seminar on Cyber-Enabled Cognitive Warfare Commences in New Delhi:</strong> HQ IDS-CENJOWS Seminar on Cyber-Enabled Cognitive Warfare Commences in New Delhi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331606&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>1st International Maize Conference 2026 Calls for Higher Productivity, Innovative Bre...:</strong> 1st International Maize Conference 2026 Calls for Higher Productivity, Innovative Bre....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331603&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>24 Years X-ray observations trace the mystery behind one of the brightest X-ray emitt...:</strong> 24 Years X-ray observations trace the mystery behind one of the brightest X-ray emitt....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331589&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Indian Railways Observes Rashtriya Ekta Diwas and Swachhata Hi Seva 2026:</strong> Indian Railways Observes Rashtriya Ekta Diwas and Swachhata Hi Seva 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331588&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Union Minister Shri Rajiv Ranjan Singh Alias Lalan Singh Reviews Dairy and Animal Hus...:</strong> Union Minister Shri Rajiv Ranjan Singh Alias Lalan Singh Reviews Dairy and Animal Hus....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331820&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Lending Institutions propose institutional financing of PMAY-G beneficiaries at MoRD–...:</strong> Lending Institutions propose institutional financing of PMAY-G beneficiaries at MoRD–....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331804&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>CSIR-NIScPR organises third International Conference on Communication and Disseminati...:</strong> CSIR-NIScPR organises third International Conference on Communication and Disseminati....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331803&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>MY Bharat Engages Over 93,000 Participants Across 30 States/UTs During Week 7 of Nash...:</strong> MY Bharat Engages Over 93,000 Participants Across 30 States/UTs During Week 7 of Nash....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "5:03PM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331418&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Aatmanirbhar Bharat: MoD inks Rs 53,866.50 crore contracts with GRSE &amp; GSL for 8 Next Generation Corvettes for Indian Na...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331606&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">HQ IDS-CENJOWS Seminar on Cyber-Enabled Cognitive Warfare Commences in New Delhi</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331603&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">1st International Maize Conference 2026 Calls for Higher Productivity, Innovative Bre...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331589&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">24 Years X-ray observations trace the mystery behind one of the brightest X-ray emitt...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331588&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Railways Observes Rashtriya Ekta Diwas and Swachhata Hi Seva 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Financial Support to Career Growth: How NFSC is Empowering a Research Scholar</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331574&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr Jitendra Singh highlights expansion of disaster preparedness and weather monitorin...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331564&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Under the leadership of Prime Minister Shri Narendra Modi, the Government is strength...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331566&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Akhil Vishwa Gayatri Parivar’s Centenary Celebration Reaffirms Collective Resolve for...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331557&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM to Inaugurate and Lay Foundation Stone of Pune Metro Projects Worth Around ₹21,800...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331820&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Rajiv Ranjan Singh Alias Lalan Singh Reviews Dairy and Animal Hus...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331804&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lending Institutions propose institutional financing of PMAY-G beneficiaries at MoRD–...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331803&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CSIR-NIScPR organises third International Conference on Communication and Disseminati...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat Engages Over 93,000 Participants Across 30 States/UTs During Week 7 of Nash...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331789&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi inaugurates Bharat Renewable Energy Summit &amp; Expo 2...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331786&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Public Service Commission Combined Defence Services Examination (i), 2026 Decla...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331778&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat’s ‘Viksit Bharat Yuva Samvad: Know Your Vote’ Campaign Engages over 11,800 ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331776&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Virendra Kumar Inaugurates Shilp Samagam Mela 2026 at Dilli Haat, In National Cap...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331775&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MSDE Empanels 19 Institutions as Centres of Excellence-Skills</a></li>
 </ul>
 
 </details>
