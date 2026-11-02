@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-02T18:43:06.801422+00:00
+date: 2026-11-02T22:49:37.028351+00:00
 summary: "Aatmanirbhar Bharat: MoD inks Rs 53,866.50 crore contracts with GRSE & GSL for 8 Next Generation Corvettes for Indian Na...: Aatmanirbhar Bharat: MoD inks Rs..."
-run_time_ist: "12:13AM"
+run_time_ist: "4:19AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:13AM</p>
+  <p class="post-meta">Headline Digest: 4:19AM</p>
 
 <ul class="digest-points">
   <li><strong>Aatmanirbhar Bharat: MoD inks Rs 53,866.50 crore contracts with GRSE &amp; GSL for 8 Next Generation Corvettes for Indian Na...:</strong> Aatmanirbhar Bharat: MoD inks Rs 53,866.50 crore contracts with GRSE &amp; GSL for 8 Next Generation Corvettes for Indian Na....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331418&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
