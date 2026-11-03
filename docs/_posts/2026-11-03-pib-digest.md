@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-03T11:12:33.946439+00:00
-summary: "1st International Maize Conference 2026 Calls for Higher Productivity, Innovative Breeding and FarmerCentric Research: 1st International Maize Conference 202..."
-run_time_ist: "4:42PM"
+date: 2026-11-03T16:26:59.723364+00:00
+summary: "Indian Navy Successfully Rescues Hijacked Fishing Vessel ‘azini’ Off the Coast of Somalia: Indian Navy Successfully Rescues Hijacked Fishing Vessel ‘azini’ O..."
+run_time_ist: "9:56PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 4:42PM</p>
+  <p class="post-meta">Headline Digest: 9:56PM</p>
 
 <ul class="digest-points">
-  <li><strong>1st International Maize Conference 2026 Calls for Higher Productivity, Innovative Breeding and Farmer-Centric Research:</strong> 1st International Maize Conference 2026 Calls for Higher Productivity, Innovative Breeding and Farmer-Centric Research.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331603&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>DoPPW Calls for 100% Coverage of Pensioners Under Nationwide Digital Life Certificate...:</strong> DoPPW Calls for 100% Coverage of Pensioners Under Nationwide Digital Life Certificate....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332070&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Shri Pralhad Joshi Reaffirms Commitment towards Global Solar Cooperation During BRE S...:</strong> Shri Pralhad Joshi Reaffirms Commitment towards Global Solar Cooperation During BRE S....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332069&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Dr. Padma Gurmet, Director, National Institute of Sowa-Rigpa, Conferred ‘Wellness Vis...:</strong> Dr. Padma Gurmet, Director, National Institute of Sowa-Rigpa, Conferred ‘Wellness Vis....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332057&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Closure of Special Campaign 6 for Disposal of Pending Matters:</strong> Closure of Special Campaign 6 for Disposal of Pending Matters.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Indian Navy Successfully Rescues Hijacked Fishing Vessel ‘azini’ Off the Coast of Somalia:</strong> Indian Navy Successfully Rescues Hijacked Fishing Vessel ‘azini’ Off the Coast of Somalia.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>MY Bharat&#x27;s ‘Yuva Samvad: Know Your Vote’ Campaign Reaches Over 59,000 Youth Across 3...:</strong> MY Bharat&#x27;s ‘Yuva Samvad: Know Your Vote’ Campaign Reaches Over 59,000 Youth Across 3....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332276&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Sarbananda Sonowal Outlines Plan to Double Coastal &amp; Waterway Freight Share to 12% by...:</strong> Sarbananda Sonowal Outlines Plan to Double Coastal &amp; Waterway Freight Share to 12% by....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332260&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Shilp Samagam Mela 2026 Celebrates India&#x27;s Cultural Diversity Through Traditional Art...:</strong> Shilp Samagam Mela 2026 Celebrates India&#x27;s Cultural Diversity Through Traditional Art....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>BRE Summit and Expo 2026 Brings Global Investors and Industry Leaders Together:</strong> BRE Summit and Expo 2026 Brings Global Investors and Industry Leaders Together.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332293&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,13 @@ run_time_ist: "4:42PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331603&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">1st International Maize Conference 2026 Calls for Higher Productivity, Innovative Breeding and Farmer-Centric Research</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332070&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DoPPW Calls for 100% Coverage of Pensioners Under Nationwide Digital Life Certificate...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332069&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Pralhad Joshi Reaffirms Commitment towards Global Solar Cooperation During BRE S...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332057&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Padma Gurmet, Director, National Institute of Sowa-Rigpa, Conferred ‘Wellness Vis...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332053&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Closure of Special Campaign 6 for Disposal of Pending Matters</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332043&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Every Rupee of Public Money Must Be Accounted for and Utilised for Its Intended Purpo...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332018&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India to pursue Solution-oriented and Equitable Climate Action at UNFCCC COP31 in Ant...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332012&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Ins Sahyadri Concludes India–republic of Korea Navy Bilateral Exercise at Busan</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332011&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi inaugurates and lays foundation stone of Pune Metro...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332003&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Text of PM’s address at the Foundation Stone Laying Ceremony of Pune Metro Projects</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2331872&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy Successfully Rescues Hijacked Fishing Vessel ‘azini’ Off the Coast of Somalia</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332276&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat&#x27;s ‘Yuva Samvad: Know Your Vote’ Campaign Reaches Over 59,000 Youth Across 3...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332260&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sarbananda Sonowal Outlines Plan to Double Coastal &amp; Waterway Freight Share to 12% by...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332256&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shilp Samagam Mela 2026 Celebrates India&#x27;s Cultural Diversity Through Traditional Art...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332293&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">BRE Summit and Expo 2026 Brings Global Investors and Industry Leaders Together</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DAHD Successfully Concludes Special Campaign 6.0</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332200&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Financial Assistance To Academic Excellence</a></li>
 </ul>
 
 </details>
