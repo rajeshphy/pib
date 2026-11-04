@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-04T11:24:29.419946+00:00
-summary: "IndiaAI Mission Released Indigenous Foundation Models EKA1 by Soket and Dhīr 2B & Dhīr 5B by ZenteiQ Under the IndiaAI ...: IndiaAI Mission Released Indigeno..."
-run_time_ist: "4:54PM"
+date: 2026-11-04T16:29:25.046841+00:00
+summary: "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithiu...: Cabinet Approves Capex Support S..."
+run_time_ist: "9:59PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 4:54PM</p>
+  <p class="post-meta">Headline Digest: 9:59PM</p>
 
 <ul class="digest-points">
-  <li><strong>IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B &amp; Dhīr 5B by ZenteiQ Under the IndiaAI ...:</strong> IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B &amp; Dhīr 5B by ZenteiQ Under the IndiaAI ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332315&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>A Rulebook Alone Cannot Guarantee Dignity; Every Hand in Aviation Must Ensure It: Man...:</strong> A Rulebook Alone Cannot Guarantee Dignity; Every Hand in Aviation Must Ensure It: Man....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332557&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>From Substance Dependence to a Healthier and More Stable Life:</strong> From Substance Dependence to a Healthier and More Stable Life.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332535&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>The Telecom Regulatory Authority of India (TRAI) Launches Network Anubhav Platform:</strong> The Telecom Regulatory Authority of India (TRAI) Launches Network Anubhav Platform.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332534&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Resolution adopted at the Conference of Chairpersons of Public Accounts Committees of...:</strong> Resolution adopted at the Conference of Chairpersons of Public Accounts Committees of....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332530&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithiu...:</strong> Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithiu....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332476&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Union Environment Minister Shri Bhupender Yadav releases Guidelines for Designation o...:</strong> Union Environment Minister Shri Bhupender Yadav releases Guidelines for Designation o....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332733&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>PM Surya Ghar Has Truly Transformed into a Mass Movement: Shri Pralhad Joshi:</strong> PM Surya Ghar Has Truly Transformed into a Mass Movement: Shri Pralhad Joshi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332794&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>MY Bharat Organises 100 Programmes in a Day Under ‘Viksit Bharat Yuva Samvad: Know Yo...:</strong> MY Bharat Organises 100 Programmes in a Day Under ‘Viksit Bharat Yuva Samvad: Know Yo....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332787&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>High-Level Meeting at Banaras Hindu University, Varanasi reviews preparations for Kas...:</strong> High-Level Meeting at Banaras Hindu University, Varanasi reviews preparations for Kas....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332761&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "4:54PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332315&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IndiaAI Mission Released Indigenous Foundation Models EKA-1 by Soket and Dhīr 2B &amp; Dhīr 5B by ZenteiQ Under the IndiaAI ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332557&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">A Rulebook Alone Cannot Guarantee Dignity; Every Hand in Aviation Must Ensure It: Man...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332535&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Substance Dependence to a Healthier and More Stable Life</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332534&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The Telecom Regulatory Authority of India (TRAI) Launches Network Anubhav Platform</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332530&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Resolution adopted at the Conference of Chairpersons of Public Accounts Committees of...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332531&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Hon’ble Union Minister Shri Chirag Paswan inaugurated the New Official Website of the...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332524&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet creates a pathway for all Agniveers to be absorbed in Defence Forces</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332523&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DoPPW Reinforces Digital Empowerment of Pensioners Through DLC 5 Outreach at Prayagra...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332521&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker Calls for a Common Digital Audit Monitoring Platform for State Legi...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332475&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Publications (Volume I and Summary Results of Factory Sector) of Annual Survey of Ind...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332476&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithiu...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332733&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Environment Minister Shri Bhupender Yadav releases Guidelines for Designation o...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332794&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM Surya Ghar Has Truly Transformed into a Mass Movement: Shri Pralhad Joshi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332787&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat Organises 100 Programmes in a Day Under ‘Viksit Bharat Yuva Samvad: Know Yo...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332761&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">High-Level Meeting at Banaras Hindu University, Varanasi reviews preparations for Kas...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332743&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Justice Organises Workshop on “eFiling 3.0: From Process to Practice” f...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332740&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr Virendra Kumar Launches ‘Vayo Samman Rashtriya Abhiyan’ to Strength...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332725&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Armed Forces Medical Services treats over 4,000 patients and performs 365 sight-resto...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332723&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IICA signs MoU with IAMC to augment Alternative Dispute Resolution ecosystem and faci...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332720&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Commission approves subscription of certain securities of Gentari Renewables India Pt...</a></li>
 </ul>
 
 </details>
