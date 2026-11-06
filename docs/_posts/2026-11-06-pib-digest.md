@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-06T16:08:39.378894+00:00
+date: 2026-11-06T20:29:11.431343+00:00
 summary: "Delivery of ‘amini’ the Antisubmarine Warfare Shallow Water Craft: Delivery of ‘amini’ the Antisubmarine Warfare Shallow Water Craft. Sources: [1]"
-run_time_ist: "9:38PM"
+run_time_ist: "1:59AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 9:38PM</p>
+  <p class="post-meta">Headline Digest: 1:59AM</p>
 
 <ul class="digest-points">
   <li><strong>Delivery of ‘amini’ the Anti-submarine Warfare Shallow Water Craft:</strong> Delivery of ‘amini’ the Anti-submarine Warfare Shallow Water Craft.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333404&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
@@ -33,10 +33,6 @@ run_time_ist: "9:38PM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333782&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Bureau of Narcotics (CBN) celebrates 77th Foundation Day and reaffirms India&#x27;...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333760&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister for Railways Shri Ashwini Vaishnaw Reviews Passenger Facilities and Se...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333748&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Iaf’s Sdi-iit Madras and Iitm Pravartak Technologies Foundation Signs Memorandum of A...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333743&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Fertilizers and Its PSUs Make Significant Progress under Special Campai...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333736&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Office of the Principal Scientific Adviser and DPIIT Launches API Integration between...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333721&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Culmination of the Maiden Bimstec Maritime Security Exercise at Andaman and Nicobar C...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333719&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Combined Stenographers’ (Grade ‘B’/Grade-‘I’) Limited Departmental Competitive Examin...</a></li>
 </ul>
 
 </details>
