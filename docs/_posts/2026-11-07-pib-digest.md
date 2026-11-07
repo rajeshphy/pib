@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-07T00:19:58.139317+00:00
-summary: "Delivery of ‘amini’ the Antisubmarine Warfare Shallow Water Craft: Delivery of ‘amini’ the Antisubmarine Warfare Shallow Water Craft. Sources: [1]"
-run_time_ist: "5:49AM"
+date: 2026-11-07T06:21:12.223929+00:00
+summary: "Union Minister Ashwini Vaishnaw Launches Semicon 2.0 Web Application Portal and Announces 12 Approved Applicants under ...: Union Minister Ashwini Vaishnaw L..."
+run_time_ist: "11:51AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 5:49AM</p>
+  <p class="post-meta">Headline Digest: 11:51AM</p>
 
 <ul class="digest-points">
-  <li><strong>Delivery of ‘amini’ the Anti-submarine Warfare Shallow Water Craft:</strong> Delivery of ‘amini’ the Anti-submarine Warfare Shallow Water Craft.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333404&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>From Occupational Risks to Safer Livelihoods:</strong> From Occupational Risks to Safer Livelihoods.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333803&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Union Minister of State Shri Ramdas Athawale Visits Shilp Samagam Mela 2026 at Dilli ...:</strong> Union Minister of State Shri Ramdas Athawale Visits Shilp Samagam Mela 2026 at Dilli ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333799&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Central Bureau of Narcotics (CBN) celebrates 77th Foundation Day and reaffirms India&#x27;...:</strong> Central Bureau of Narcotics (CBN) celebrates 77th Foundation Day and reaffirms India&#x27;....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333782&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Union Minister for Railways Shri Ashwini Vaishnaw Reviews Passenger Facilities and Se...:</strong> Union Minister for Railways Shri Ashwini Vaishnaw Reviews Passenger Facilities and Se....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333760&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Union Minister Ashwini Vaishnaw Launches Semicon 2.0 Web Application Portal and Announces 12 Approved Applicants under ...:</strong> Union Minister Ashwini Vaishnaw Launches Semicon 2.0 Web Application Portal and Announces 12 Approved Applicants under ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333716&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Legislative Department Initiates Interaction Series; First Session Focuses on Improvi...:</strong> Legislative Department Initiates Interaction Series; First Session Focuses on Improvi....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333905&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>India-EU conclude negotiations to join Horizon Europe programme:</strong> India-EU conclude negotiations to join Horizon Europe programme.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333903&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>India’s Chemicals and Petrochemicals Sector: A Foundation for Industrial Growth:</strong> India’s Chemicals and Petrochemicals Sector: A Foundation for Industrial Growth.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333894&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>CAQM invokes Stage-III of GRAP in Delhi-NCR with immediate effect as Delhi records a...:</strong> CAQM invokes Stage-III of GRAP in Delhi-NCR with immediate effect as Delhi records a....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333904&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,11 +27,13 @@ run_time_ist: "5:49AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333404&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Delivery of ‘amini’ the Anti-submarine Warfare Shallow Water Craft</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333716&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Ashwini Vaishnaw Launches Semicon 2.0 Web Application Portal and Announces 12 Approved Applicants under ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333905&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Legislative Department Initiates Interaction Series; First Session Focuses on Improvi...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333903&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India-EU conclude negotiations to join Horizon Europe programme</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333894&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Chemicals and Petrochemicals Sector: A Foundation for Industrial Growth</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333904&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM invokes Stage-III of GRAP in Delhi-NCR with immediate effect as Delhi records a...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333803&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Occupational Risks to Safer Livelihoods</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333799&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of State Shri Ramdas Athawale Visits Shilp Samagam Mela 2026 at Dilli ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333782&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Central Bureau of Narcotics (CBN) celebrates 77th Foundation Day and reaffirms India&#x27;...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333760&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister for Railways Shri Ashwini Vaishnaw Reviews Passenger Facilities and Se...</a></li>
 </ul>
 
 </details>
