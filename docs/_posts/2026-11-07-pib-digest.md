@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-07T10:34:53.381311+00:00
-summary: "Agreement Signed between DBN (Digital Bharat Nidhi) Department of Telecommunications; Government of Telangana; TRIICL...: Agreement Signed between DBN (Digit..."
-run_time_ist: "4:04PM"
+date: 2026-11-07T15:01:20.135407+00:00
+summary: "E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards; 893 Samples Across 27 States and ...: E20 Petrol Supplied by PSU Oil M..."
+run_time_ist: "8:31PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 4:04PM</p>
+  <p class="post-meta">Headline Digest: 8:31PM</p>
 
 <ul class="digest-points">
-  <li><strong>Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications; Government of Telangana; TRIICL...:</strong> Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications; Government of Telangana; TRIICL....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333683&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Revised Prices of Anti-Cancer Medicines to Come into Effect from 9th November;:</strong> Revised Prices of Anti-Cancer Medicines to Come into Effect from 9th November;.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333949&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Defence Forces must maintain highest level of operational readiness, with focus on do...:</strong> Defence Forces must maintain highest level of operational readiness, with focus on do....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333922&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards...:</strong> E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>WaveX Invites Startups to Participate in WAVES Bazaar at IFFI Goa 2026:</strong> WaveX Invites Startups to Participate in WAVES Bazaar at IFFI Goa 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333906&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards; 893 Samples Across 27 States and ...:</strong> E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards; 893 Samples Across 27 States and ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Raksha Rajya Mantri Attends Closing Ceremony of All India Sainik Schools National Gam...:</strong> Raksha Rajya Mantri Attends Closing Ceremony of All India Sainik Schools National Gam....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334033&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>EPFO successfully concludes Special Campaign 6:</strong> EPFO successfully concludes Special Campaign 6.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334030&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Raksha Mantri reviews infrastructure development along LAC &amp; deployment of advanced m...:</strong> Raksha Mantri reviews infrastructure development along LAC &amp; deployment of advanced m....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334029&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>President of India’s Greetings on the Eve of Diwali:</strong> President of India’s Greetings on the Eve of Diwali.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,15 +27,16 @@ run_time_ist: "4:04PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333683&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications; Government of Telangana; TRIICL...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards; 893 Samples Across 27 States and ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334033&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Rajya Mantri Attends Closing Ceremony of All India Sainik Schools National Gam...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334030&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">EPFO successfully concludes Special Campaign 6</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334029&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Mantri reviews infrastructure development along LAC &amp; deployment of advanced m...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333992&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India’s Greetings on the Eve of Diwali</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333987&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker Extends Greetings for Deepavali, Govardhan Puja, and Bhai Dooj</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333965&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends Diwali greetings to citizens, says festival symbolises resolve...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333964&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister meets Vice President Thiru C. P. Radhakrishnan, exchanges Diwali greet...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333949&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Revised Prices of Anti-Cancer Medicines to Come into Effect from 9th November;</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333922&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Defence Forces must maintain highest level of operational readiness, with focus on do...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333906&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">WaveX Invites Startups to Participate in WAVES Bazaar at IFFI Goa 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333905&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Legislative Department Initiates Interaction Series; First Session Focuses on Improvi...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333903&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India-EU conclude negotiations to join Horizon Europe programme</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333894&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Chemicals and Petrochemicals Sector: A Foundation for Industrial Growth</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333904&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM invokes Stage-III of GRAP in Delhi-NCR with immediate effect as Delhi records a...</a></li>
 </ul>
 
 </details>
