@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-07T18:56:00.520511+00:00
+date: 2026-11-07T23:58:07.938072+00:00
 summary: "E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards; 893 Samples Across 27 States and ...: E20 Petrol Supplied by PSU Oil M..."
-run_time_ist: "12:26AM"
+run_time_ist: "5:28AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:26AM</p>
+  <p class="post-meta">Headline Digest: 5:28AM</p>
 
 <ul class="digest-points">
   <li><strong>E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards; 893 Samples Across 27 States and ...:</strong> E20 Petrol Supplied by PSU Oil Marketing Companies Meets Prescribed Quality Standards; 893 Samples Across 27 States and ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
