@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-08T15:30:08.265556+00:00
+date: 2026-11-08T18:54:38.836523+00:00
 summary: "Prime Minister to celebrate Diwali with security personnel in Bastar: Prime Minister to celebrate Diwali with security personnel in Bastar. Sources: [1]"
-run_time_ist: "9:00PM"
+run_time_ist: "12:24AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 9:00PM</p>
+  <p class="post-meta">Headline Digest: 12:24AM</p>
 
 <ul class="digest-points">
   <li><strong>Prime Minister to celebrate Diwali with security personnel in Bastar:</strong> Prime Minister to celebrate Diwali with security personnel in Bastar.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334073&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
@@ -35,8 +35,7 @@ run_time_ist: "9:00PM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334114&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Raksha Mantri celebrates Deepawali with troops in forward areas of Sikkim</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334105&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM&#x27;s speech during interaction with the Security Forces in Basta...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334104&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Celebrate an Eco-Friendly Green Diwali for Cleaner Air: WWF-India EIACP appeals to ci...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334101&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister distributes sweets and celebrates Diwali with Jawans at CoBRA Operatio...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334086&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">31,000 Devotees Seek Blessings of the Sacred Relics of Shakyamuni Buddha at Tawang, A...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334116&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MeitY Celebrated Rashtriya Ekta Diwas, Fit India Freedom Run 7.0, Special Campaign 6 ...</a></li>
 </ul>
 
 </details>
