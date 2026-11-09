@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-09T11:57:46.651607+00:00
+date: 2026-11-09T19:01:34.461163+00:00
 summary: "Revised MRPs of 1,364 AntiCancer Formulations Come into Effect from Today: Revised MRPs of 1,364 AntiCancer Formulations Come into Effect from Today. Sources..."
-run_time_ist: "5:27PM"
+run_time_ist: "12:31AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 5:27PM</p>
+  <p class="post-meta">Headline Digest: 12:31AM</p>
 
 <ul class="digest-points">
   <li><strong>Revised MRPs of 1,364 Anti-Cancer Formulations Come into Effect from Today:</strong> Revised MRPs of 1,364 Anti-Cancer Formulations Come into Effect from Today.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334268&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Delhi Set to Get Its First Recreational Yamuna Cruise Service:</strong> Delhi Set to Get Its First Recreational Yamuna Cruise Service.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334385&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Indian Navy to Conduct Passing Out Parade of Largest Batch of Agniveers at Ins Chilka:</strong> Indian Navy to Conduct Passing Out Parade of Largest Batch of Agniveers at Ins Chilka.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334375&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>TRAI releases “The Telecommunication Interconnection (Port Charges) (Third Amendment)...:</strong> TRAI releases “The Telecommunication Interconnection (Port Charges) (Third Amendment)....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334365&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railw...:</strong> TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railw....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334364&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Shilp Samagam Mela 2026 at Dilli Haat Records Cumulative Sales of Over ₹ 55.46 Lakh, ...:</strong> Shilp Samagam Mela 2026 at Dilli Haat Records Cumulative Sales of Over ₹ 55.46 Lakh, ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334470&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Union Minister of Minority Affairs &amp; Parliamentary Affairs, Shri Kiren Rijiju visits ...:</strong> Union Minister of Minority Affairs &amp; Parliamentary Affairs, Shri Kiren Rijiju visits ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334463&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>From Financial Challenges to Global Research Opportunities:</strong> From Financial Challenges to Global Research Opportunities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334453&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>From Educational Support to Academic Excellence Through the NFSC Fellowship:</strong> From Educational Support to Academic Excellence Through the NFSC Fellowship.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334438&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,14 +28,15 @@ run_time_ist: "5:27PM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334268&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Revised MRPs of 1,364 Anti-Cancer Formulations Come into Effect from Today</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334470&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shilp Samagam Mela 2026 at Dilli Haat Records Cumulative Sales of Over ₹ 55.46 Lakh, ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334463&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Minority Affairs &amp; Parliamentary Affairs, Shri Kiren Rijiju visits ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334453&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Financial Challenges to Global Research Opportunities</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334438&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Educational Support to Academic Excellence Through the NFSC Fellowship</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334434&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister speaks with President Volodymyr Zelenskyy</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334417&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat-NSS Organises Nationwide ‘Diwali Sneh Milan’ to Promote Substance Abuse-Fre...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334410&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Railways Successfully Concludes Special Campaign 6; Over 1 Lakh Cleanliness Dr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334407&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Agriculture &amp; Farmers Welfare actively undertakes various activities un...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334385&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Delhi Set to Get Its First Recreational Yamuna Cruise Service</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334375&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy to Conduct Passing Out Parade of Largest Batch of Agniveers at Ins Chilka</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334365&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TRAI releases “The Telecommunication Interconnection (Port Charges) (Third Amendment)...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334364&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railw...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334330&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Legal Affairs Achieves Significant Milestones under Special Campaign 6;...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334316&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India to Confer 10th Edition Swachh Survekshan 2025-26 Awards</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334306&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Inaugural India–myanmar Bilateral Tri-services Hadr Exercise ‘rahat Mitra’ Concludes ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334391&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PDUNASS Marks EPFO’s 74th Foundation Day with The Indian Journal of Social Security a...</a></li>
 </ul>
 
 </details>
