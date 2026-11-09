@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-09T19:01:34.461163+00:00
+date: 2026-11-09T23:28:51.048367+00:00
 summary: "Revised MRPs of 1,364 AntiCancer Formulations Come into Effect from Today: Revised MRPs of 1,364 AntiCancer Formulations Come into Effect from Today. Sources..."
-run_time_ist: "12:31AM"
+run_time_ist: "4:58AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:31AM</p>
+  <p class="post-meta">Headline Digest: 4:58AM</p>
 
 <ul class="digest-points">
   <li><strong>Revised MRPs of 1,364 Anti-Cancer Formulations Come into Effect from Today:</strong> Revised MRPs of 1,364 Anti-Cancer Formulations Come into Effect from Today.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334268&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
