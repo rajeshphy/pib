@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-10T16:33:04.665501+00:00
+date: 2026-11-10T20:55:30.558994+00:00
 summary: "India reaffirms Commitment to Climate Multilateralism and a Fair, Ambitious Outcome at UNFCCC COP31, in Antalya (Türkiye...: India reaffirms Commitment to Cl..."
-run_time_ist: "10:03PM"
+run_time_ist: "2:25AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 10:03PM</p>
+  <p class="post-meta">Headline Digest: 2:25AM</p>
 
 <ul class="digest-points">
   <li><strong>India reaffirms Commitment to Climate Multilateralism and a Fair, Ambitious Outcome at UNFCCC COP31, in Antalya (Türkiye...:</strong> India reaffirms Commitment to Climate Multilateralism and a Fair, Ambitious Outcome at UNFCCC COP31, in Antalya (Türkiye....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334571&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
