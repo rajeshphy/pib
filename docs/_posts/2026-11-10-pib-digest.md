@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-10T07:36:23.446365+00:00
-summary: "President of India to Confer 10th Edition Swachh Survekshan 202526 Awards: President of India to Confer 10th Edition Swachh Survekshan 202526 Awards. Sources..."
-run_time_ist: "1:06PM"
+date: 2026-11-10T11:33:07.715592+00:00
+summary: "Round 2 of ₹37,500 Crore Scheme for Promotion of Surface Coal/Lignite Gasification Pr...: Round 2 of ₹37,500 Crore Scheme for Promotion of Surface Coal/Ligni..."
+run_time_ist: "5:03PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 1:06PM</p>
+  <p class="post-meta">Headline Digest: 5:03PM</p>
 
 <ul class="digest-points">
-  <li><strong>President of India to Confer 10th Edition Swachh Survekshan 2025-26 Awards:</strong> President of India to Confer 10th Edition Swachh Survekshan 2025-26 Awards.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334316&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>MY Bharat Organises Nationwide Deepotsav and Neighbourhood Youth Parliaments Under 10...:</strong> MY Bharat Organises Nationwide Deepotsav and Neighbourhood Youth Parliaments Under 10....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334566&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Sacred Relics of Shakyamuni Buddha Inspire Faith and Devotion at Bomdila, Arunachal P...:</strong> Sacred Relics of Shakyamuni Buddha Inspire Faith and Devotion at Bomdila, Arunachal P....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334558&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Where Mushrooms Take Root, Livelihoods Take Shape:</strong> Where Mushrooms Take Root, Livelihoods Take Shape.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334518&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Island fisheries at the centre of India’s Blue Economy push:</strong> Island fisheries at the centre of India’s Blue Economy push.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334511&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Round 2 of ₹37,500 Crore Scheme for Promotion of Surface Coal/Lignite Gasification Pr...:</strong> Round 2 of ₹37,500 Crore Scheme for Promotion of Surface Coal/Lignite Gasification Pr....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334671&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Press Note on Periodic Labour Force Survey (PLFS) Quarterly Bulletin July-September 2...:</strong> Press Note on Periodic Labour Force Survey (PLFS) Quarterly Bulletin July-September 2....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334642&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Union Minister of State for Agriculture, Shri Ram Nath Thakur visits ICAR-CIFE Kolkat...:</strong> Union Minister of State for Agriculture, Shri Ram Nath Thakur visits ICAR-CIFE Kolkat....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334649&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Probationers of Indian Police Service Call on the President:</strong> Probationers of Indian Police Service Call on the President.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334622&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>DRI foils attempt to smuggle foreign currency out of India at Kolkata Airport; Foreig...:</strong> DRI foils attempt to smuggle foreign currency out of India at Kolkata Airport; Foreig....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334617&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,15 +27,16 @@ run_time_ist: "1:06PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334316&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India to Confer 10th Edition Swachh Survekshan 2025-26 Awards</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334566&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat Organises Nationwide Deepotsav and Neighbourhood Youth Parliaments Under 10...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334558&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sacred Relics of Shakyamuni Buddha Inspire Faith and Devotion at Bomdila, Arunachal P...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334518&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Where Mushrooms Take Root, Livelihoods Take Shape</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334511&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Island fisheries at the centre of India’s Blue Economy push</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334500&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings on the occasion of Nutan Varsh</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334499&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings to citizens on Govardhan Puja</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334470&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shilp Samagam Mela 2026 at Dilli Haat Records Cumulative Sales of Over ₹ 55.46 Lakh, ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334463&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Minority Affairs &amp; Parliamentary Affairs, Shri Kiren Rijiju visits ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334671&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Round 2 of ₹37,500 Crore Scheme for Promotion of Surface Coal/Lignite Gasification Pr...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334642&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Note on Periodic Labour Force Survey (PLFS) Quarterly Bulletin July-September 2...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334649&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of State for Agriculture, Shri Ram Nath Thakur visits ICAR-CIFE Kolkat...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334622&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Probationers of Indian Police Service Call on the President</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334617&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI foils attempt to smuggle foreign currency out of India at Kolkata Airport; Foreig...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334616&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI foils wildlife trafficking bid in Assam; recovers two elephant tusks weighing 3.7...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334615&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President to Visit Thoothukudi, Tamil Nadu</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334614&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes 6.642 kg amphetamine in Bhopal; drug trafficker arrested</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334613&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes around 13,000 e-cigarettes worth more than Rs. 4 crore at JNPT Port in its...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334601&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NLMC Releases RFP for E-Auction of 11 Government Residential Flats Across Three Prime...</a></li>
 </ul>
 
 </details>
