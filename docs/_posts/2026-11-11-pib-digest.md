@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-11T00:53:41.141746+00:00
+date: 2026-11-11T06:54:35.754790+00:00
 summary: "India reaffirms Commitment to Climate Multilateralism and a Fair, Ambitious Outcome at UNFCCC COP31, in Antalya (Türkiye...: India reaffirms Commitment to Cl..."
-run_time_ist: "6:23AM"
+run_time_ist: "12:24PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 6:23AM</p>
+  <p class="post-meta">Headline Digest: 12:24PM</p>
 
 <ul class="digest-points">
   <li><strong>India reaffirms Commitment to Climate Multilateralism and a Fair, Ambitious Outcome at UNFCCC COP31, in Antalya (Türkiye...:</strong> India reaffirms Commitment to Climate Multilateralism and a Fair, Ambitious Outcome at UNFCCC COP31, in Antalya (Türkiye....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334571&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Bharat Mobility Expo gaining global recognition, third edition to be the second large...:</strong> Bharat Mobility Expo gaining global recognition, third edition to be the second large....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334866&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Citizens Invited to Register as Vayo SAATHI Volunteers Under Vayo Samman Rashtriya Ab...:</strong> Citizens Invited to Register as Vayo SAATHI Volunteers Under Vayo Samman Rashtriya Ab....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Shilp Samagam Mela 2026 at Dilli Haat Records Cumulative Sales of Over ₹ 64.52 Lakh, ...:</strong> Shilp Samagam Mela 2026 at Dilli Haat Records Cumulative Sales of Over ₹ 64.52 Lakh, ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334802&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>From Financial Constraints to Global Academic Opportunities:</strong> From Financial Constraints to Global Academic Opportunities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334785&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>India and Norway Explore Joint Technologies to Turn Industrial Waste into Resources f...:</strong> India and Norway Explore Joint Technologies to Turn Industrial Waste into Resources f....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334888&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>NCAHP Proposes New Registration Framework to Strengthen Allied and Healthcare Profess...:</strong> NCAHP Proposes New Registration Framework to Strengthen Allied and Healthcare Profess....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334877&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Prime Minister shares a Sanskrit Subhashitam, highlighting the foundation of a progre...:</strong> Prime Minister shares a Sanskrit Subhashitam, highlighting the foundation of a progre....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334874&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Prime Minister extends greetings to the nation on the occasion of Bhai Dooj:</strong> Prime Minister extends greetings to the nation on the occasion of Bhai Dooj.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334873&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,14 +28,13 @@ run_time_ist: "6:23AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334571&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India reaffirms Commitment to Climate Multilateralism and a Fair, Ambitious Outcome at UNFCCC COP31, in Antalya (Türkiye...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334888&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and Norway Explore Joint Technologies to Turn Industrial Waste into Resources f...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334877&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NCAHP Proposes New Registration Framework to Strengthen Allied and Healthcare Profess...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334874&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares a Sanskrit Subhashitam, highlighting the foundation of a progre...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334873&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings to the nation on the occasion of Bhai Dooj</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334866&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Bharat Mobility Expo gaining global recognition, third edition to be the second large...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334825&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Citizens Invited to Register as Vayo SAATHI Volunteers Under Vayo Samman Rashtriya Ab...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334802&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shilp Samagam Mela 2026 at Dilli Haat Records Cumulative Sales of Over ₹ 64.52 Lakh, ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334785&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Financial Constraints to Global Academic Opportunities</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334780&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Occupational Risk to Safer Livelihood</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334772&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Military Affairs Successfully Completes Sixth Edition of Special Campai...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334770&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334764&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Odisha charts a National Roadmap for Millet led Agricultural Transformation</a></li>
 </ul>
 
 </details>
