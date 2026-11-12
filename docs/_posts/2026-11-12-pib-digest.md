@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-12T07:29:59.051757+00:00
-summary: "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector51 to Greater Noida Sector04 of route len...: Cabinet Approves extension of Aqua..."
-run_time_ist: "12:59PM"
+date: 2026-11-12T11:40:19.596210+00:00
+summary: "Dr. P.K. Mishra addresses the 22nd Foundation Day of PPVFRA and Plant Genome Saviour ...: Dr. P.K. Mishra addresses the 22nd Foundation Day of PPVFRA and Pla..."
+run_time_ist: "5:10PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:59PM</p>
+  <p class="post-meta">Headline Digest: 5:10PM</p>
 
 <ul class="digest-points">
-  <li><strong>Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route len...:</strong> Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route len....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334969&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Naturopathy Day 2026: Scientific Research Strengthens India&#x27;s Nature-Based Healthcare...:</strong> Naturopathy Day 2026: Scientific Research Strengthens India&#x27;s Nature-Based Healthcare....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335313&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Sacred Relics of Shakyamuni Buddha Receive Devout Homage from Nearly 50,000 Devotees ...:</strong> Sacred Relics of Shakyamuni Buddha Receive Devout Homage from Nearly 50,000 Devotees ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335304&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Prime Minister shares a Sanskrit Subhashitam, highlighting the selfless devotion of n...:</strong> Prime Minister shares a Sanskrit Subhashitam, highlighting the selfless devotion of n....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335272&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>President of India Presents Swachh Survekshan Awards:</strong> President of India Presents Swachh Survekshan Awards.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335224&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Dr. P.K. Mishra addresses the 22nd Foundation Day of PPVFRA and Plant Genome Saviour ...:</strong> Dr. P.K. Mishra addresses the 22nd Foundation Day of PPVFRA and Plant Genome Saviour ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335454&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Nasha Mukt Bharat Abhiyaan Reaches Over 35.88 Crore People; Over 14.35 Crore Youth, 1...:</strong> Nasha Mukt Bharat Abhiyaan Reaches Over 35.88 Crore People; Over 14.35 Crore Youth, 1....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335430&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Union Minister of Commerce and Industry Shri Piyush Goyal to Inaugurate 45th India In...:</strong> Union Minister of Commerce and Industry Shri Piyush Goyal to Inaugurate 45th India In....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335428&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Union Minister Dr. Jitendra Singh’s visit to Italy begins with follow-up on Special S...:</strong> Union Minister Dr. Jitendra Singh’s visit to Italy begins with follow-up on Special S....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335423&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Press Release of Consumer Price Index on Base 2024=100 for October, 2026:</strong> Press Release of Consumer Price Index on Base 2024=100 for October, 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335416&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,12 +27,16 @@ run_time_ist: "12:59PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334969&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route len...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335313&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Naturopathy Day 2026: Scientific Research Strengthens India&#x27;s Nature-Based Healthcare...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335304&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sacred Relics of Shakyamuni Buddha Receive Devout Homage from Nearly 50,000 Devotees ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335272&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares a Sanskrit Subhashitam, highlighting the selfless devotion of n...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335224&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Presents Swachh Survekshan Awards</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335212&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Sarbananda Sonowal Lays Foundation Stones for Projects Worth Rs 560 Crore at Visakhap...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335454&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. P.K. Mishra addresses the 22nd Foundation Day of PPVFRA and Plant Genome Saviour ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335430&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Nasha Mukt Bharat Abhiyaan Reaches Over 35.88 Crore People; Over 14.35 Crore Youth, 1...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335428&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Commerce and Industry Shri Piyush Goyal to Inaugurate 45th India In...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335423&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Jitendra Singh’s visit to Italy begins with follow-up on Special S...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335416&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Press Release of Consumer Price Index on Base 2024=100 for October, 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335419&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">HUDCO Promotes Cleanliness, Resource Optimisation and Employee Welfare under Special ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335418&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CPWD Strengthens Cleanliness and Administrative Efficiency through Special Campaign 6...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335376&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Interacts With Meritorious Students from Eklavya Model Residential...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335368&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan to visit Andhra Pradesh on November 13</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335366&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Education Minister launches three flagship digital initiatives of Kendriya Vidy...</a></li>
 </ul>
 
 </details>
