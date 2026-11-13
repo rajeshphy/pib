@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-13T16:40:43.726211+00:00
+date: 2026-11-13T20:55:57.368202+00:00
 summary: "IFFI 2026 Set to Bring the World of Cinema Together in Goa Under the Theme ‘Stories Without Borders’: IFFI 2026 Set to Bring the World of Cinema Together in..."
-run_time_ist: "10:10PM"
+run_time_ist: "2:25AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 10:10PM</p>
+  <p class="post-meta">Headline Digest: 2:25AM</p>
 
 <ul class="digest-points">
   <li><strong>IFFI 2026 Set to Bring the World of Cinema Together in Goa Under the Theme ‘Stories Without Borders’:</strong> IFFI 2026 Set to Bring the World of Cinema Together in Goa Under the Theme ‘Stories Without Borders’.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335780&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
@@ -36,7 +36,6 @@ run_time_ist: "10:10PM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336006&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Financial Hardship to Academic Excellence NFSC Fellowship Empowers a Research Sc...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336005&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">‘Nasha Mukt Yuva, Viksit Bharat Quiz’ Records Participation of 28,876 Citizens</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335999&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi inaugurates COSMOS-Mysuru Planetarium, India&#x27;s firs...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335989&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Ins Sahyadri Concludes Visit to Yokosuka Following Malabar 2026</a></li>
 </ul>
 
 </details>
