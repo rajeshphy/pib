@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-15T15:47:43.327161+00:00
+date: 2026-11-15T19:52:23.283247+00:00
 summary: "NITI Aayog to launch National Workshop Series drawing lessons for the nation from 25 years of Prime Minister Shri Narend...: NITI Aayog to launch National Wo..."
-run_time_ist: "9:17PM"
+run_time_ist: "1:22AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 9:17PM</p>
+  <p class="post-meta">Headline Digest: 1:22AM</p>
 
 <ul class="digest-points">
   <li><strong>NITI Aayog to launch National Workshop Series drawing lessons for the nation from 25 years of Prime Minister Shri Narend...:</strong> NITI Aayog to launch National Workshop Series drawing lessons for the nation from 25 years of Prime Minister Shri Narend....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336457&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
@@ -32,9 +32,6 @@ run_time_ist: "9:17PM"
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336673&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Mansukh Mandaviya Inaugurates EPFO Lounge and ESIC Pavilion at IIT...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336671&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Agriculture Pavilion in IITF 2026 Witnesses Massive Footfall</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336665&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Zoological Park organises 21st Sunday Bird Walk to Promote Citizen Science a...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336597&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">At the Climate Summit, India Makes the Case for a Sunday Bike Ride</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336589&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article by Vice President Thiru C. P. Radhakrishnan highligh...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336586&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays tributes to Bhagwan Birsa Munda on his Jayanti in Parliament Hous...</a></li>
 </ul>
 
 </details>
