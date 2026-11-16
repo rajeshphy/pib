@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-16T07:01:23.417850+00:00
-summary: "Government Health Spending Triples, Households OutofPocket Expenditure Share Falls Sharply: National Health Accounts 2...: Government Health Spending Triples..."
-run_time_ist: "12:31PM"
+date: 2026-11-16T11:54:21.820281+00:00
+summary: "Direct Recruitment to various posts in Government of India: Direct Recruitment to various posts in Government of India. Sources: [1]"
+run_time_ist: "5:24PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:31PM</p>
+  <p class="post-meta">Headline Digest: 5:24PM</p>
 
 <ul class="digest-points">
-  <li><strong>Government Health Spending Triples, Households Out-of-Pocket Expenditure Share Falls Sharply: National Health Accounts 2...:</strong> Government Health Spending Triples, Households Out-of-Pocket Expenditure Share Falls Sharply: National Health Accounts 2....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336478&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Provisional Wholesale Price Index, Output Producer Price Index, and Trial Input Produ...:</strong> Provisional Wholesale Price Index, Output Producer Price Index, and Trial Input Produ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336762&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Direct Recruitment to various posts in Government of India:</strong> Direct Recruitment to various posts in Government of India.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336754&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>NICDC Showcases Andhra Pradesh&#x27;s Industrial Progress and Investment Opportunities at ...:</strong> NICDC Showcases Andhra Pradesh&#x27;s Industrial Progress and Investment Opportunities at ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336751&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>India and Egypt Hold Ministerial-Level 7th Joint Trade Committee Meeting to Strengthe...:</strong> India and Egypt Hold Ministerial-Level 7th Joint Trade Committee Meeting to Strengthe....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336726&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Direct Recruitment to various posts in Government of India:</strong> Direct Recruitment to various posts in Government of India.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336754&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Dgr to Host Ex-servicemen Job Fair in Gurugram on 20 Nov 26:</strong> Dgr to Host Ex-servicemen Job Fair in Gurugram on 20 Nov 26.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336995&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>UPSC Hosts Workshop for Secretaries of State Public Service Commissions on Exam Secur...:</strong> UPSC Hosts Workshop for Secretaries of State Public Service Commissions on Exam Secur....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336990&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>MY Bharat mobilises over 81,600 youth and citizens through Sports Meets and Neighbour...:</strong> MY Bharat mobilises over 81,600 youth and citizens through Sports Meets and Neighbour....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336989&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Dr. Jitendra Singh visits Italy based &#x27;International Centre for Genetic Engineering a...:</strong> Dr. Jitendra Singh visits Italy based &#x27;International Centre for Genetic Engineering a....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336987&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,15 +27,16 @@ run_time_ist: "12:31PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336478&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Health Spending Triples, Households Out-of-Pocket Expenditure Share Falls Sharply: National Health Accounts 2...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336762&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Provisional Wholesale Price Index, Output Producer Price Index, and Trial Input Produ...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336754&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Direct Recruitment to various posts in Government of India</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336751&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NICDC Showcases Andhra Pradesh&#x27;s Industrial Progress and Investment Opportunities at ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336726&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and Egypt Hold Ministerial-Level 7th Joint Trade Committee Meeting to Strengthe...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings on the conclusion of the four-day Chhath Mahaparv</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336714&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares a Sanskrit Subhashitam, highlighting the importance of always p...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336708&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker to Participate in Vishwa Shanti Mahayagya in Vadnagar, Gujarat</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336707&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister’s Departure Statement Ahead of His Visit to the Philippines</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336995&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dgr to Host Ex-servicemen Job Fair in Gurugram on 20 Nov 26</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336990&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">UPSC Hosts Workshop for Secretaries of State Public Service Commissions on Exam Secur...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336989&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat mobilises over 81,600 youth and citizens through Sports Meets and Neighbour...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336987&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Jitendra Singh visits Italy based &#x27;International Centre for Genetic Engineering a...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336986&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Journalism Must Balance Freedom of Expression with Responsibility; Media Must Adapt t...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336983&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Along Goa’s Coastline, NH-66 Brings Together Connectivity, Development and Natural Be...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336972&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCPA Imposes Penalty of ₹20 Lakh on ExportersIndia.com (Weblink.In Pvt. Ltd.) in Two ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336938&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">8th Edition of India–myanmar Naval Exercise (imnex-26) Culminates at Visakhapatnam</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336918&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India Post Releases Commemorative Postage Stamp Honouring Pioneer of Biogas Technolog...</a></li>
 </ul>
 
 </details>
