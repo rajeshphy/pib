@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-16T00:22:42.456386+00:00
-summary: "NITI Aayog to launch National Workshop Series drawing lessons for the nation from 25 years of Prime Minister Shri Narend...: NITI Aayog to launch National Wo..."
-run_time_ist: "5:52AM"
+date: 2026-11-16T07:01:23.417850+00:00
+summary: "Government Health Spending Triples, Households OutofPocket Expenditure Share Falls Sharply: National Health Accounts 2...: Government Health Spending Triples..."
+run_time_ist: "12:31PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 5:52AM</p>
+  <p class="post-meta">Headline Digest: 12:31PM</p>
 
 <ul class="digest-points">
-  <li><strong>NITI Aayog to launch National Workshop Series drawing lessons for the nation from 25 years of Prime Minister Shri Narend...:</strong> NITI Aayog to launch National Workshop Series drawing lessons for the nation from 25 years of Prime Minister Shri Narend....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336457&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Akashvani Launches ‘AIR Rising Stars’ to Provide National Platform to Young Musical T...:</strong> Akashvani Launches ‘AIR Rising Stars’ to Provide National Platform to Young Musical T....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336674&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Union Minister Dr. Mansukh Mandaviya Inaugurates EPFO Lounge and ESIC Pavilion at IIT...:</strong> Union Minister Dr. Mansukh Mandaviya Inaugurates EPFO Lounge and ESIC Pavilion at IIT....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336673&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Agriculture Pavilion in IITF 2026 Witnesses Massive Footfall:</strong> Agriculture Pavilion in IITF 2026 Witnesses Massive Footfall.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336671&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>National Zoological Park organises 21st Sunday Bird Walk to Promote Citizen Science a...:</strong> National Zoological Park organises 21st Sunday Bird Walk to Promote Citizen Science a....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336665&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Government Health Spending Triples, Households Out-of-Pocket Expenditure Share Falls Sharply: National Health Accounts 2...:</strong> Government Health Spending Triples, Households Out-of-Pocket Expenditure Share Falls Sharply: National Health Accounts 2....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336478&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Provisional Wholesale Price Index, Output Producer Price Index, and Trial Input Produ...:</strong> Provisional Wholesale Price Index, Output Producer Price Index, and Trial Input Produ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336762&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Direct Recruitment to various posts in Government of India:</strong> Direct Recruitment to various posts in Government of India.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336754&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>NICDC Showcases Andhra Pradesh&#x27;s Industrial Progress and Investment Opportunities at ...:</strong> NICDC Showcases Andhra Pradesh&#x27;s Industrial Progress and Investment Opportunities at ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336751&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>India and Egypt Hold Ministerial-Level 7th Joint Trade Committee Meeting to Strengthe...:</strong> India and Egypt Hold Ministerial-Level 7th Joint Trade Committee Meeting to Strengthe....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336726&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,11 +27,15 @@ run_time_ist: "5:52AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336457&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NITI Aayog to launch National Workshop Series drawing lessons for the nation from 25 years of Prime Minister Shri Narend...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336674&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Akashvani Launches ‘AIR Rising Stars’ to Provide National Platform to Young Musical T...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336673&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr. Mansukh Mandaviya Inaugurates EPFO Lounge and ESIC Pavilion at IIT...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336671&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Agriculture Pavilion in IITF 2026 Witnesses Massive Footfall</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336665&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Zoological Park organises 21st Sunday Bird Walk to Promote Citizen Science a...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336478&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Government Health Spending Triples, Households Out-of-Pocket Expenditure Share Falls Sharply: National Health Accounts 2...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336762&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Provisional Wholesale Price Index, Output Producer Price Index, and Trial Input Produ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336754&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Direct Recruitment to various posts in Government of India</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336751&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NICDC Showcases Andhra Pradesh&#x27;s Industrial Progress and Investment Opportunities at ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336726&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and Egypt Hold Ministerial-Level 7th Joint Trade Committee Meeting to Strengthe...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336715&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings on the conclusion of the four-day Chhath Mahaparv</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336714&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares a Sanskrit Subhashitam, highlighting the importance of always p...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336708&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker to Participate in Vishwa Shanti Mahayagya in Vadnagar, Gujarat</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336707&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister’s Departure Statement Ahead of His Visit to the Philippines</a></li>
 </ul>
 
 </details>
