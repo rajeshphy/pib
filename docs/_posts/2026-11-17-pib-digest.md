@@ -1,20 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-17T12:17:44.933329+00:00
-summary: "SelfEnumeration for Phase II of Census 2027 Commences in Goa, Punjab, Uttar Pradesh and NonSnowBound Areas of Uttarak...: SelfEnumeration for Phase II of Cen..."
-run_time_ist: "5:47PM"
+date: 2026-11-17T17:47:30.499601+00:00
+summary: "Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31...: Big Cat Conservation can be a Po..."
+run_time_ist: "11:17PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 5:47PM</p>
+  <p class="post-meta">Headline Digest: 11:17PM</p>
 
 <ul class="digest-points">
-  <li><strong>Self-Enumeration for Phase II of Census 2027 Commences in Goa, Punjab, Uttar Pradesh and Non-Snow-Bound Areas of Uttarak...:</strong> Self-Enumeration for Phase II of Census 2027 Commences in Goa, Punjab, Uttar Pradesh and Non-Snow-Bound Areas of Uttarak....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337054&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>ICAR and RIS Sign MoU to Strengthen Agricultural Cooperation and Knowledge Exchange A...:</strong> ICAR and RIS Sign MoU to Strengthen Agricultural Cooperation and Knowledge Exchange A....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337536&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Tribal communities have been the guardians of biodiversity: Dr Jitendra Singh:</strong> Tribal communities have been the guardians of biodiversity: Dr Jitendra Singh.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337491&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>IFFI 2026 Celebrates Kannada and Tulu Cinema:</strong> IFFI 2026 Celebrates Kannada and Tulu Cinema.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337475&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31...:</strong> Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘...:</strong> Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L...:</strong> Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337664&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage:</strong> Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337657&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Stories Without Borders: Exploring Tamil and Telugu Cinema at IFFI 2026:</strong> Stories Without Borders: Exploring Tamil and Telugu Cinema at IFFI 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337653&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -26,10 +27,16 @@ run_time_ist: "5:47PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337054&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Self-Enumeration for Phase II of Census 2027 Commences in Goa, Punjab, Uttar Pradesh and Non-Snow-Bound Areas of Uttarak...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337536&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ICAR and RIS Sign MoU to Strengthen Agricultural Cooperation and Knowledge Exchange A...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337491&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Tribal communities have been the guardians of biodiversity: Dr Jitendra Singh</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337475&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">IFFI 2026 Celebrates Kannada and Tulu Cinema</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337664&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337657&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337653&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Stories Without Borders: Exploring Tamil and Telugu Cinema at IFFI 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337639&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Janjatiya Gaurav Diwas 2026 Celebrated Across the Country</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Extension of last date for submission of comments from stakeholders on the ‘Draft Tel...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337624&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">APEDA Facilitates First-Ever Export of Biscuits from Varanasi to Madagascar</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337619&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM Revokes GRAP III in Delhi-NCR, Moves to GRAP II as AQI improves</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337617&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Shivraj Singh Chouhan participates in ‘Khet Bachao Abhiyan’ in Pu...</a></li>
 </ul>
 
 </details>
