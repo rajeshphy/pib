@@ -1,17 +1,17 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-17T17:47:30.499601+00:00
-summary: "Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31...: Big Cat Conservation can be a Po..."
-run_time_ist: "11:17PM"
+date: 2026-11-17T22:30:13.887307+00:00
+summary: "Indias Solar Growth Enters a New Era: Indias Solar Growth Enters a New Era. Sources: [1]"
+run_time_ist: "4:00AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 11:17PM</p>
+  <p class="post-meta">Headline Digest: 4:00AM</p>
 
 <ul class="digest-points">
-  <li><strong>Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31...:</strong> Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Indias Solar Growth Enters a New Era:</strong> Indias Solar Growth Enters a New Era.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337251&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
   <li><strong>Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘...:</strong> Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
   <li><strong>Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L...:</strong> Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337664&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
   <li><strong>Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage:</strong> Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337657&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
@@ -27,7 +27,7 @@ run_time_ist: "11:17PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337247&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Big Cat Conservation can be a Powerful Pathway for Climate Change Mitigation: Union Environment Minister at UNFCCC COP31...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337251&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indias Solar Growth Enters a New Era</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337664&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337657&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage</a></li>
