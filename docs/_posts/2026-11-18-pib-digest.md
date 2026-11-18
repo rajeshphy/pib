@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-18T02:35:44.408864+00:00
-summary: "Indias Solar Growth Enters a New Era: Indias Solar Growth Enters a New Era. Sources: [1]"
-run_time_ist: "8:05AM"
+date: 2026-11-18T07:48:56.202410+00:00
+summary: "List of Outcomes: Visit of Prime Minister to Manila, Philippines (November 16–17, 2026): List of Outcomes: Visit of Prime Minister to Manila, Philippines (No..."
+run_time_ist: "1:18PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 8:05AM</p>
+  <p class="post-meta">Headline Digest: 1:18PM</p>
 
 <ul class="digest-points">
-  <li><strong>Indias Solar Growth Enters a New Era:</strong> Indias Solar Growth Enters a New Era.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337251&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘...:</strong> Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L...:</strong> Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337664&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage:</strong> Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337657&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Stories Without Borders: Exploring Tamil and Telugu Cinema at IFFI 2026:</strong> Stories Without Borders: Exploring Tamil and Telugu Cinema at IFFI 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337653&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>List of Outcomes: Visit of Prime Minister to Manila, Philippines (November 16–17, 2026):</strong> List of Outcomes: Visit of Prime Minister to Manila, Philippines (November 16–17, 2026).<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337611&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, R...:</strong> 3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, R....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337773&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Special Campaign 6: Achievements of Department of Water Resources, River Development ...:</strong> Special Campaign 6: Achievements of Department of Water Resources, River Development ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337755&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Prime Minister shares Sanskrit Subhashitam highlighting the importance of balance in ...:</strong> Prime Minister shares Sanskrit Subhashitam highlighting the importance of balance in ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337753&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Indian Navy Marks 50 Years of Long-range Maritime Reconnaissance:</strong> Indian Navy Marks 50 Years of Long-range Maritime Reconnaissance.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337736&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,11 @@ run_time_ist: "8:05AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337251&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indias Solar Growth Enters a New Era</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337667&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Agriculture Minister Shri Shivraj Singh Chouhan visits Samrala, Punjab, under ‘...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337664&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet Secretary launches Karmayogi Sankalpa at NITI Aayog’s National Workshop on “L...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337657&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Himalayan Horizons Light Up IFFI 2026: Ladakhi and Kashmiri Stories Take Centre Stage</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337653&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Stories Without Borders: Exploring Tamil and Telugu Cinema at IFFI 2026</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337639&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Janjatiya Gaurav Diwas 2026 Celebrated Across the Country</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337633&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Extension of last date for submission of comments from stakeholders on the ‘Draft Tel...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337624&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">APEDA Facilitates First-Ever Export of Biscuits from Varanasi to Madagascar</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337619&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CAQM Revokes GRAP III in Delhi-NCR, Moves to GRAP II as AQI improves</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337617&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Shivraj Singh Chouhan participates in ‘Khet Bachao Abhiyan’ in Pu...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337611&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">List of Outcomes: Visit of Prime Minister to Manila, Philippines (November 16–17, 2026)</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337773&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, R...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337755&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Special Campaign 6: Achievements of Department of Water Resources, River Development ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337753&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam highlighting the importance of balance in ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337736&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Navy Marks 50 Years of Long-range Maritime Reconnaissance</a></li>
 </ul>
 
 </details>
