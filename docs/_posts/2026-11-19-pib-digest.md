@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-19T17:33:37.888373+00:00
+date: 2026-11-19T22:19:16.504844+00:00
 summary: "Dr. Mansukh Mandaviya chairs 240th meeting of Central Board of Trustees (CBT), EPF: Dr. Mansukh Mandaviya chairs 240th meeting of Central Board of Trustees (..."
-run_time_ist: "11:03PM"
+run_time_ist: "3:49AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 11:03PM</p>
+  <p class="post-meta">Headline Digest: 3:49AM</p>
 
 <ul class="digest-points">
   <li><strong>Dr. Mansukh Mandaviya chairs 240th meeting of Central Board of Trustees (CBT), EPF:</strong> Dr. Mansukh Mandaviya chairs 240th meeting of Central Board of Trustees (CBT), EPF.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338531&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
