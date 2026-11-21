@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-21T07:32:48.833156+00:00
-summary: "PM to visit West Bengal and Uttar Pradesh on 21 November: PM to visit West Bengal and Uttar Pradesh on 21 November. Sources: [1]"
-run_time_ist: "1:02PM"
+date: 2026-11-21T11:35:27.410669+00:00
+summary: "Announcement of National Gopal Ratna Award 2026 winners reg.: Announcement of National Gopal Ratna Award 2026 winners reg.. Sources: [1]"
+run_time_ist: "5:05PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 1:02PM</p>
+  <p class="post-meta">Headline Digest: 5:05PM</p>
 
 <ul class="digest-points">
-  <li><strong>PM to visit West Bengal and Uttar Pradesh on 21 November:</strong> PM to visit West Bengal and Uttar Pradesh on 21 November.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339069&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>BHASHINI Showcases Multilingual AI Applications for Healthcare at Global Digital Heal...:</strong> BHASHINI Showcases Multilingual AI Applications for Healthcare at Global Digital Heal....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339441&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>GeM Signs MoU with TICCI to Expand Public Procurement Opportunities for Tribal Entrep...:</strong> GeM Signs MoU with TICCI to Expand Public Procurement Opportunities for Tribal Entrep....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339431&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>India Crosses Historic Milestone of 1 Crore HPV Vaccine Doses Administered in Less Th...:</strong> India Crosses Historic Milestone of 1 Crore HPV Vaccine Doses Administered in Less Th....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339423&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>PM applauds enthusiasm of young participants at Bhajan clubbing event in Varanasi, UP:</strong> PM applauds enthusiasm of young participants at Bhajan clubbing event in Varanasi, UP.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339426&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Announcement of National Gopal Ratna Award 2026 winners -reg.:</strong> Announcement of National Gopal Ratna Award 2026 winners -reg..<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339229&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Minister of State for Agriculture &amp; Farmers Welfare Shri Bhagirath Choudhary attends ...:</strong> Minister of State for Agriculture &amp; Farmers Welfare Shri Bhagirath Choudhary attends ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339554&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>CSIR-NEERI brings experts together to find solutions to air pollution:</strong> CSIR-NEERI brings experts together to find solutions to air pollution.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339543&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Text of PM’s address during inauguration of Nitish Setu and launch of other developme...:</strong> Text of PM’s address during inauguration of Nitish Setu and launch of other developme....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Union Health Minister Shri J.P. Nadda Dedicates Healthcare and Institutional Projects...:</strong> Union Health Minister Shri J.P. Nadda Dedicates Healthcare and Institutional Projects....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339531&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "1:02PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339069&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM to visit West Bengal and Uttar Pradesh on 21 November</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339441&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">BHASHINI Showcases Multilingual AI Applications for Healthcare at Global Digital Heal...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339431&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">GeM Signs MoU with TICCI to Expand Public Procurement Opportunities for Tribal Entrep...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339423&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India Crosses Historic Milestone of 1 Crore HPV Vaccine Doses Administered in Less Th...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339426&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM applauds enthusiasm of young participants at Bhajan clubbing event in Varanasi, UP</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339395&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Air Cargo Import, Delhi Customs foils smuggling attempt of cocaine worth Rs. 5 crore ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339379&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">DRI seizes 8 kg methamphetamine (Yaba) tablets in Agartala; one drug trafficker arres...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339364&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">No Change of Guard Ceremony Tomorrow</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339362&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi inaugurates First SCO Civilisational Dialogue Forum</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339360&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India&#x27;s Critical Mineral Push is Securing Mineral Supplies through both Domestic and ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339229&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Announcement of National Gopal Ratna Award 2026 winners -reg.</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339554&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Minister of State for Agriculture &amp; Farmers Welfare Shri Bhagirath Choudhary attends ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339543&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CSIR-NEERI brings experts together to find solutions to air pollution</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339532&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Text of PM’s address during inauguration of Nitish Setu and launch of other developme...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339531&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Minister Shri J.P. Nadda Dedicates Healthcare and Institutional Projects...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339518&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Indian Panorama 2026 Inaugurated at 57th IFFI; Jury Members Felicitated</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339506&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Women’s Leadership, Innovation and Collective Action Can Shape Solutions to Global Ch...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339510&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Beyond Languages and Borders: Indian Panorama Celebrates the Diversity of Indian Cine...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339488&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Secretary Smt. Punya Salila Srivastava launches NCG VISHWAS at National ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339502&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Celebrating a Century of Cinematic Brilliance: IFFI 2026 Honours Seven Stalwarts of I...</a></li>
 </ul>
 
 </details>
