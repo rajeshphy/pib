@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-23T01:07:36.043197+00:00
+date: 2026-11-23T07:58:34.125399+00:00
 summary: "First SCO Civilisational Dialogue Forum Concludes in New Delhi, Reaffirming Shared Heritage and Strengthening Cultural C...: First SCO Civilisational Dialogu..."
-run_time_ist: "6:37AM"
+run_time_ist: "1:28PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 6:37AM</p>
+  <p class="post-meta">Headline Digest: 1:28PM</p>
 
 <ul class="digest-points">
   <li><strong>First SCO Civilisational Dialogue Forum Concludes in New Delhi, Reaffirming Shared Heritage and Strengthening Cultural C...:</strong> First SCO Civilisational Dialogue Forum Concludes in New Delhi, Reaffirming Shared Heritage and Strengthening Cultural C....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339975&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>PM condoles loss of lives in a mishap in Tiruchirappalli, Tamil Nadu:</strong> PM condoles loss of lives in a mishap in Tiruchirappalli, Tamil Nadu.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340145&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Lok Sabha Speaker Calls for a People’s Movement to Make Yamuna Clean and Ensure Its U...:</strong> Lok Sabha Speaker Calls for a People’s Movement to Make Yamuna Clean and Ensure Its U....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340136&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Union Minister of Commerce and Industry Shri Piyush Goyal Chairs Interaction with Tea...:</strong> Union Minister of Commerce and Industry Shri Piyush Goyal Chairs Interaction with Tea....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340116&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>National Zoological Park organizes 22nd Sunday Bird Walk to Promote Citizen Science a...:</strong> National Zoological Park organizes 22nd Sunday Bird Walk to Promote Citizen Science a....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340112&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Union Environment Minister chairs 92nd Meeting of the Standing Committee of the Natio...:</strong> Union Environment Minister chairs 92nd Meeting of the Standing Committee of the Natio....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340255&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Gyan Bharatam Session at the 1st SCO Civilization Dialogue Forum Reconnects the Manus...:</strong> Gyan Bharatam Session at the 1st SCO Civilization Dialogue Forum Reconnects the Manus....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340254&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>MY Bharat to organise Yuva Samvad on Constitution Day; Programme to cover over 600 di...:</strong> MY Bharat to organise Yuva Samvad on Constitution Day; Programme to cover over 600 di....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340251&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>Ayush Pavilion Emerges as a Major Attraction at India International Trade Fair 2026:</strong> Ayush Pavilion Emerges as a Major Attraction at India International Trade Fair 2026.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340242&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "6:37AM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2339975&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">First SCO Civilisational Dialogue Forum Concludes in New Delhi, Reaffirming Shared Heritage and Strengthening Cultural C...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340255&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Environment Minister chairs 92nd Meeting of the Standing Committee of the Natio...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340254&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Gyan Bharatam Session at the 1st SCO Civilization Dialogue Forum Reconnects the Manus...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340251&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MY Bharat to organise Yuva Samvad on Constitution Day; Programme to cover over 600 di...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340242&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Ayush Pavilion Emerges as a Major Attraction at India International Trade Fair 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Nayi Chetna 5.0 to be Launched on 25 November</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340145&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM condoles loss of lives in a mishap in Tiruchirappalli, Tamil Nadu</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340136&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker Calls for a People’s Movement to Make Yamuna Clean and Ensure Its U...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340116&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister of Commerce and Industry Shri Piyush Goyal Chairs Interaction with Tea...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340112&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Zoological Park organizes 22nd Sunday Bird Walk to Promote Citizen Science a...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340059&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Health Secretary Smt. Punya Salila Srivastava inaugurates Sleep Study Facility ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340044&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Ramayana: Rise of a Legend (Part 1) Opens ‘Films from BRICS’ at 57th IFFI</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340039&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Photography competition and Bhajan evening organised in the run-up to Kashi Tamil San...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340040&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Film Industry Veterans Discuss the Role of Film Schools at 57th IFFI</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340032&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“Thousands of Years of Lived Experiences Nourished by the Ganga”: Bharat Bala and A.R...</a></li>
 </ul>
 
 </details>
