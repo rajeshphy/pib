@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-24T04:58:52.914945+00:00
-summary: "Nayi Chetna 5.0 to be Launched on 25 November: Nayi Chetna 5.0 to be Launched on 25 November. Sources: [1]"
-run_time_ist: "10:28AM"
+date: 2026-11-24T10:13:21.650056+00:00
+summary: "ICMR’s SAMPADA survey shows lower prevalence of anaemia compared to previous national surveys: ICMR’s SAMPADA survey shows lower prevalence of anaemia compar..."
+run_time_ist: "3:43PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 10:28AM</p>
+  <p class="post-meta">Headline Digest: 3:43PM</p>
 
 <ul class="digest-points">
-  <li><strong>Nayi Chetna 5.0 to be Launched on 25 November:</strong> Nayi Chetna 5.0 to be Launched on 25 November.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Prime Minister shares Sanskrit Subhashitam invoking Goddess Ganga:</strong> Prime Minister shares Sanskrit Subhashitam invoking Goddess Ganga.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340708&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Prime Minister conveys greetings on the auspicious occasion of Sri Guru Nanak Dev Ji&#x27;...:</strong> Prime Minister conveys greetings on the auspicious occasion of Sri Guru Nanak Dev Ji&#x27;....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340707&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Prime Minister pays tribute to great Lachit Borphukan on Lachit Diwas:</strong> Prime Minister pays tribute to great Lachit Borphukan on Lachit Diwas.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340706&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Prime Minister extends greetings on Kartik Purnima and Dev Deepawali:</strong> Prime Minister extends greetings on Kartik Purnima and Dev Deepawali.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340705&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>ICMR’s SAMPADA survey shows lower prevalence of anaemia compared to previous national surveys:</strong> ICMR’s SAMPADA survey shows lower prevalence of anaemia compared to previous national surveys.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340476&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Prime Minister shares an article highlighting India’s growing focus on skill developm...:</strong> Prime Minister shares an article highlighting India’s growing focus on skill developm....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340796&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Marathi Film Aadi Anant Explores Intergenerational Bonds, Love and the Realities of C...:</strong> Marathi Film Aadi Anant Explores Intergenerational Bonds, Love and the Realities of C....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>National Milk Day 2026 to Be Celebrated in Patna, Bihar, with Launch of Key Initiativ...:</strong> National Milk Day 2026 to Be Celebrated in Patna, Bihar, with Launch of Key Initiativ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340789&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>The Black Sea Explores Universal Human Emotions Through a Distinctive Cinematic Appro...:</strong> The Black Sea Explores Universal Human Emotions Through a Distinctive Cinematic Appro....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340776&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "10:28AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340195&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Nayi Chetna 5.0 to be Launched on 25 November</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340476&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ICMR’s SAMPADA survey shows lower prevalence of anaemia compared to previous national surveys</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340796&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares an article highlighting India’s growing focus on skill developm...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340795&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Marathi Film Aadi Anant Explores Intergenerational Bonds, Love and the Realities of C...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340789&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">National Milk Day 2026 to Be Celebrated in Patna, Bihar, with Launch of Key Initiativ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340776&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">The Black Sea Explores Universal Human Emotions Through a Distinctive Cinematic Appro...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340728&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice President Shri C. P. Radhakrishnan Visits Gurudwara Rakab Ganj Sahib on Parkash ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340726&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">65th Annual Conference of the Indian Society of Aerospace Medicine (isam) 26 - 27 Nov...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340721&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">APEDA organises stakeholder interaction programme in Varanasi</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340708&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares Sanskrit Subhashitam invoking Goddess Ganga</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340707&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister conveys greetings on the auspicious occasion of Sri Guru Nanak Dev Ji&#x27;...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340706&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister pays tribute to great Lachit Borphukan on Lachit Diwas</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340705&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister extends greetings on Kartik Purnima and Dev Deepawali</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340650&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">List of Outcomes: State visit of the Prime Minister of Nepal to India</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340635&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister Shri Narendra Modi joins the Shabad Kirtan on the Parkash Purab of Sri...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340628&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Joint workshop of the Ministries of Agriculture and Rural Development, on their role ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340597&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Delivery of Anti-submarine Warfare Shallow Water Craft, ‘ashank’ (yard 3036)</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340584&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">English rendering of PM&#x27;s address at the Shabad Kirtan on the Parkash Purab of Sri Gu...</a></li>
 </ul>
 
 </details>
