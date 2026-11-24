@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-24T14:07:33.421405+00:00
-summary: "List of Outcomes: State visit of the Prime Minister of Nepal to India: List of Outcomes: State visit of the Prime Minister of Nepal to India. Sources: [1]"
-run_time_ist: "7:37PM"
+date: 2026-11-24T19:39:15.451109+00:00
+summary: "Prime Minister shares glimpses of Dev Deepawali in Varanasi: Prime Minister shares glimpses of Dev Deepawali in Varanasi. Sources: [1]"
+run_time_ist: "1:09AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 7:37PM</p>
+  <p class="post-meta">Headline Digest: 1:09AM</p>
 
 <ul class="digest-points">
-  <li><strong>List of Outcomes: State visit of the Prime Minister of Nepal to India:</strong> List of Outcomes: State visit of the Prime Minister of Nepal to India.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340650&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Union Minister Dr Virendra Kumar Visits Siddharth Nasha Mukti Kendra in Lucknow:</strong> Union Minister Dr Virendra Kumar Visits Siddharth Nasha Mukti Kendra in Lucknow.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340882&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>From Everyday Life to the Supernatural: Director Akhil Sathyan on the Making of Sarva...:</strong> From Everyday Life to the Supernatural: Director Akhil Sathyan on the Making of Sarva....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340866&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Prime Minister receives a telephone call from the Chancellor of the Federal Republic ...:</strong> Prime Minister receives a telephone call from the Chancellor of the Federal Republic ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340862&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Vice-President Calls for Stronger Global Academic Partnerships to Address Emerging Ec...:</strong> Vice-President Calls for Stronger Global Academic Partnerships to Address Emerging Ec....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340857&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Prime Minister shares glimpses of Dev Deepawali in Varanasi:</strong> Prime Minister shares glimpses of Dev Deepawali in Varanasi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341022&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>“Celebrate Cinema by Bringing People Together”: Gujarati Film, Laalo – Krishna Sada ...:</strong> “Celebrate Cinema by Bringing People Together”: Gujarati Film, Laalo – Krishna Sada ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340969&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Elephants in the Fog Explores the Paradox of Social Acceptance and Exclusion: Directo...:</strong> Elephants in the Fog Explores the Paradox of Social Acceptance and Exclusion: Directo....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340957&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Mid-fest film ‘I Matter’ Explores Identity, Belonging and the Many Layers of Humanity...:</strong> Mid-fest film ‘I Matter’ Explores Identity, Belonging and the Many Layers of Humanity....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340951&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>President of India Graces Bali Jatra Festival 2026 at Kataka:</strong> President of India Graces Bali Jatra Festival 2026 at Kataka.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340948&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "7:37PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340650&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">List of Outcomes: State visit of the Prime Minister of Nepal to India</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341022&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister shares glimpses of Dev Deepawali in Varanasi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340969&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“Celebrate Cinema by Bringing People Together”: Gujarati Film, Laalo – Krishna Sada ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340957&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Elephants in the Fog Explores the Paradox of Social Acceptance and Exclusion: Directo...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340951&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Mid-fest film ‘I Matter’ Explores Identity, Belonging and the Many Layers of Humanity...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340948&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Graces Bali Jatra Festival 2026 at Kataka</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340938&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Ambedkar Foundation to Organise Constitution Day Celebration on 26 November Thurs...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340919&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">“Not Only Filmmakers, Every Human Being Breathes Stories”: Bogdan Mureșanu at IFFI Ma...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340912&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Gala Premiere at IFFI showcases ambitious Malayalam film Half blending supernatural e...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340906&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Saurabh Sachdeva Urges Aspiring Actors to Overcome Fear, Embrace Risks and Align Acti...</a></li>
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340882&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr Virendra Kumar Visits Siddharth Nasha Mukti Kendra in Lucknow</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340866&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Everyday Life to the Supernatural: Director Akhil Sathyan on the Making of Sarva...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340862&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Prime Minister receives a telephone call from the Chancellor of the Federal Republic ...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340857&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Calls for Stronger Global Academic Partnerships to Address Emerging Ec...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340845&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Space Economy Set for a Massive Leap to USD 40–45 billion as Private Sector R...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340843&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Dr Virendra Kumar To Launch SAMAVESH And New E-Anudaan Portal Tomorrow...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340846&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Jyotiraditya M. Scindia Chairs Telecom Startups and MSME Conclave...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340841&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Her Lens, Her Legacy, Her Liberty: Women Filmmakers on Redefining Narratives in World...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340815&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">‘Awtar Kaul: The (In)Complete Story’ Revisits the Life and Cinematic Legacy of Filmma...</a></li>
 </ul>
 
 </details>
