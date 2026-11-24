@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-24T19:39:15.451109+00:00
+date: 2026-11-24T23:33:12.302300+00:00
 summary: "Prime Minister shares glimpses of Dev Deepawali in Varanasi: Prime Minister shares glimpses of Dev Deepawali in Varanasi. Sources: [1]"
-run_time_ist: "1:09AM"
+run_time_ist: "5:03AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 1:09AM</p>
+  <p class="post-meta">Headline Digest: 5:03AM</p>
 
 <ul class="digest-points">
   <li><strong>Prime Minister shares glimpses of Dev Deepawali in Varanasi:</strong> Prime Minister shares glimpses of Dev Deepawali in Varanasi.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341022&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
