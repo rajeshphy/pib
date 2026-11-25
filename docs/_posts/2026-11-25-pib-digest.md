@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-25T13:20:07.048122+00:00
+date: 2026-11-25T18:46:43.046637+00:00
 summary: "Cabinet approves Rs.11,000 crore Scheme for Enhancement of Construction and Infrastructure Equipment (CIE) Manufacturing...: Cabinet approves Rs.11,000 crore..."
-run_time_ist: "6:50PM"
+run_time_ist: "12:16AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 6:50PM</p>
+  <p class="post-meta">Headline Digest: 12:16AM</p>
 
 <ul class="digest-points">
   <li><strong>Cabinet approves Rs.11,000 crore Scheme for Enhancement of Construction and Infrastructure Equipment (CIE) Manufacturing...:</strong> Cabinet approves Rs.11,000 crore Scheme for Enhancement of Construction and Infrastructure Equipment (CIE) Manufacturing....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341171&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>Constitution Day, 2026 to be observed on 26th November:</strong> Constitution Day, 2026 to be observed on 26th November.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341449&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>Cabinet Approves MoU with Republic of Singapore for Aviation MRO:</strong> Cabinet Approves MoU with Republic of Singapore for Aviation MRO.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341444&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Major Step by India Towards Self-Reliance in Urea Production; 6 New Plants Approved:</strong> Major Step by India Towards Self-Reliance in Urea Production; 6 New Plants Approved.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341442&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>Shri Shivraj Singh Chouhan and Smt. Annapurna Devi Launch Nayi Chetna 5.0:</strong> Shri Shivraj Singh Chouhan and Smt. Annapurna Devi Launch Nayi Chetna 5.0.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341403&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Union Minister Shri Shivraj Singh Chouhan Holds High-Level Meeting with Madhya Prades...:</strong> Union Minister Shri Shivraj Singh Chouhan Holds High-Level Meeting with Madhya Prades....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341697&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Statement on USTR Section 301 Determination:</strong> Statement on USTR Section 301 Determination.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341690&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Celebrating the Joy of Cinema: IFFI Parade Brings Goa’s Cultural Extravaganza to the ...:</strong> Celebrating the Joy of Cinema: IFFI Parade Brings Goa’s Cultural Extravaganza to the ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341617&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>India wins the Visitors’ Lion for Best National Participation at the 61st Venice Art ...:</strong> India wins the Visitors’ Lion for Best National Participation at the 61st Venice Art ....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341610&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -28,15 +28,15 @@ run_time_ist: "6:50PM"
 
 <ul class="source-list">
   <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341171&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet approves Rs.11,000 crore Scheme for Enhancement of Construction and Infrastructure Equipment (CIE) Manufacturing...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341449&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Constitution Day, 2026 to be observed on 26th November</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341444&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cabinet Approves MoU with Republic of Singapore for Aviation MRO</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341442&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Major Step by India Towards Self-Reliance in Urea Production; 6 New Plants Approved</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341403&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Shri Shivraj Singh Chouhan and Smt. Annapurna Devi Launch Nayi Chetna 5.0</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341400&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Unveils Life-size Bronze Statue of Late Shri Jawaharlal Darda in Yavat...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341392&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Cheaper, Safer and Faster Credit for Rural Women: Department of Rural Development and...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341377&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">NHAI to Ensure Availability of Incident Management Services Before Opening of Nationa...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341320&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">From Financial Hardship To Academic Aspirations</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341316&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Department of Drinking Water and Sanitation Signs MoU with Directorate General of Tra...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341697&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Shri Shivraj Singh Chouhan Holds High-Level Meeting with Madhya Prades...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341690&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Statement on USTR Section 301 Determination</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341617&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Celebrating the Joy of Cinema: IFFI Parade Brings Goa’s Cultural Extravaganza to the ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341610&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India wins the Visitors’ Lion for Best National Participation at the 61st Venice Art ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341595&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Subtitling is more than Translation, it is the Art of Carrying Emotions Across Langua...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341582&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">WAVES Film Bazaar Marks 20th Edition with 2,288 Delegates from 54 Countries</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341559&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">ICGS Sujay Concludes Visit to Trincomalee</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341536&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Krishnavataram brings Lord Krishna’s life to the screen through Satyabhama’s eyes</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341525&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Education Minister, Shri Pralhad Joshi chairs the Meeting of the Parliamentary ...</a></li>
 </ul>
 
 </details>
