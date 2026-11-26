@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-26T18:34:36.457242+00:00
+date: 2026-11-26T23:07:12.216315+00:00
 summary: "India AI Missionsupported Chariot1 Foundation Models Launched, Strengthening Indias Indigenous AI Capabilities: India AI Missionsupported Chariot1 Foundation..."
-run_time_ist: "12:04AM"
+run_time_ist: "4:37AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 12:04AM</p>
+  <p class="post-meta">Headline Digest: 4:37AM</p>
 
 <ul class="digest-points">
   <li><strong>India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening Indias Indigenous AI Capabilities:</strong> India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening Indias Indigenous AI Capabilities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341725&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
