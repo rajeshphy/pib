@@ -1,21 +1,21 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-27T03:16:29.386320+00:00
-summary: "India AI Missionsupported Chariot1 Foundation Models Launched, Strengthening Indias Indigenous AI Capabilities: India AI Missionsupported Chariot1 Foundation..."
-run_time_ist: "8:46AM"
+date: 2026-11-27T08:54:41.860795+00:00
+summary: "Union Minister Nitin Gadkari Announces National Highway Projects Worth ₹75,000 Crore for West Bengal: Union Minister Nitin Gadkari Announces National Highway..."
+run_time_ist: "2:24PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 8:46AM</p>
+  <p class="post-meta">Headline Digest: 2:24PM</p>
 
 <ul class="digest-points">
-  <li><strong>India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening Indias Indigenous AI Capabilities:</strong> India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening Indias Indigenous AI Capabilities.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341725&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
-  <li><strong>WOAH PVS Mission Begins Evaluation of India&#x27;s Aquatic Animal Health Services:</strong> WOAH PVS Mission Begins Evaluation of India&#x27;s Aquatic Animal Health Services.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342239&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
-  <li><strong>India Post Accelerates Its Transformation with ₹2,632 Crore Financial Outlay Followin...:</strong> India Post Accelerates Its Transformation with ₹2,632 Crore Financial Outlay Followin....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342219&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
-  <li><strong>Through Aaryan’s Lens: Sreehari Haridas discusses mockumentary storytelling, personal...:</strong> Through Aaryan’s Lens: Sreehari Haridas discusses mockumentary storytelling, personal....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342215&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
-  <li><strong>India and UAE agree to accelerate co-development &amp; co-production of next generation d...:</strong> India and UAE agree to accelerate co-development &amp; co-production of next generation d....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342210&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
+  <li><strong>Union Minister Nitin Gadkari Announces National Highway Projects Worth ₹75,000 Crore for West Bengal:</strong> Union Minister Nitin Gadkari Announces National Highway Projects Worth ₹75,000 Crore for West Bengal.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342122&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
+  <li><strong>Vice-President inaugurates New Super Specialty Block of Holy Family Hospital in New D...:</strong> Vice-President inaugurates New Super Specialty Block of Holy Family Hospital in New D....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342469&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 2</a></span></li>
+  <li><strong>Vice-President Shri C. P. Radhakrishnan to inaugurate the fifth edition of Kashi Tami...:</strong> Vice-President Shri C. P. Radhakrishnan to inaugurate the fifth edition of Kashi Tami....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342468&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 3</a></span></li>
+  <li><strong>Lok Sabha Speaker Pays Tributes to Shri G. V. Mavalankar on His Birth Anniversary:</strong> Lok Sabha Speaker Pays Tributes to Shri G. V. Mavalankar on His Birth Anniversary.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342461&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 4</a></span></li>
+  <li><strong>CCI approves proposed combination involving Samara Alternate Investment Fund – Scheme...:</strong> CCI approves proposed combination involving Samara Alternate Investment Fund – Scheme....<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342455&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -27,16 +27,16 @@ run_time_ist: "8:46AM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341725&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening Indias Indigenous AI Capabilities</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342239&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">WOAH PVS Mission Begins Evaluation of India&#x27;s Aquatic Animal Health Services</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342219&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India Post Accelerates Its Transformation with ₹2,632 Crore Financial Outlay Followin...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342215&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Through Aaryan’s Lens: Sreehari Haridas discusses mockumentary storytelling, personal...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342210&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India and UAE agree to accelerate co-development &amp; co-production of next generation d...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342207&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Pension Reforms Division in Department of Financial Services tops Grievance Redressal...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342209&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Dr. Ambedkar Foundation Celebrates Constitution Day 2026; Reaffirms Commitment to Con...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342206&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Humane Character of the Story and Alignment with Gandhian Ideals Foremost Considerati...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342197&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Decoding the Oscars: Natalie Wade Walks Filmmakers Through Submission Process and Glo...</a></li>
-  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342198&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">President of India Graces the Constitution Day Celebrations Organised By the Supreme ...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342122&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Union Minister Nitin Gadkari Announces National Highway Projects Worth ₹75,000 Crore for West Bengal</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342469&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President inaugurates New Super Specialty Block of Holy Family Hospital in New D...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342468&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Vice-President Shri C. P. Radhakrishnan to inaugurate the fifth edition of Kashi Tami...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342461&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Lok Sabha Speaker Pays Tributes to Shri G. V. Mavalankar on His Birth Anniversary</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342455&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">CCI approves proposed combination involving Samara Alternate Investment Fund – Scheme...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342431&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Two-day Power Ministers’ Conference begins in New Delhi</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342421&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">India’s Growth Story Remains Strong, Resilient and Trustworthy Amid Global Uncertaint...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342417&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">MWCD and MSDE to jointly launch NAVYA 2.0 in Haridwar on 28 November 2026</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342386&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">STPI Inaugurates its 75th Centre in Bareilly to Strengthen Uttar Pradesh’s IT/ITeS an...</a></li>
+  <li><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342382&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">PM shares a Sanskrit Subhashitam highlighting the spiritual bliss of satsang and devo...</a></li>
 </ul>
 
 </details>
