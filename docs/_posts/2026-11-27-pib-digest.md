@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "PIB Regional Updates"
-date: 2026-11-27T18:22:49.617569+00:00
+date: 2026-11-27T22:47:46.344107+00:00
 summary: "Direct Recruitment to various posts in Government of India: Direct Recruitment to various posts in Government of India. Sources: [1]"
-run_time_ist: "11:52PM"
+run_time_ist: "4:17AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">PIB Brief</a>
-  <p class="post-meta">Headline Digest: 11:52PM</p>
+  <p class="post-meta">Headline Digest: 4:17AM</p>
 
 <ul class="digest-points">
   <li><strong>Direct Recruitment to various posts in Government of India:</strong> Direct Recruitment to various posts in Government of India.<span class="source-chips"><a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342701&amp;lang=1&amp;reg=48" target="_blank" rel="noopener noreferrer">Source 1</a></span></li>
